@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 590,
+			"name": "(Stage) Lisa Imai",
+			"nick": "lisa",
+			"alias": "r1",
+			"star": "2",
+			"skname": "High Tension",
+			"skill": "Restores 200 life.",
+			"stat": "Cool",
+			"pf": 3795,
+			"tech": 4624,
+			"vis": 5919,
+			"total": 14338,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/590Lisa-Imai-Cool-UvFTqe.png",
+			"img": "http://i.bandori.party/u/c/art/590Lisa-Imai-Cool-pWfbcA.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/590Lisa-Imai-Cool-pWfbcA.png"
+		},
+		{
+			"id": 610,
+			"name": "(Watching Thoughts) Lisa Imai",
+			"nick": "lisa",
+			"alias": "r2",
+			"star": "2",
+			"skname": "I'll be waiting for your answer.",
+			"skill": "Boosts score by +30% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 4488,
+			"tech": 6055,
+			"vis": 3584,
+			"total": 14127,
+			"origin": "Gacha: The Awakened Diva (31 March 2017)",
+			"icon": "http://i.bandori.party/u/c/610Lisa-Imai-Cool-uddcAf.png",
+			"img": "http://i.bandori.party/u/c/art/610Lisa-Imai-Cool-DybNmN.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/610Lisa-Imai-Cool-DybNmN.png"
+		}
+	]
+}

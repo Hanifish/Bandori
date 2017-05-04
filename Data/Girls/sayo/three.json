@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 587,
+			"name": "(Twin Trouble) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "Unwavering Preparedness",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 8400,
+			"tech": 11224,
+			"vis": 6770,
+			"total": 26394,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/587Sayo-Hikawa-Cool-J6pshb.png",
+			"img": "http://i.bandori.party/u/c/art/587Sayo-Hikawa-Cool-Z9JRZx.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/587Sayo-Hikawa-Cool-bWbia4.png"
+		}
+	]
+}

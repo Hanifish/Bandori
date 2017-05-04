@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 512,
+			"name": "(Choco Cornet Time) Rimi Ushigome",
+			"nick": "rimi",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "I love choco-coronets!",
+			"skill": "Boosts score by +100% for 5 seconds.",
+			"stat": "Powerful",
+			"pf": 7248,
+			"tech": 9253,
+			"vis": 13140,
+			"total": 29641,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/512Rimi-Ushigome-Power-O5d8Yd.png",
+			"img": "http://i.bandori.party/u/c/art/512Rimi-Ushigome-Power-YfwWnf.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/512Rimi-Ushigome-Power-5eE9Pm.png"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 591,
+			"name": "(Traces of Effort) Lisa Imai",
+			"nick": "lisa",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "Always by your side",
+			"skill": "Turns Good+ notes into Perfect notes for 5 seconds.",
+			"stat": "Pure",
+			"pf": 8829,
+			"tech": 10544,
+			"vis": 7488,
+			"total": 26861,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/591Lisa-Imai-Pure-LFxpiG.png",
+			"img": "http://i.bandori.party/u/c/art/591Lisa-Imai-Pure-dgNQuq.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/591Lisa-Imai-Pure-wTO7t3.png"
+		}
+	]
+}

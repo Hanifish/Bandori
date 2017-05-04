@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 511,
+			"name": "(Mustering Courage) Rimi Ushigome",
+			"nick": "rimi",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "A Step of Faith",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 8557,
+			"tech": 9493,
+			"vis": 9640,
+			"total": 27690,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/511Rimi-Ushigome-Cool-JHo1eA.png",
+			"img": "http://i.bandori.party/u/c/art/511Rimi-Ushigome-Cool-F3HxqH.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/511Rimi-Ushigome-Cool-WgncuS.png"
+		},
+		{
+			"id": 616,
+			"name": "(The Sister I Admire) Rimi Ushigome",
+			"nick": "rimi",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "I want to write a song!",
+			"skill": "Restores 300 life.",
+			"stat": "Happy",
+			"pf": 11729,
+			"tech": 6361,
+			"vis": 8149,
+			"total": 26239,
+			"origin": "Event: Rimi's Present Song (21 April 2017)",
+			"icon": "http://i.bandori.party/u/c/616Rimi-Ushigome-Happy-ZCuFLa.png",
+			"img": "http://i.bandori.party/u/c/art/616Rimi-Ushigome-Happy-cnexZr.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/616Rimi-Ushigome-Happy-e4Cn6B.png"
+		}
+	]
+}

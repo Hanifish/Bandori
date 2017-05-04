@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 523,
+			"name": "(No More Hesitating) Ran Mitake",
+			"nick": "ran",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "A Cry of Enthusiasm",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Powerful",
+			"pf": 9693,
+			"tech": 8502,
+			"vis": 9428,
+			"total": 27623,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/523Ran-Mitake-Power-2zKdh8.png",
+			"img": "http://i.bandori.party/u/c/art/523Ran-Mitake-Power-ZPchJv.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/523Ran-Mitake-Power-Z4Dd49.png"
+		},
+		{
+			"id": 627,
+			"name": "(The Memories in the Evening Shadows) Ran Mitake",
+			"nick": "ran",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "打ちつける情熱（パトス）",
+			"skill": "Turns Good+ notes into Perfect notes for 5 seconds.",
+			"stat": "Pure",
+			"pf": 6195,
+			"tech": 8593,
+			"vis": 11425,
+			"total": 26213,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/627Ran-Mitake-Pure-wHegPt.png",
+			"img": "http://i.bandori.party/u/c/art/627Ran-Mitake-Pure-ZhpEOh.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/627Ran-Mitake-Pure-Eupos7.png"
+		}
+	]
+}

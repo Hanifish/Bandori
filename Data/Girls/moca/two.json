@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 526,
+			"name": "(Stage) Moca Aoba",
+			"nick": "moca",
+			"alias": "r1",
+			"star": "2",
+			"skname": "Munch, Munch",
+			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
+			"stat": "Pure",
+			"pf": 6301,
+			"tech": 3338,
+			"vis": 4326,
+			"total": 13965,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/526Moca-Aoba-Pure-xFBz88.png",
+			"img": "http://i.bandori.party/u/c/art/526Moca-Aoba-Pure-Z1kwNM.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/526Moca-Aoba-Pure-Z1kwNM.png"
+		}
+	]
+}

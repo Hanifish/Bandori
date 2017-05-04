@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 508,
+			"name": "(Sharing Happiness) Tae Hanazono",
+			"nick": "tae",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "A melodic note",
+			"skill": "Restores 500 life.",
+			"stat": "Happy",
+			"pf": 7248,
+			"tech": 13263,
+			"vis": 9132,
+			"total": 29643,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/508Tae-Hanazono-Happy-kL1LDF.png",
+			"img": "http://i.bandori.party/u/c/art/508Tae-Hanazono-Happy-UfV5ds.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/508Tae-Hanazono-Happy-Gz22k2.png"
+		},
+		{
+			"id": 618,
+			"name": "(Staying Over in my PJs) Tae Hanazono",
+			"nick": "tae",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Practice with a Smile",
+			"skill": "Turns Bad+ notes into Perfect notes for 5 seconds.",
+			"stat": "Powerful",
+			"pf": 11070,
+			"tech": 10477,
+			"vis": 9292,
+			"total": 30839,
+			"origin": "Gacha: Present For You (21 April 2017)",
+			"icon": "http://i.bandori.party/u/c/618Tae-Hanazono-Power-0EnisU.png",
+			"img": "http://i.bandori.party/u/c/art/618Tae-Hanazono-Power-GCBvJ1.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/618Tae-Hanazono-Power-7GMSOO.png"
+		}
+	]
+}

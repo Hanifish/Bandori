@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 534,
+			"name": "(Stage) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "r1",
+			"star": "2",
+			"skname": "Passion of Friendship",
+			"skill": "Restores 200 life.",
+			"stat": "Cool",
+			"pf": 4215,
+			"tech": 4885,
+			"vis": 5573,
+			"total": 14673,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/534Tomoe-Udagawa-Cool-c8A2qO.png",
+			"img": "http://i.bandori.party/u/c/art/534Tomoe-Udagawa-Cool-L2TJhq.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/534Tomoe-Udagawa-Cool-L2TJhq.png"
+		},
+		{
+			"id": 629,
+			"name": "(A Childhood Friend of Many Years) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "r1",
+			"star": "2",
+			"skname": "心配と思いやり",
+			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
+			"stat": "Happy",
+			"pf": 3674,
+			"tech": 4834,
+			"vis": 5783,
+			"total": 14291,
+			"origin": "Event: Shadows of the Evening Have Become Clearer (May 2017)",
+			"icon": "http://i.bandori.party/u/c/629Tomoe-Udagawa-Happy-oIYrwK.png",
+			"img": "http://i.bandori.party/u/c/art/629Tomoe-Udagawa-Happy-hQUQNK.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/629Tomoe-Udagawa-Happy-hQUQNK.png"
+		}
+	]
+}

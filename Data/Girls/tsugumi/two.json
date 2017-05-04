@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 538,
+			"name": "(Stage) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "r1",
+			"star": "2",
+			"skname": "The Results of Practice",
+			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
+			"stat": "Powerful",
+			"pf": 5261,
+			"tech": 4596,
+			"vis": 5113,
+			"total": 14970,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/538Tsugumi-Hazawa-Power-xdr67F.png",
+			"img": "http://i.bandori.party/u/c/art/538Tsugumi-Hazawa-Power-YIz7lY.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/538Tsugumi-Hazawa-Power-YIz7lY.png"
+		},
+		{
+			"id": 625,
+			"name": "(Meteor Shower) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "r2",
+			"star": "2",
+			"skname": "Our Glow",
+			"skill": "Restores 200 life.",
+			"stat": "Pure",
+			"pf": 4337,
+			"tech": 5798,
+			"vis": 4156,
+			"total": 14291,
+			"origin": "Event: Searching for the Stars (30 April 2017)",
+			"icon": "http://i.bandori.party/u/c/625Tsugumi-Hazawa-Pure-4tEcJ2.png",
+			"img": "http://i.bandori.party/u/c/art/625Tsugumi-Hazawa-Pure-FFAIdH.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/625Tsugumi-Hazawa-Pure-FFAIdH.png"
+		}
+	]
+}

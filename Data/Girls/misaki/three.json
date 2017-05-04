@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 559,
+			"name": "(Michelle's Secret) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "Hello, Michelle",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Happy",
+			"pf": 9348,
+			"tech": 8290,
+			"vis": 9772,
+			"total": 27410,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/559Michelle-Happy-gSFoxq.png",
+			"img": "http://i.bandori.party/u/c/art/559Michelle-Happy-vr9GIq.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/559Michelle-Happy-LE0ukx.png"
+		},
+		{
+			"id": 613,
+			"name": "(Confession of Love) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "U-um... I l-like... you...",
+			"skill": "Restores 300 life.",
+			"stat": "Powerful",
+			"pf": 8509,
+			"tech": 6879,
+			"vis": 11119,
+			"total": 26507,
+			"origin": "Event: The Phantom Thief of HaroHapi and the Luxury Cruise Ship! (13 April 2017)",
+			"icon": "http://i.bandori.party/u/c/613Michelle-Power-y7x1gH.png",
+			"img": "http://i.bandori.party/u/c/art/613Michelle-Power-oU1Vay.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/613Michelle-Power-at6q41.png"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 606,
+			"name": "(Bird Cage's Song) Yukina Minato",
+			"nick": "yukina",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "Violent shout",
+			"skill": "Boosts score by +100% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 13200,
+			"tech": 7188,
+			"vis": 9192,
+			"total": 29580,
+			"origin": "Gacha: The Awakened Diva (31 April 2017)",
+			"icon": "http://i.bandori.party/u/c/606Yukina-Minato-Cool-ec3UFm.png",
+			"img": "http://i.bandori.party/u/c/art/606Yukina-Minato-Cool-ZuLqX0.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/606Yukina-Minato-Cool-vh75Pa.png"
+		}
+	]
+}

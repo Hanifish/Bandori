@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 543,
+			"name": "(Invincible Hero) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "Make the World Smile!",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Powerful",
+			"pf": 9348,
+			"tech": 8290,
+			"vis": 9772,
+			"total": 27410,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/543Kokoro-Tsurumaki-Power-6NeghG.png",
+			"img": "http://i.bandori.party/u/c/art/543Kokoro-Tsurumaki-Power-WOM898.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/543Kokoro-Tsurumaki-Power-0Ahk6u.png"
+		},
+		{
+			"id": 603,
+			"name": "(Hanami Special!) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "Extended Cherry Blossom Viewing Race",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Pure",
+			"pf": 10356,
+			"tech": 7809,
+			"vis": 9018,
+			"total": 27183,
+			"origin": "Gacha: Cherry Blossom Viewing (24 March 2017)",
+			"icon": "http://i.bandori.party/u/c/603Kokoro-Tsurumaki-Pure-0xzCfK.png",
+			"img": "http://i.bandori.party/u/c/art/603Kokoro-Tsurumaki-Pure-a9Ovog.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/603Kokoro-Tsurumaki-Pure-b6rVXV.png"
+		}
+	]
+}

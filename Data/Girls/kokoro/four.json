@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 611,
+			"name": "(The Famous Detective, On Board!) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "Wait up, Mister Thief!",
+			"skill": "Boosts score by +100% for 5 seconds.",
+			"stat": "Happy",
+			"pf": 10533,
+			"tech": 9349,
+			"vis": 1101,
+			"total": 30892,
+			"origin": "Gacha: Detective Kokoro (13 April 2017)",
+			"icon": "http://i.bandori.party/u/c/611Kokoro-Tsurumaki-Happy-I8NfFD.png",
+			"img": "http://i.bandori.party/u/c/art/611Kokoro-Tsurumaki-Happy-6X74F3.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/611Kokoro-Tsurumaki-Happy-vLZGD1.png"
+		}
+	]
+}

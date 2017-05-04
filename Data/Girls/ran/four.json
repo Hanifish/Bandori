@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 621,
+			"name": "(The Proof That I Am Here) Ran Mitake",
+			"nick": "ran",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "Feeling Elated",
+			"skill": "Boosts score by +100% for 5 seconds.",
+			"stat": "Pure",
+			"pf": 8872,
+			"tech": 10221,
+			"vis": 11607,
+			"total": 30700,
+			"origin": "Gacha: Starlight Journey (30 April 2017)",
+			"icon": "http://i.bandori.party/u/c/621Ran-Mitake-Pure-bnZy9H.png",
+			"img": "http://i.bandori.party/u/c/art/621Ran-Mitake-Pure-7mmJeu.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/621Ran-Mitake-Pure-15xRTd.png"
+		}
+	]
+}

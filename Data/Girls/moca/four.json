@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 626,
+			"name": "(The Memories I Want to Accept) Moca Aoba",
+			"nick": "moca",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "読解スキル",
+			"skill": "Turns Bad+ notes into Perfect notes for 5 seconds.",
+			"stat": "Cool",
+			"pf": 10920,
+			"tech": 9588,
+			"vis": 10625,
+			"total": 31133,
+			"origin": "Gacha: Reminiscence of the Scarlet Sky (May 2017)",
+			"icon": "http://i.bandori.party/u/c/626Moca-Aoba-Cool-8SA4MI.png",
+			"img": "http://i.bandori.party/u/c/art/626Moca-Aoba-Cool-d5m2wV.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/626Moca-Aoba-Cool-vfn25U.png"
+		}
+	]
+}

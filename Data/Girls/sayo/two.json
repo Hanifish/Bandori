@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 586,
+			"name": "(Stage) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "r1",
+			"star": "2",
+			"skname": "Tone of Harmony",
+			"skill": "Restores 200 life.",
+			"stat": "Pure",
+			"pf": 3369,
+			"tech": 4357,
+			"vis": 6270,
+			"total": 13996,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/586Sayo-Hikawa-Pure-xorIAV.png",
+			"img": "http://i.bandori.party/u/c/art/586Sayo-Hikawa-Pure-CJG4q3.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/586Sayo-Hikawa-Pure-CJG4q3.png"
+		},
+		{
+			"id": 609,
+			"name": "(The Sound I Want to Resonate) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "r2",
+			"star": "2",
+			"skname": "Mysterious sense of unity.",
+			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
+			"stat": "Happy",
+			"pf": 3795,
+			"tech": 5978,
+			"vis": 4563,
+			"total": 14336,
+			"origin": "Event: Connecting Thoughts, The Incomplete Song (5 April 2017)",
+			"icon": "http://i.bandori.party/u/c/609Sayo-Hikawa-Happy-9MYFj9.png",
+			"img": "http://i.bandori.party/u/c/art/609Sayo-Hikawa-Happy-NfBw06.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/609Sayo-Hikawa-Happy-NfBw06.png"
+		}
+	]
+}

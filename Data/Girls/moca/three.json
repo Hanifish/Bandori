@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 527,
+			"name": "(Significance of Childhood Friend) Moca Aoba",
+			"nick": "moca",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "That Day's Sunset",
+			"skill": "Restores 300 life.",
+			"stat": "Happy",
+			"pf": 8066,
+			"tech": 6138,
+			"vis": 11813,
+			"total": 26017,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/527Moca-Aoba-Happy-Us9hin.png",
+			"img": "http://i.bandori.party/u/c/art/527Moca-Aoba-Happy-dkHY2l.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/527Moca-Aoba-Happy-TuMwsM.png"
+		}
+	]
+}

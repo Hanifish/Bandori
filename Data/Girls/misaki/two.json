@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 558,
+			"name": "(Stage) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "r1",
+			"star": "2",
+			"skname": "Is this not good enough?",
+			"skill": "Restores 200 life.",
+			"stat": "Happy",
+			"pf": 5606,
+			"tech": 4181,
+			"vis": 4856,
+			"total": 14643,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/558Michelle-Happy-ajOA3i.png",
+			"img": "http://i.bandori.party/u/c/art/558Michelle-Happy-W9slv1.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/558Michelle-Happy-W9slv1.png"
+		},
+		{
+			"id": 605,
+			"name": "(Sakura Michelle) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "r2",
+			"star": "2",
+			"skname": "Cherry Blossom Viewing Looks Fun~",
+			"skill": "Restores 200 life.",
+			"stat": "Powerful",
+			"pf": 5008,
+			"tech": 5365,
+			"vis": 4415,
+			"total": 14788,
+			"origin": "Event: Blooming Sakura Party! (24 March 2017)",
+			"icon": "http://i.bandori.party/u/c/605Michelle-Power-yXyTON.png",
+			"img": "http://i.bandori.party/u/c/art/605Michelle-Power-n9ahtn.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/605Michelle-Power-n9ahtn.png"
+		}
+	]
+}

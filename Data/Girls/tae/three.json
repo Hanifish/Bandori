@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 507,
+			"name": "(Everyone's Song) Tae Hanazono",
+			"nick": "tae",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "Fingers of a guitarist, it is said",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Pure",
+			"pf": 11866,
+			"tech": 8012,
+			"vis": 6083,
+			"total": 25961,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/507Tae-Hanazono-Pure-I6b8zV.png",
+			"img": "http://i.bandori.party/u/c/art/507Tae-Hanazono-Pure-iePZKC.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/507Tae-Hanazono-Pure-Mn5Idz.png"
+		}
+	]
+}
