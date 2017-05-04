@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 595,
+			"name": "(Little Demon King) Ako Udagawa",
+			"nick": "ako",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "Angel's Smile",
+			"skill": "Boosts score by +60% for 5 seconds",
+			"stat": "Powerful",
+			"pf": 9693,
+			"tech": 8502,
+			"vis": 9428,
+			"total": 27623,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/595Ako-Udagawa-Power-oakSRj.png",
+			"img": "http://i.bandori.party/u/c/art/595Ako-Udagawa-Power-hczcZj.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/595Ako-Udagawa-Power-At4zVt.png"
+		},
+		{
+			"id": 607,
+			"name": "(Single-minded Ambition) Ako Udagawa",
+			"nick": "ako",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "This song... It's so much fun!",
+			"skill": "Turns Good+ notes into Perfect notes for 5 seconds.",
+			"stat": "Cool",
+			"pf": 6413,
+			"tech": 8201,
+			"vis": 11675,
+			"total": 26289,
+			"origin": "Gacha: The Awakened Diva (31 March 2017)",
+			"icon": "http://i.bandori.party/u/c/607Ako-Udagawa-Cool-UiUI3o.png",
+			"img": "http://i.bandori.party/u/c/art/607Ako-Udagawa-Cool-LJ2Dxo.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/607Ako-Udagawa-Cool-NKEMph.png"
+		}
+	]
+}

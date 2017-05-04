@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 530,
+			"name": "(Stage) Himari Uehara",
+			"nick": "himari",
+			"alias": "r1",
+			"star": "2",
+			"skname": "I'd Be the Leader",
+			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
+			"stat": "Happy",
+			"pf": 6301,
+			"tech": 3338,
+			"vis": 4326,
+			"total": 13965,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/530Himari-Uehara-Happy-rgn5qI.png",
+			"img": "http://i.bandori.party/u/c/art/530Himari-Uehara-Happy-iedk5c.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/530Himari-Uehara-Happy-iedk5c.png"
+		},
+		{
+			"id": 630,
+			"name": "(懐かしい音源) Himari Uehara",
+			"nick": "himari",
+			"alias": "r2",
+			"star": "2",
+			"skname": "うふっ。うふふっ♪",
+			"skill": "Boosts score by +30% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 4093,
+			"tech": 5095,
+			"vis": 5438,
+			"total": 14626,
+			"origin": "Gacha: Reminiscence of the Scarlet Sky (May 2017)",
+			"icon": "http://i.bandori.party/u/c/630Himari-Uehara-Cool-yWSVu1.png",
+			"img": "http://i.bandori.party/u/c/art/630Himari-Uehara-Cool-ct4bXn.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/630Himari-Uehara-Cool-ct4bXn.png"
+		}
+	]
+}

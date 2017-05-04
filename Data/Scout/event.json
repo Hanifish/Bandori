@@ -1,0 +1,31 @@
+{
+	"eventTwo": [
+		
+		
+	],
+	"eventThree": [
+		
+
+	],
+	"eventFour": [
+		
+		{
+			"id": 622,
+			"name": "(Sound of the Start) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "ur2",
+			"star": "3",
+			"skname": "The Feelings of That Day!",
+			"skill": "Restores 500 life.",
+			"stat": "Pure",
+			"pf": 10416,
+			"tech": 11129,
+			"vis": 9232,
+			"total": 30777,
+			"origin": "Gacha: Starlight Journey (30 April 2017)",
+			"icon": "http://i.bandori.party/u/c/622Kasumi-Toyama-Pure-ZV2UdO.png",
+			"img": "http://i.bandori.party/u/c/art/622Kasumi-Toyama-Pure-urRyNG.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/622Kasumi-Toyama-Pure-ujhjOv.png"
+		}
+	]
+}

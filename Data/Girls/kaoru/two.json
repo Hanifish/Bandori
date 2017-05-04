@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 546,
+			"name": "(Stage) Kaoru Seta",
+			"nick": "kaoru",
+			"alias": "r1",
+			"star": "2",
+			"skname": "Shakespeare, I say",
+			"skill": "Restores 200 life.",
+			"stat": "Cool",
+			"pf": 4215,
+			"tech": 4885,
+			"vis": 5573,
+			"total": 14673,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/546Kaoru-Seta-Cool-Td6zu9.png",
+			"img": "http://i.bandori.party/u/c/art/546Kaoru-Seta-Cool-AGTnEo.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/546Kaoru-Seta-Cool-AGTnEo.png"
+		}
+	]
+}

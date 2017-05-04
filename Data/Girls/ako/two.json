@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 594,
+			"name": "(Stage) Ako Udagawa",
+			"nick": "ako",
+			"alias": "r1",
+			"star": "2",
+			"skname": "Burn! (The opponent dies)",
+			"skill": "Boosts score by +30% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 4215,
+			"tech": 5626,
+			"vis": 4826,
+			"total": 14667,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/594Ako-Udagawa-Cool-NNbflI.png",
+			"img": "http://i.bandori.party/u/c/art/594Ako-Udagawa-Cool-1uMHjX.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/594Ako-Udagawa-Cool-1uMHjX.png"
+		}
+	]
+}

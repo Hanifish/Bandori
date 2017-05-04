@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 531,
+			"name": "(Mysterious Charm) Himari Uehara",
+			"nick": "himari",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "It's a Gift!",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Pure",
+			"pf": 11174,
+			"tech": 8452,
+			"vis": 6823,
+			"total": 26449,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/531Himari-Uehara-Pure-t4eMj2.png",
+			"img": "http://i.bandori.party/u/c/art/531Himari-Uehara-Pure-eeixHa.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/531Himari-Uehara-Pure-WdG9jQ.png"
+		}
+	]
+}

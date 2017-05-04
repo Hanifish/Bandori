@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 502,
+			"name": "(Stage) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "r1",
+			"star": "2",
+			"skname": "Glittering Code",
+			"skill": "Boosts score by +30% for 5 seconds",
+			"stat": "Powerful",
+			"pf": 5948,
+			"tech": 3765,
+			"vis": 4593,
+			"total": 14306,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/502Kasumi-Toyama-Power-6Dh7uA.png",
+			"img": "http://i.bandori.party/u/c/art/502Kasumi-Toyama-Power-vQO5C1.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/502Kasumi-Toyama-Power-vQO5C1.png"
+		},
+		{
+			"id": 619,
+			"name": "(The First Visitor) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "r2",
+			"star": "2",
+			"skname": "I Was Impressed!",
+			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
+			"stat": "Pure",
+			"pf": 3246,
+			"tech": 4569,
+			"vis": 6133,
+			"total": 13948,
+			"origin": "Event: Rimi's Present Song! (21 April 2017)",
+			"icon": "http://i.bandori.party/u/c/619Kasumi-Toyama-Pure-yr0gI5.png",
+			"img": "http://i.bandori.party/u/c/art/619Kasumi-Toyama-Pure-5uTG0m.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/619Kasumi-Toyama-Pure-5uTG0m.png"
+		}
+	]
+}

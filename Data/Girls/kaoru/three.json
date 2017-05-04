@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 547,
+			"name": "(Actor who Colors the World) Kaoru Seta",
+			"nick": "kaoru",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "Let's become a rose that blooms in your heart",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 8066,
+			"tech": 6138,
+			"vis": 11813,
+			"total": 26017,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/547Kaoru-Seta-Cool-nZgjWn.png",
+			"img": "http://i.bandori.party/u/c/art/547Kaoru-Seta-Cool-J2UwgQ.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/547Kaoru-Seta-Cool-P17J6v.png"
+		},
+		{
+			"id": 612,
+			"name": "(Phantom Thief of HaroHapi) Kaoru Seta",
+			"nick": "kaoru",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "Catch me if you can",
+			"skill": "Turns Good+ notes into Perfect notes for 5 seconds.",
+			"stat": "Happy",
+			"pf": 7864,
+			"tech": 10411,
+			"vis": 8963,
+			"total": 27238,
+			"origin": "Gacha: Detective Kokoro (13 April 2017)",
+			"icon": "http://i.bandori.party/u/c/612Kaoru-Seta-Happy-yiVZha.png",
+			"img": "http://i.bandori.party/u/c/art/612Kaoru-Seta-Happy-KJAXgM.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/612Kaoru-Seta-Happy-dHP9Rn.png"
+		}
+	]
+}

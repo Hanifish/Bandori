@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 579,
+			"name": "(Samurai are Mutually Exclusive) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "White Fairy",
+			"skill": "Restores 300 life.",
+			"stat": "Happy",
+			"pf": 8400,
+			"tech": 11224,
+			"vis": 6770,
+			"total": 26394,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/579Eve-Wakamiya-Happy-etpMYb.png",
+			"img": "http://i.bandori.party/u/c/art/579Eve-Wakamiya-Happy-4irMsB.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/579Eve-Wakamiya-Happy-Sx63I4.png"
+		}
+	]
+}

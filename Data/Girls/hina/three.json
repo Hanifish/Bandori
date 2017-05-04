@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 567,
+			"name": "(Unknown Existence) Hina Hikawa",
+			"nick": "hina",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "I love PasuPare!",
+			"skill": "Turns Good+ notes into Perfect notes for 5 seconds.",
+			"stat": "Powerful",
+			"pf": 7864,
+			"tech": 9069,
+			"vis": 10305,
+			"total": 27238,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/567Hina-Hikawa-Power-vmAveX.png",
+			"img": "http://i.bandori.party/u/c/art/567Hina-Hikawa-Power-c0ONW0.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/567Hina-Hikawa-Power-dPwBVh.png"
+		},
+		{
+			"id": 623,
+			"name": "(Several Light Years of Light) Hina Hikawa",
+			"nick": "hina",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "Better Than The Stars♪",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 11036,
+			"tech": 7094,
+			"vis": 8592,
+			"total": 26722,
+			"origin": "Event: Searching for the Stars (30 April 2017)",
+			"icon": "http://i.bandori.party/u/c/623Hina-Hikawa-Cool-V1pRfq.png",
+			"img": "http://i.bandori.party/u/c/art/623Hina-Hikawa-Cool-E8QO2d.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/623Hina-Hikawa-Cool-pVHMYq.png"
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 503,
+			"name": "(Promised Candy) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "Star-Shaped Candy",
+			"skill": "Boosts score by +60% for 5 seconds",
+			"stat": "Happy",
+			"pf": 7956,
+			"tech": 11921,
+			"vis": 6029,
+			"total": 25906,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/503Kasumi-Toyama-Happy-3vpjs7.png",
+			"img": "http://i.bandori.party/u/c/art/503Kasumi-Toyama-Happy-2RRAER.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/503Kasumi-Toyama-Happy-LRKhcj.png"
+		},
+		{
+			"id": 601,
+			"name": "(Everyone’s Cherry Blossom Viewing) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "Look! The cherry blossoms are in full bloom!",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 7149,
+			"tech": 8645,
+			"vis": 10981,
+			"total": 26775,
+			"origin": "Event: Sakura Blooming Party! (24 March 2017)",
+			"icon": "http://i.bandori.party/u/c/601Kasumi-Toyama-Cool-XV3Twq.png",
+			"img": "http://i.bandori.party/u/c/art/601Kasumi-Toyama-Cool-ZIb9Yq.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/601Kasumi-Toyama-Cool-7EkzB6.png"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 563,
+			"name": "(Surefire Idol Pose☆) Aya Maruyama",
+			"nick": "aya",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "Aya'll Paint it!",
+			"skill": "Turns Good+ notes into Perfect notes for 5 seconds.",
+			"stat": "Pure",
+			"pf": 9827,
+			"tech": 9297,
+			"vis": 8239,
+			"total": 27363,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/563Aya-Maruyama-Pure-zgm21Y.png",
+			"img": "http://i.bandori.party/u/c/art/563Aya-Maruyama-Pure-MBGuks.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/563Aya-Maruyama-Pure-wKdlTH.png"
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 554,
+			"name": "(Stage) Kanon Matsubara",
+			"nick": "kanon",
+			"alias": "r1",
+			"star": "2",
+			"skname": "Oh, tea has been brewed!",
+			"skill": "Restores 200 life.",
+			"stat": "Powerful",
+			"pf": 5068,
+			"tech": 4478,
+			"vis": 5305,
+			"total": 14851,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/554Kanon-Matsubara-Power-18XXpc.png",
+			"img": "http://i.bandori.party/u/c/art/554Kanon-Matsubara-Power-cCJvDU.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/554Kanon-Matsubara-Power-cCJvDU.png"
+		},
+		{
+			"id": 615,
+			"name": "(The Captive Princess) Kanon Matsubara",
+			"nick": "kanon",
+			"alias": "r2",
+			"star": "2",
+			"skname": "H-Help!",
+			"skill": "Boosts score by +30% for 5 seconds.",
+			"stat": "Happy",
+			"pf": 4281,
+			"tech": 3218,
+			"vis": 6346,
+			"total": 13845,
+			"origin": "Gacha: Detective Kokoro (13 April 2017)",
+			"icon": "http://i.bandori.party/u/c/615Kanon-Matsubara-Happy-gqXA31.png",
+			"img": "http://i.bandori.party/u/c/art/615Kanon-Matsubara-Happy-Y2VVZq.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/615Kanon-Matsubara-Happy-Y2VVZq.png"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 555,
+			"name": "(One Step Forward) Kanon Matsubara",
+			"nick": "kanon",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "Someday, like everyone else",
+			"skill": "Restores 300 life.",
+			"stat": "Pure",
+			"pf": 8936,
+			"tech": 7591,
+			"vis": 10438,
+			"total": 26965,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/555Kanon-Matsubara-Pure-IQ4FSq.png",
+			"img": "http://i.bandori.party/u/c/art/555Kanon-Matsubara-Pure-QXof10.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/555Kanon-Matsubara-Pure-Q6EyzW.png"
+		}
+	]
+}

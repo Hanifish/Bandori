@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 520,
+			"name": "(Cute Little Friend) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "Stop it!",
+			"skill": "Restores 500 life.",
+			"stat": "Cool",
+			"pf": 10076,
+			"tech": 8571,
+			"vis": 11755,
+			"total": 30402,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/520Arisa-Ichigaya-Cool-rrUSdt.png",
+			"img": "http://i.bandori.party/u/c/art/520Arisa-Ichigaya-Cool-UDiXm1.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/520Arisa-Ichigaya-Cool-GRRYci.png"
+		},
+		{
+			"id": 602,
+			"name": "(Under the Blooming Sakura) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Ah, cherry blossom viewing isn't too bad...",
+			"skill": "Turns Bad+ notes into Perfect notes for 5 seconds.",
+			"stat": "Pure",
+			"pf": 9646,
+			"tech": 10981,
+			"vis": 10565,
+			"total": 31192,
+			"origin": "Gacha: Cherry Blossom Viewing (24 March 2017)",
+			"icon": "http://i.bandori.party/u/c/602Arisa-Ichigaya-Pure-NIVoiW.png",
+			"img": "http://i.bandori.party/u/c/art/602Arisa-Ichigaya-Pure-RPXFwI.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/602Arisa-Ichigaya-Pure-SzWnck.png"
+		}
+	]
+}

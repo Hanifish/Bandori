@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 551,
+			"name": "(Everyone!) Hagumi Kitazawa",
+			"nick": "hagumi",
+			"alias": "sr1",
+			"star": "3",
+			"skname": "Smile! Yay!",
+			"skill": "Turns Good+ notes into Perfect notes for 5 seconds.",
+			"stat": "Happy",
+			"pf": 6413,
+			"tech": 11784,
+			"vis": 8091,
+			"total": 26288,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/551Hagumi-Kitazawa-Happy-tKUAM2.png",
+			"img": "http://i.bandori.party/u/c/art/551Hagumi-Kitazawa-Happy-vYyX7F.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/551Hagumi-Kitazawa-Happy-OEycFe.png"
+		}
+	]
+}

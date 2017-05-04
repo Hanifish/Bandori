@@ -1,0 +1,40 @@
+{
+	"cards": [
+		{
+			"id": 578,
+			"name": "(Stage) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "r1",
+			"star": "2",
+			"skname": "Crescendo",
+			"skill": "Turns Great+ notes into Perfect notes for 5 seconds",
+			"stat": "Cool",
+			"pf": 4624,
+			"tech": 5291,
+			"vis": 5083,
+			"total": 14998,
+			"origin": "Gacha: Initial Card",
+			"icon": "http://i.bandori.party/u/c/578Eve-Wakamiya-Cool-p2DagB.png",
+			"img": "http://i.bandori.party/u/c/art/578Eve-Wakamiya-Cool-7eF0hq.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/578Eve-Wakamiya-Cool-7eF0hq.png"
+		},
+		{
+			"id": 604,
+			"name": "(Cherry Blossom Viewing) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "r2",
+			"star": "2",
+			"skname": "Cherry blossom viewing, I was longing for you!",
+			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
+			"stat": "Pure",
+			"pf": 4549,
+			"tech": 3644,
+			"vis": 5993,
+			"total": 14186,
+			"origin": "Gacha: Cherry Blossom Viewing (24 March 2017)",
+			"icon": "http://i.bandori.party/u/c/604Eve-Wakamiya-Pure-1sc1Pb.png",
+			"img": "http://i.bandori.party/u/c/art/604Eve-Wakamiya-Pure-5nypQt.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/604Eve-Wakamiya-Pure-5nypQt.png"
+		}
+	]
+}
