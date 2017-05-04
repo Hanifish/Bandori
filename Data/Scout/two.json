@@ -539,14 +539,15 @@
 			"icon": "http://i.bandori.party/u/c/538Tsugumi-Hazawa-Power-xdr67F.png",
 			"img": "http://i.bandori.party/u/c/art/538Tsugumi-Hazawa-Power-YIz7lY.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/538Tsugumi-Hazawa-Power-YIz7lY.png"
-		},{
+		},
+		{
 			"id": 582,
 			"name": "(Stage) Yukina Minato",
 			"nick": "yukina",
 			"alias": "r1",
 			"star": "2",
 			"skname": "Secret Feelings",
-			"skill": "Boosts score by +100% for 5 seconds.",
+			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
 			"stat": "Powerful",
 			"pf": 3795,
 			"tech": 4624,
@@ -556,24 +557,6 @@
 			"icon": "http://i.bandori.party/u/c/582Yukina-Minato-Power-rU40sU.png",
 			"img": "http://i.bandori.party/u/c/art/582Yukina-Minato-Power-c78vmM.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/582Yukina-Minato-Power-c78vmM.png"
-		},
-		{
-			"id": 583,
-			"name": "(Prepare for the Diva) Yukina Minato",
-			"nick": "yukina",
-			"alias": "sr1",
-			"star": "3",
-			"skname": "Secret Feelings",
-			"skill": "Boosts score by +60% for 5 seconds.",
-			"stat": "Happy",
-			"pf": 10492,
-			"tech": 8881,
-			"vis": 7542,
-			"total": 26915,
-			"origin": "Gacha: Initial Card",
-			"icon": "http://i.bandori.party/u/c/583Yukina-Minato-Happy-wRPLyg.png",
-			"img": "http://i.bandori.party/u/c/art/583Yukina-Minato-Happy-DYUUqX.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/583Yukina-Minato-Happy-VwTQm0.png"
 		}
     ]
 }
