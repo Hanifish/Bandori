@@ -1,49 +1,65 @@
 {
 	"eventTwo": [
 		
-		
+		{
+			"id": 630,
+			"name": "(A Nostalgic Song) Himari Uehara",
+			"nick": "himari",
+			"alias": "r2",
+			"star": "2",
+			"skname": "Uhu。 Uhuhu♪",
+			"skill": "Boosts score by +30% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 4093,
+			"tech": 5095,
+			"vis": 5438,
+			"total": 14626,
+			"origin": "Gacha: Reminiscence of the Scarlet Sky (May 2017)",
+			"icon": "http://i.bandori.party/u/c/630Himari-Uehara-Cool-yWSVu1.png",
+			"img": "http://i.bandori.party/u/c/art/630Himari-Uehara-Cool-ct4bXn.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/630Himari-Uehara-Cool-ct4bXn.png"
+		}
 	],
 	"eventThree": [
 		
-
+		{
+			"id": 628,
+			"name": "(Let's Make a Band!) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "Acting instead of thinking!",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 9658,
+			"tech": 9389,
+			"vis": 8105,
+			"total": 27152,
+			"origin": "Gacha: Reminiscence of the Scarlet Sky (May 2017)",
+			"icon": "http://i.bandori.party/u/c/628Tsugumi-Hazawa-Cool-jyAcZE.png",
+			"img": "http://i.bandori.party/u/c/art/628Tsugumi-Hazawa-Cool-jmLFyK.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/628Tsugumi-Hazawa-Cool-n60UpG.png"
+		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 622,
-			"name": "(Sound of the Start) Kasumi Toyama",
-			"nick": "kasumi",
-			"alias": "ur2",
-			"star": "3",
-			"skname": "The Feelings of That Day!",
-			"skill": "Restores 500 life.",
-			"stat": "Pure",
-			"pf": 10416,
-			"tech": 11129,
-			"vis": 9232,
-			"total": 30777,
-			"origin": "Gacha: Starlight Journey (30 April 2017)",
-			"icon": "http://i.bandori.party/u/c/622Kasumi-Toyama-Pure-ZV2UdO.png",
-			"img": "http://i.bandori.party/u/c/art/622Kasumi-Toyama-Pure-urRyNG.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/622Kasumi-Toyama-Pure-ujhjOv.png"
-		},
-		{
-			"id": 621,
-			"name": "(The Proof That I Am Here) Ran Mitake",
-			"nick": "ran",
+			"id": 626,
+			"name": "(The Memories I Want to Accept) Moca Aoba",
+			"nick": "moca",
 			"alias": "ur1",
 			"star": "4",
-			"skname": "Feeling Elated",
-			"skill": "Boosts score by +100% for 5 seconds.",
-			"stat": "Pure",
-			"pf": 8872,
-			"tech": 10221,
-			"vis": 11607,
-			"total": 30700,
-			"origin": "Gacha: Starlight Journey (30 April 2017)",
-			"icon": "http://i.bandori.party/u/c/621Ran-Mitake-Pure-bnZy9H.png",
-			"img": "http://i.bandori.party/u/c/art/621Ran-Mitake-Pure-7mmJeu.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/621Ran-Mitake-Pure-15xRTd.png"
+			"skname": "Reading Comprehension Skill",
+			"skill": "Turns Bad+ notes into Perfect notes for 5 seconds.",
+			"stat": "Cool",
+			"pf": 10920,
+			"tech": 9588,
+			"vis": 10625,
+			"total": 31133,
+			"origin": "Gacha: Reminiscence of the Scarlet Sky (May 2017)",
+			"icon": "http://i.bandori.party/u/c/626Moca-Aoba-Cool-8SA4MI.png",
+			"img": "http://i.bandori.party/u/c/art/626Moca-Aoba-Cool-d5m2wV.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/626Moca-Aoba-Cool-vfn25U.png"
 		}
 	]
 }
