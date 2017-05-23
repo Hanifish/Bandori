@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/570Chisato-Shirasagi-Power-XGtcKa.png",
 			"img": "http://i.bandori.party/u/c/art/594Ako-Udagawa-Cool-1uMHjX.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/570Chisato-Shirasagi-Power-Hg648y.png"
+		},
+		{
+			"id": 634,
+			"name": "(The Queen of Hearts) Chisato Shirasagi",
+			"nick": "chisato",
+			"alias": "r2",
+			"star": "2",
+			"skname": "It's really buzzing.",
+			"skill": "Boosts score by +30% for 5 seconds.",
+			"stat": "Pure",
+			"pf": 3993,
+			"tech": 3903,
+			"vis": 6057,
+			"total": 13953,
+			"origin": "Gacha: Teatime in Wonderland (23 May 2017)",
+			"icon": "http://i.bandori.party/u/c/634Chisato-Shirasagi-Pure-vyaPLm.png",
+			"img": "http://i.bandori.party/u/c/art/634Chisato-Shirasagi-Pure-KhdO5Q.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/634Chisato-Shirasagi-Pure-KhdO5Q.png"
 		}
 	]
 }

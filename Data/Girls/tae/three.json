@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/507Tae-Hanazono-Pure-I6b8zV.png",
 			"img": "http://i.bandori.party/u/c/art/507Tae-Hanazono-Pure-iePZKC.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/507Tae-Hanazono-Pure-Mn5Idz.png"
+		},
+		{
+			"id": 633,
+			"name": "(Plan Rabbits!) Tae Hanazono",
+			"nick": "tae",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "Leave it to me.",
+			"skill": "Restores 300 life.",
+			"stat": "Cool",
+			"pf": 7694,
+			"tech": 9450,
+			"vis": 10063,
+			"total": 27192,
+			"origin": "Gacha: Teatime in Wonderland (23 May 2017)",
+			"icon": "http://i.bandori.party/u/c/633Tae-Hanazono-Cool-kjSWr6.png",
+			"img": "http://i.bandori.party/u/c/art/633Tae-Hanazono-Cool-apE5Ib.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/633Tae-Hanazono-Cool-MkxoEM.png"
 		}
 	]
 }

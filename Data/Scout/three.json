@@ -522,6 +522,24 @@
 			"icon": "http://i.bandori.party/u/c/583Yukina-Minato-Happy-wRPLyg.png",
 			"img": "http://i.bandori.party/u/c/art/583Yukina-Minato-Happy-DYUUqX.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/583Yukina-Minato-Happy-VwTQm0.png"
+		},
+		{
+			"id": 628,
+			"name": "(Let's Make a Band!) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "Acting instead of thinking!",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 9658,
+			"tech": 9389,
+			"vis": 8105,
+			"total": 27152,
+			"origin": "Gacha: Reminiscence of the Scarlet Sky (11 May 2017)",
+			"icon": "http://i.bandori.party/u/c/628Tsugumi-Hazawa-Cool-jyAcZE.png",
+			"img": "http://i.bandori.party/u/c/art/628Tsugumi-Hazawa-Cool-jmLFyK.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/628Tsugumi-Hazawa-Cool-n60UpG.png"
 		}
 
     ]
