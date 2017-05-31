@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/579Eve-Wakamiya-Happy-etpMYb.png",
 			"img": "http://i.bandori.party/u/c/art/579Eve-Wakamiya-Happy-4irMsB.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/579Eve-Wakamiya-Happy-Sx63I4.png"
+		},
+		{
+			"id": 638,
+			"name": "(Model・Mode) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "The Concept of Samurai",
+			"skill": "Turns Good+ notes into Perfect notes for 5 seconds.",
+			"stat": "Cool",
+			"pf": 8078,
+			"tech": 10572,
+			"vis": 8505,
+			"total": 27155,
+			"origin": "Event: The Path that we Traveled, and the Future Taking Color (31 May 2017)",
+			"icon": "http://i.bandori.party/u/c/638Eve-Wakamiya-Cool-pdaAml.png",
+			"img": "http://i.bandori.party/u/c/art/638Eve-Wakamiya-Cool-IUzX7O.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/638Eve-Wakamiya-Cool-daSowq.png"
 		}
 	]
 }

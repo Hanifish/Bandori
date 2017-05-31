@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/566Hina-Hikawa-Happy-dR2riQ.png",
 			"img": "http://i.bandori.party/u/c/art/566Hina-Hikawa-Happy-1EqDte.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/566Hina-Hikawa-Happy-1EqDte.png"
+		},
+		{
+			"id": 640,
+			"name": "(An Important Opportunity) Hina Hikawa",
+			"nick": "hina",
+			"alias": "r2",
+			"star": "2",
+			"skname": "A Good Friend.",
+			"skill": "Boosts score by +30% for 5 seconds.",
+			"stat": "Powerful",
+			"pf": 5556,
+			"tech": 4804,
+			"vis": 3931,
+			"total": 14291,
+			"origin": "Gacha: The White Beginnings (31 May 2017)",
+			"icon": "http://i.bandori.party/u/c/640Hina-Hikawa-Power-39yQHV.png",
+			"img": "http://i.bandori.party/u/c/art/640Hina-Hikawa-Power-qF65Mm.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/640Hina-Hikawa-Power-qF65Mm.png"
 		}
 	]
 }

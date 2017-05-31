@@ -2,7 +2,7 @@
 	"cards": [
 		{
 			"id": 574,
-			"name": "(Stage) Yamato Maya",
+			"name": "(Stage) Maya Yamato",
 			"nick": "maya",
 			"alias": "r1",
 			"star": "2",
@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/574Maya-Yamato-Cool-cyfcVs.png",
 			"img": "http://i.bandori.party/u/c/art/574Maya-Yamato-Cool-Rl4ILS.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/574Maya-Yamato-Cool-Rl4ILS.png"
+		},
+		{
+			"id": 639,
+			"name": "(Encounter with Drums) Maya Yamato",
+			"nick": "maya",
+			"alias": "r2",
+			"star": "2",
+			"skname": "Repayment of Courage",
+			"skill": "Restores 200 life.",
+			"stat": "Happy",
+			"pf": 4505,
+			"tech": 5350,
+			"vis": 5097,
+			"total": 14952,
+			"origin": "Event: The Path that we Traveled, and the Future Taking Color (31 May 2017)",
+			"icon": "http://i.bandori.party/u/c/639Maya-Yamato-Happy-ehcC60.png",
+			"img": "http://i.bandori.party/u/c/art/639Maya-Yamato-Happy-gKb7Kb.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/639Maya-Yamato-Happy-gKb7Kb.png"
 		}
 	]
 }

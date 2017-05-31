@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/571Chisato-Shirasagi-Cool-M4E1E1.png",
 			"img": "http://i.bandori.party/u/c/art/571Chisato-Shirasagi-Cool-zDUkRH.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/571Chisato-Shirasagi-Cool-FiJGEy.png"
+		},
+		{
+			"id": 637,
+			"name": "(A Pure White Place) Chisato Shirasagi",
+			"nick": "chisato",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "The Leader's Shadow",
+			"skill": "Restores 300 life.",
+			"stat": "Powerful",
+			"pf": 8374,
+			"tech": 9985,
+			"vis": 9245,
+			"total": 27604,
+			"origin": "Gacha: The White Beginnings (31 May 2017)",
+			"icon": "http://i.bandori.party/u/c/637Chisato-Shirasagi-Power-a4pDUQ.png",
+			"img": "http://i.bandori.party/u/c/art/637Chisato-Shirasagi-Power-WLfjp2.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/637Chisato-Shirasagi-Power-ttjAqT.png"
 		}
 	]
 }
