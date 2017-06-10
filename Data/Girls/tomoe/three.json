@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/535Tomoe-Udagawa-Cool-W5VRRX.png",
 			"img": "http://i.bandori.party/u/c/art/535Tomoe-Udagawa-Cool-An4aHD.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/535Tomoe-Udagawa-Cool-dxJKHR.png"
+		},
+		{
+			"id": 642,
+			"name": "(Intruder at the Wedding) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "Explain Properly!",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Pure",
+			"pf": 7393,
+			"tech": 10791,
+			"vis": 8509,
+			"total": 26693,
+			"origin": "Limited Gacha: 1 Day Wedding (10 June 2017)",
+			"icon": "http://i.bandori.party/u/c/642Tomoe-Udagawa-Pure-tzIHrQ.png",
+			"img": "http://i.bandori.party/u/c/art/642Tomoe-Udagawa-Pure-Moo57P.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/642Tomoe-Udagawa-Pure-ZUFdC9.png"
 		}
 	]
 }

@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/617Saaya-Yamabuki-Power-W0GpT0.png",
 			"img": "http://i.bandori.party/u/c/art/617Saaya-Yamabuki-Power-LISi1M.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/617Saaya-Yamabuki-Power-No4WvS.png"
+		},
+		{
+			"id": 643,
+			"name": "(A One Day Bride) Saaya Yamabuki",
+			"nick": "saaya",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Then, a Bride Role...!?",
+			"skill": "Restores 300 life.",
+			"stat": "Cool",
+			"pf": 8535,
+			"tech": 8159,
+			"vis": 10463,
+			"total": 27157,
+			"origin": "Event: The Sudden Wedding Dress (10 June 2017)",
+			"icon": "http://i.bandori.party/u/c/643Saaya-Yamabuki-Cool-NaGL7s.png",
+			"img": "http://i.bandori.party/u/c/art/643Saaya-Yamabuki-Cool-LsN2iM.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/643Saaya-Yamabuki-Cool-oy9Yae.png"
 		}
 	]
 }

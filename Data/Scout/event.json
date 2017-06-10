@@ -1,65 +1,65 @@
 {
 	"eventTwo": [
 		{
-			"id": 640,
-			"name": "(An Important Opportunity) Hina Hikawa",
-			"nick": "hina",
+			"id": 645,
+			"name": "(The Prince that will Protect the Princess) Kaoru Seta",
+			"nick": "kaoru",
 			"alias": "r2",
 			"star": "2",
-			"skname": "Friendly Emotions",
-			"skill": "Boosts score by +30% for 5 seconds.",
-			"stat": "Powerful",
-			"pf": 5556,
-			"tech": 4804,
-			"vis": 3931,
-			"total": 14291,
-			"origin": "Gacha: The White Beginnings (31 May 2017)",
-			"icon": "http://i.bandori.party/u/c/640Hina-Hikawa-Power-39yQHV.png",
-			"img": "http://i.bandori.party/u/c/art/640Hina-Hikawa-Power-qF65Mm.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/640Hina-Hikawa-Power-qF65Mm.png"
+			"skname": "The Sin of Beauty",
+			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
+			"stat": "Pure",
+			"pf": 3931,
+			"tech": 5814,
+			"vis": 4549,
+			"total": 14294,
+			"origin": "Limited Gacha: 1 Day Wedding (10 June 2017)",
+			"icon": "http://i.bandori.party/u/c/645Kaoru-Seta-Pure-2dPFju.png",
+			"img": "http://i.bandori.party/u/c/art/645Kaoru-Seta-Pure-QfstUL.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/645Kaoru-Seta-Pure-QfstUL.png"
 		}
 		
 	],
 	"eventThree": [
 		
 		{
-			"id": 637,
-			"name": "(The Pure White Place I Belong) Chisato Shirasagi",
-			"nick": "chisato",
+			"id": 642,
+			"name": "(Intruder at the Wedding) Tomoe Udagawa",
+			"nick": "tomoe",
 			"alias": "sr2",
 			"star": "3",
-			"skname": "An Actor in the Shadows",
-			"skill": "Restores 300 life.",
-			"stat": "Powerful",
-			"pf": 8374,
-			"tech": 9985,
-			"vis": 9245,
-			"total": 27604,
-			"origin": "Gacha: The White Beginnings (31 May 2017)",
-			"icon": "http://i.bandori.party/u/c/637Chisato-Shirasagi-Power-a4pDUQ.png",
-			"img": "http://i.bandori.party/u/c/art/637Chisato-Shirasagi-Power-WLfjp2.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/637Chisato-Shirasagi-Power-ttjAqT.png"
+			"skname": "Explain Properly!",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Pure",
+			"pf": 7393,
+			"tech": 10791,
+			"vis": 8509,
+			"total": 26693,
+			"origin": "Limited Gacha: 1 Day Wedding (10 June 2017)",
+			"icon": "http://i.bandori.party/u/c/642Tomoe-Udagawa-Pure-tzIHrQ.png",
+			"img": "http://i.bandori.party/u/c/art/642Tomoe-Udagawa-Pure-Moo57P.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/642Tomoe-Udagawa-Pure-ZUFdC9.png"
 		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 636,
-			"name": "(The Recipient of my Admiration) Aya Maruyama",
-			"nick": "aya",
-			"alias": "ur1",
+			"id": 641,
+			"name": "(A Cute Little Kitten) Rimi Ushigome",
+			"nick": "rimi",
+			"alias": "ur2",
 			"star": "4",
-			"skname": "A Direct Pose☆",
-			"skill": "Boosts score by +100% for 5 seconds.",
-			"stat": "Powerful",
-			"pf": 12090,
-			"tech": 8257,
-			"vis": 9746,
-			"total": 30093,
-			"origin": "Gacha: The White Beginnings (31 May 2017)",
-			"icon": "http://i.bandori.party/u/c/636Aya-Maruyama-Power-3eKQkR.png",
-			"img": "http://i.bandori.party/u/c/art/636Aya-Maruyama-Power-vtC2j1.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/636Aya-Maruyama-Power-MSeWz7.png"
+			"skname": "Here, kittens...!?",
+			"skill": "Turns Bad+ notes into Perfect notes for 5 seconds.",
+			"stat": "Pure",
+			"pf": 9646,
+			"tech": 10683,
+			"vis": 10860,
+			"total": 31189,
+			"origin": "Limited Gacha: 1 Day Wedding (10 June 2017)",
+			"icon": "http://i.bandori.party/u/c/641Rimi-Ushigome-Pure-cOveP9.png",
+			"img": "http://i.bandori.party/u/c/art/641Rimi-Ushigome-Pure-xgfURg.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/641Rimi-Ushigome-Pure-AHnAmd.png"
 		}
 	]
 }
