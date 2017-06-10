@@ -6,7 +6,7 @@
 			"nick": "hina",
 			"alias": "r2",
 			"star": "2",
-			"skname": "A Good Friend.",
+			"skname": "Friendly Emotions",
 			"skill": "Boosts score by +30% for 5 seconds.",
 			"stat": "Powerful",
 			"pf": 5556,
@@ -24,11 +24,11 @@
 		
 		{
 			"id": 637,
-			"name": "(A Pure White Place) Chisato Shirasagi",
+			"name": "(The Pure White Place I Belong) Chisato Shirasagi",
 			"nick": "chisato",
 			"alias": "sr2",
 			"star": "3",
-			"skname": "The Leader's Shadow",
+			"skname": "An Actor in the Shadows",
 			"skill": "Restores 300 life.",
 			"stat": "Powerful",
 			"pf": 8374,
@@ -45,11 +45,11 @@
 		
 		{
 			"id": 636,
-			"name": "(A Place of Longing) Aya Maruyama",
+			"name": "(The Recipient of my Admiration) Aya Maruyama",
 			"nick": "aya",
 			"alias": "ur1",
 			"star": "4",
-			"skname": "Direct Pause☆",
+			"skname": "A Direct Pose☆",
 			"skill": "Boosts score by +100% for 5 seconds.",
 			"stat": "Powerful",
 			"pf": 12090,
