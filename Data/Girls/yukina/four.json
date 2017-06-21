@@ -7,7 +7,7 @@
 			"alias": "ur1",
 			"star": "4",
 			"skname": "Violent shout",
-			"skill": "Boosts score by +100% for 5 seconds.",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
 			"stat": "Cool",
 			"pf": 13200,
 			"tech": 7188,

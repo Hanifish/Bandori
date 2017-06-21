@@ -7,7 +7,7 @@
 			"alias": "sr1",
 			"star": "3",
 			"skname": "Crystal Song",
-			"skill": "Boosts score by +60% for 5 seconds.",
+			"skill": "Boosts score by +60% for 5, up to 7 seconds.",
 			"stat": "Happy",
 			"pf": 10492,
 			"tech": 8881,
@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/583Yukina-Minato-Happy-wRPLyg.png",
 			"img": "http://i.bandori.party/u/c/art/583Yukina-Minato-Happy-DYUUqX.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/583Yukina-Minato-Happy-VwTQm0.png"
+		},
+		{
+			"id": 647,
+			"name": "(The 4 of Us, at the Cafeteria) Yukina Minato",
+			"nick": "yukina",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "The Sugar in the Coffee is...",
+			"skill": "Restores life by 300, up to 450.",
+			"stat": "Cool",
+			"pf": 9929,
+			"tech": 8290,
+			"vis": 9374,
+			"total": 27593,
+			"origin": "Gacha: Elegant Rose (21 June 2017)",
+			"icon": "http://i.bandori.party/u/c/647Yukina-Minato-Cool-1iCLmS.png",
+			"img": "http://i.bandori.party/u/c/art/647Yukina-Minato-Cool-yM1Yu9.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/647Yukina-Minato-Cool-wwVyaj.png"
 		}
 	]
 }

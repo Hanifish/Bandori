@@ -7,7 +7,7 @@
 			"alias": "sr1",
 			"star": "3",
 			"skname": "That Day's Sunset",
-			"skill": "Restores 300 life.",
+			"skill": "Restores 300, up to 450 life.",
 			"stat": "Happy",
 			"pf": 8066,
 			"tech": 6138,

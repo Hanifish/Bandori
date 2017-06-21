@@ -7,7 +7,7 @@
 			"alias": "r1",
 			"star": "2",
 			"skname": "Burn! (The opponent dies)",
-			"skill": "Boosts score by +30% for 5 seconds.",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
 			"stat": "Cool",
 			"pf": 4215,
 			"tech": 5626,
@@ -25,7 +25,7 @@
 			"alias": "r2",
 			"star": "2",
 			"skname": "Princess and Prince!?",
-			"skill": "Restores 200 life.",
+			"skill": "Restores 200, up to 300 life.",
 			"stat": "Happy",
 			"pf": 4587,
 			"tech": 4378,
@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/644Ako-Udagawa-Happy-Hl9D5r.png",
 			"img": "http://i.bandori.party/u/c/art/644Ako-Udagawa-Happy-9sdmxg.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/644Ako-Udagawa-Happy-9sdmxg.png"
+		},
+		{
+			"id": 650,
+			"name": "(Revitalizing Ourselves) Ako Udagawa",
+			"nick": "ako",
+			"alias": "r3",
+			"star": "2",
+			"skname": "This is Suuuper Tasty!",
+			"skill": "Turns GREAT+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Cool",
+			"pf": 4876,
+			"tech": 4609,
+			"vis": 5470,
+			"total": 14955,
+			"origin": "Gacha: Elegant Rose (21 June 2017)",
+			"icon": "http://i.bandori.party/u/c/650Ako-Udagawa-Cool-NYB41o.png",
+			"img": "http://i.bandori.party/u/c/art/650Ako-Udagawa-Cool-SR6DMv.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/650Ako-Udagawa-Cool-SR6DMv.png"
 		}
 	]
 }

@@ -7,7 +7,7 @@
 			"alias": "r1",
 			"star": "2",
 			"skname": "Tone of Harmony",
-			"skill": "Restores 200 life.",
+			"skill": "Restores life by 200, up to 300.",
 			"stat": "Pure",
 			"pf": 3369,
 			"tech": 4357,
@@ -25,7 +25,7 @@
 			"alias": "r2",
 			"star": "2",
 			"skname": "Mysterious sense of unity.",
-			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
+			"skill": "Turns Great+ notes into Perfect notes for 5, up to 8 seconds.",
 			"stat": "Happy",
 			"pf": 3795,
 			"tech": 5978,
@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/609Sayo-Hikawa-Happy-9MYFj9.png",
 			"img": "http://i.bandori.party/u/c/art/609Sayo-Hikawa-Happy-NfBw06.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/609Sayo-Hikawa-Happy-NfBw06.png"
+		},
+		{
+			"id": 649,
+			"name": "(Ice Cream in the Summer) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "r3",
+			"star": "2",
+			"skname": "This Cafe isn't so Bad, Huh?",
+			"skill": "Turns GREAT+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Powerful",
+			"pf": 4293,
+			"tech": 4140,
+			"vis": 5858,
+			"total": 14291,
+			"origin": "Event: Don't Leave Me, Lisa!!!! (21 June 2017)",
+			"icon": "http://i.bandori.party/u/c/649Sayo-Hikawa-Power-Jp7W2F.png",
+			"img": "http://i.bandori.party/u/c/art/649Sayo-Hikawa-Power-T96Mvp.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/649Sayo-Hikawa-Power-T96Mvp.png"
 		}
 	]
 }

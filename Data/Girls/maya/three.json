@@ -7,7 +7,7 @@
 			"alias": "sr1",
 			"star": "3",
 			"skname": "Maya Zone",
-			"skill": "Boosts score by +60% for 5 seconds.",
+			"skill": "Boosts score by +60% for 5, up to 7 seconds.",
 			"stat": "Pure",
 			"pf": 9245,
 			"tech": 9877,

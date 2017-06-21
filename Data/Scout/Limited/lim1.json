@@ -1,0 +1,65 @@
+{
+	"eventTwo": [
+		{
+			"id": 645,
+			"name": "(The Prince that will Protect the Princess) Kaoru Seta",
+			"nick": "kaoru",
+			"alias": "r2",
+			"star": "2",
+			"skname": "The Sin of Beauty",
+			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
+			"stat": "Pure",
+			"pf": 3931,
+			"tech": 5814,
+			"vis": 4549,
+			"total": 14294,
+			"origin": "Limited Gacha: 1 Day Wedding (10 June 2017)",
+			"icon": "http://i.bandori.party/u/c/645Kaoru-Seta-Pure-2dPFju.png",
+			"img": "http://i.bandori.party/u/c/art/645Kaoru-Seta-Pure-QfstUL.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/645Kaoru-Seta-Pure-QfstUL.png"
+		}
+		
+	],
+	"eventThree": [
+		
+		{
+			"id": 642,
+			"name": "(Intruder at the Wedding) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "Explain Properly!",
+			"skill": "Boosts score by +60% for 5 seconds.",
+			"stat": "Pure",
+			"pf": 7393,
+			"tech": 10791,
+			"vis": 8509,
+			"total": 26693,
+			"origin": "Limited Gacha: 1 Day Wedding (10 June 2017)",
+			"icon": "http://i.bandori.party/u/c/642Tomoe-Udagawa-Pure-tzIHrQ.png",
+			"img": "http://i.bandori.party/u/c/art/642Tomoe-Udagawa-Pure-Moo57P.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/642Tomoe-Udagawa-Pure-ZUFdC9.png"
+		}
+	],
+	"eventFour": [
+		
+		{
+			"id": 641,
+			"name": "(A Cute Little Kitten) Rimi Ushigome",
+			"nick": "rimi",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Here, kittens...!?",
+			"skill": "Turns Bad+ notes into Perfect notes for 5 seconds.",
+			"stat": "Pure",
+			"pf": 9646,
+			"tech": 10683,
+			"vis": 10860,
+			"total": 31189,
+			"origin": "Limited Gacha: 1 Day Wedding (10 June 2017)",
+			"icon": "http://i.bandori.party/u/c/641Rimi-Ushigome-Pure-cOveP9.png",
+			"img": "http://i.bandori.party/u/c/art/641Rimi-Ushigome-Pure-xgfURg.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/641Rimi-Ushigome-Pure-AHnAmd.png"
+		}
+	]
+}

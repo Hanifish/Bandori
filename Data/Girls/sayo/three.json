@@ -7,7 +7,7 @@
 			"alias": "sr1",
 			"star": "3",
 			"skname": "Unwavering Preparedness",
-			"skill": "Boosts score by +60% for 5 seconds.",
+			"skill": "Boosts score by +60% for 5, up to 7 seconds.",
 			"stat": "Cool",
 			"pf": 8400,
 			"tech": 11224,

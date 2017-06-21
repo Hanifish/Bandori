@@ -1,65 +1,65 @@
 {
 	"eventTwo": [
 		{
-			"id": 645,
-			"name": "(The Prince that will Protect the Princess) Kaoru Seta",
-			"nick": "kaoru",
-			"alias": "r2",
+			"id": 650,
+			"name": "(Revitalizing Ourselves) Ako Udagawa",
+			"nick": "ako",
+			"alias": "r3",
 			"star": "2",
-			"skname": "The Sin of Beauty",
-			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
-			"stat": "Pure",
-			"pf": 3931,
-			"tech": 5814,
-			"vis": 4549,
-			"total": 14294,
-			"origin": "Limited Gacha: 1 Day Wedding (10 June 2017)",
-			"icon": "http://i.bandori.party/u/c/645Kaoru-Seta-Pure-2dPFju.png",
-			"img": "http://i.bandori.party/u/c/art/645Kaoru-Seta-Pure-QfstUL.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/645Kaoru-Seta-Pure-QfstUL.png"
+			"skname": "This is Suuuper Tasty!",
+			"skill": "Turns GREAT+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Cool",
+			"pf": 4876,
+			"tech": 4609,
+			"vis": 5470,
+			"total": 14955,
+			"origin": "Gacha: Elegant Rose (21 June 2017)",
+			"icon": "http://i.bandori.party/u/c/650Ako-Udagawa-Cool-NYB41o.png",
+			"img": "http://i.bandori.party/u/c/art/650Ako-Udagawa-Cool-SR6DMv.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/650Ako-Udagawa-Cool-SR6DMv.png"
 		}
 		
 	],
 	"eventThree": [
 		
 		{
-			"id": 642,
-			"name": "(Intruder at the Wedding) Tomoe Udagawa",
-			"nick": "tomoe",
+			"id": 647,
+			"name": "(The 4 of Us, at the Cafeteria) Yukina Minato",
+			"nick": "yukina",
 			"alias": "sr2",
 			"star": "3",
-			"skname": "Explain Properly!",
-			"skill": "Boosts score by +60% for 5 seconds.",
-			"stat": "Pure",
-			"pf": 7393,
-			"tech": 10791,
-			"vis": 8509,
-			"total": 26693,
-			"origin": "Limited Gacha: 1 Day Wedding (10 June 2017)",
-			"icon": "http://i.bandori.party/u/c/642Tomoe-Udagawa-Pure-tzIHrQ.png",
-			"img": "http://i.bandori.party/u/c/art/642Tomoe-Udagawa-Pure-Moo57P.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/642Tomoe-Udagawa-Pure-ZUFdC9.png"
+			"skname": "The Sugar in the Coffee is...",
+			"skill": "Restores life by 300, up to 450.",
+			"stat": "Cool",
+			"pf": 9929,
+			"tech": 8290,
+			"vis": 9374,
+			"total": 27593,
+			"origin": "Gacha: Elegant Rose (21 June 2017)",
+			"icon": "http://i.bandori.party/u/c/647Yukina-Minato-Cool-1iCLmS.png",
+			"img": "http://i.bandori.party/u/c/art/647Yukina-Minato-Cool-yM1Yu9.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/647Yukina-Minato-Cool-wwVyaj.png"
 		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 641,
-			"name": "(A Cute Little Kitten) Rimi Ushigome",
-			"nick": "rimi",
-			"alias": "ur2",
+			"id": 646,
+			"name": "(Not Used to Calling) Rinko Shirokane",
+			"nick": "rinko",
+			"alias": "ur1",
 			"star": "4",
-			"skname": "Here, kittens...!?",
-			"skill": "Turns Bad+ notes into Perfect notes for 5 seconds.",
-			"stat": "Pure",
-			"pf": 9646,
-			"tech": 10683,
-			"vis": 10860,
-			"total": 31189,
-			"origin": "Limited Gacha: 1 Day Wedding (10 June 2017)",
-			"icon": "http://i.bandori.party/u/c/641Rimi-Ushigome-Pure-cOveP9.png",
-			"img": "http://i.bandori.party/u/c/art/641Rimi-Ushigome-Pure-xgfURg.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/641Rimi-Ushigome-Pure-AHnAmd.png"
+			"skname": "...... H-Hello......",
+			"skill": "Turns BAD+ notes into PERFECT notes for 5 to 8 seconds.",
+			"stat": "Cool",
+			"pf": 10150,
+			"tech": 9617,
+			"vis": 11343,
+			"total": 31110,
+			"origin": "Gacha: Elegant Rose (21 June 2017)",
+			"icon": "http://i.bandori.party/u/c/646Rinko-Shirokane-Cool-sqtfz8.png",
+			"img": "http://i.bandori.party/u/c/art/646Rinko-Shirokane-Cool-ICw9Zz.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/646Rinko-Shirokane-Cool-2rO4x3.png"
 		}
 	]
 }
