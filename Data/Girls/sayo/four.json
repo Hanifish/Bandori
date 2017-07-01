@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 652,
+			"name": "(The Tanabata We Spend Together) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "My Wish",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 9471,
+			"tech": 12636,
+			"vis": 7639,
+			"total": 29746,
+			"origin": "Gacha: The Shining Milky Way (30 June 2017)",
+			"icon": "http://i.bandori.party/u/c/652Sayo-Hikawa-Happy-k9DGu8.png",
+			"img": "http://i.bandori.party/u/c/art/652Sayo-Hikawa-Happy-iGOWzr.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/652Sayo-Hikawa-Happy-NxmwlB.png"
+		}
+	]
+}

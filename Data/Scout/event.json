@@ -1,65 +1,64 @@
 {
 	"eventTwo": [
 		{
-			"id": 650,
-			"name": "(Revitalizing Ourselves) Ako Udagawa",
-			"nick": "ako",
+			"id": 655,
+			"name": "(Connect the Two) Lisa Imai",
+			"nick": "lisa",
 			"alias": "r3",
 			"star": "2",
-			"skname": "This is Suuuper Tasty!",
-			"skill": "Turns GREAT+ notes into PERFECT notes for 5, up to 8 seconds.",
-			"stat": "Cool",
-			"pf": 4876,
-			"tech": 4609,
-			"vis": 5470,
-			"total": 14955,
-			"origin": "Gacha: Elegant Rose (21 June 2017)",
-			"icon": "http://i.bandori.party/u/c/650Ako-Udagawa-Cool-NYB41o.png",
-			"img": "http://i.bandori.party/u/c/art/650Ako-Udagawa-Cool-SR6DMv.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/650Ako-Udagawa-Cool-SR6DMv.png"
+			"skname": "A festival... Could I have gone?",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 4831,
+			"tech": 4934,
+			"vis": 5184,
+			"total": 14949,
+			"origin": "Gacha: The Shining Milky Way (30 June 2017)",
+			"icon": "http://i.bandori.party/u/c/655Lisa-Imai-Happy-Ilkxig.png",
+			"img": "http://i.bandori.party/u/c/art/655Lisa-Imai-Happy-bTbpQM.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/655Lisa-Imai-Happy-bTbpQM.png"
 		}
 		
 	],
 	"eventThree": [
-		
-		{
-			"id": 647,
-			"name": "(The 4 of Us, at the Cafeteria) Yukina Minato",
-			"nick": "yukina",
-			"alias": "sr2",
-			"star": "3",
-			"skname": "The Sugar in the Coffee is...",
-			"skill": "Restores life by 300, up to 450.",
-			"stat": "Cool",
-			"pf": 9929,
-			"tech": 8290,
-			"vis": 9374,
-			"total": 27593,
-			"origin": "Gacha: Elegant Rose (21 June 2017)",
-			"icon": "http://i.bandori.party/u/c/647Yukina-Minato-Cool-1iCLmS.png",
-			"img": "http://i.bandori.party/u/c/art/647Yukina-Minato-Cool-yM1Yu9.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/647Yukina-Minato-Cool-wwVyaj.png"
-		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 646,
-			"name": "(Not Used to Calling) Rinko Shirokane",
-			"nick": "rinko",
+			"id": 651,
+			"name": "(A Very Important Tanzaku) Hina Hikawa",
+			"nick": "hina",
 			"alias": "ur1",
 			"star": "4",
-			"skname": "...... H-Hello......",
-			"skill": "Turns BAD+ notes into PERFECT notes for 5 to 8 seconds.",
-			"stat": "Cool",
-			"pf": 10150,
-			"tech": 9617,
-			"vis": 11343,
-			"total": 31110,
-			"origin": "Gacha: Elegant Rose (21 June 2017)",
-			"icon": "http://i.bandori.party/u/c/646Rinko-Shirokane-Cool-sqtfz8.png",
-			"img": "http://i.bandori.party/u/c/art/646Rinko-Shirokane-Cool-ICw9Zz.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/646Rinko-Shirokane-Cool-2rO4x3.png"
+			"skname": "The Tanzaku's Direction",
+			"skill": "Turns BAD+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Happy",
+			"pf": 8872,
+			"tech": 11724,
+			"vis": 10101,
+			"total": 30697,
+			"origin": "Gacha: The Shining Milky Way (30 June 2017)",
+			"icon": "http://i.bandori.party/u/c/651Hina-Hikawa-Happy-II9dVP.png",
+			"img": "http://i.bandori.party/u/c/art/651Hina-Hikawa-Happy-jab0wf.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/651Hina-Hikawa-Happy-IZVieo.png"
+		},
+		{
+			"id": 652,
+			"name": "(The Tanabata We Spend Together) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "My Wish",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 9471,
+			"tech": 12636,
+			"vis": 7639,
+			"total": 29746,
+			"origin": "Gacha: The Shining Milky Way (30 June 2017)",
+			"icon": "http://i.bandori.party/u/c/652Sayo-Hikawa-Happy-k9DGu8.png",
+			"img": "http://i.bandori.party/u/c/art/652Sayo-Hikawa-Happy-iGOWzr.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/652Sayo-Hikawa-Happy-NxmwlB.png"
 		}
 	]
 }

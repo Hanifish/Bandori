@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 651,
+			"name": "(A Very Important Tanzaku) Hina Hikawa",
+			"nick": "hina",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "The Tanzaku's Direction",
+			"skill": "Turns BAD+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Happy",
+			"pf": 8872,
+			"tech": 11724,
+			"vis": 10101,
+			"total": 30697,
+			"origin": "Gacha: The Shining Milky Way (30 June 2017)",
+			"icon": "http://i.bandori.party/u/c/651Hina-Hikawa-Happy-II9dVP.png",
+			"img": "http://i.bandori.party/u/c/art/651Hina-Hikawa-Happy-jab0wf.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/651Hina-Hikawa-Happy-IZVieo.png"
+		}
+	]
+}

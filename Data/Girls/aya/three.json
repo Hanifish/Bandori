@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/563Aya-Maruyama-Pure-zgm21Y.png",
 			"img": "http://i.bandori.party/u/c/art/563Aya-Maruyama-Pure-MBGuks.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/563Aya-Maruyama-Pure-wKdlTH.png"
+		},
+		{
+			"id": 653,
+			"name": "(Working on Tanabata) Aya Maruyama",
+			"nick": "aya",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "How About Potatoes?",
+			"skill": "Restores life by 300, up to 450.",
+			"stat": "Powerful",
+			"pf": 9549,
+			"tech": 9325,
+			"vis": 8713,
+			"total": 27587,
+			"origin": "Event: The Tanzaku that Wishes on the Stars (30 June 2017)",
+			"icon": "http://i.bandori.party/u/c/653Aya-Maruyama-Power-yBCnJ5.png",
+			"img": "http://i.bandori.party/u/c/art/653Aya-Maruyama-Power-rdqueA.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/653Aya-Maruyama-Power-yQpZJH.png"
 		}
 	]
 }
