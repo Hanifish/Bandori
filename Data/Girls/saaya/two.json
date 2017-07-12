@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/514Saaya-Yamabuki-Happy-hQMTE3.png",
 			"img": "http://i.bandori.party/u/c/art/514Saaya-Yamabuki-Happy-MaV4h9.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/514Saaya-Yamabuki-Happy-MaV4h9.png"
+		},
+		{
+			"id": 660,
+			"name": "(A Kind Gift) Saaya Yamabuki",
+			"nick": "saaya",
+			"alias": "r2",
+			"star": "2",
+			"skname": "Get Well Soon",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 4332,
+			"tech": 5722,
+			"vis": 4573,
+			"total": 14627,
+			"origin": "Gacha: Rockin' Nurse (11 July 2017)",
+			"icon": "http://i.bandori.party/u/c/660Saaya-Yamabuki-Power-Xo4rQu.png",
+			"img": "http://i.bandori.party/u/c/art/660Saaya-Yamabuki-Power-4lrVeX.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/660Saaya-Yamabuki-Power-4lrVeX.png"
 		}
 	]
 }

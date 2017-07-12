@@ -270,6 +270,42 @@
 			"icon": "http://i.bandori.party/u/c/646Rinko-Shirokane-Cool-sqtfz8.png",
 			"img": "http://i.bandori.party/u/c/art/646Rinko-Shirokane-Cool-ICw9Zz.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/646Rinko-Shirokane-Cool-2rO4x3.png"
+		},
+		{
+			"id": 651,
+			"name": "(A Very Important Tanzaku) Hina Hikawa",
+			"nick": "hina",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "The Tanzaku's Direction",
+			"skill": "Turns BAD+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Happy",
+			"pf": 8872,
+			"tech": 11724,
+			"vis": 10101,
+			"total": 30697,
+			"origin": "Gacha: The Shining Milky Way (30 June 2017)",
+			"icon": "http://i.bandori.party/u/c/651Hina-Hikawa-Happy-II9dVP.png",
+			"img": "http://i.bandori.party/u/c/art/651Hina-Hikawa-Happy-jab0wf.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/651Hina-Hikawa-Happy-IZVieo.png"
+		},
+		{
+			"id": 652,
+			"name": "(The Tanabata We Spend Together) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "My Wish",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 9471,
+			"tech": 12636,
+			"vis": 7639,
+			"total": 29746,
+			"origin": "Gacha: The Shining Milky Way (30 June 2017)",
+			"icon": "http://i.bandori.party/u/c/652Sayo-Hikawa-Happy-k9DGu8.png",
+			"img": "http://i.bandori.party/u/c/art/652Sayo-Hikawa-Happy-iGOWzr.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/652Sayo-Hikawa-Happy-NxmwlB.png"
 		}
 
     ]

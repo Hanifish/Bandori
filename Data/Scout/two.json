@@ -629,6 +629,24 @@
 			"icon": "http://i.bandori.party/u/c/650Ako-Udagawa-Cool-NYB41o.png",
 			"img": "http://i.bandori.party/u/c/art/650Ako-Udagawa-Cool-SR6DMv.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/650Ako-Udagawa-Cool-SR6DMv.png"
+		},
+		{
+			"id": 655,
+			"name": "(Connect the Two) Lisa Imai",
+			"nick": "lisa",
+			"alias": "r3",
+			"star": "2",
+			"skname": "A festival... Could I have gone?",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 4831,
+			"tech": 4934,
+			"vis": 5184,
+			"total": 14949,
+			"origin": "Gacha: The Shining Milky Way (30 June 2017)",
+			"icon": "http://i.bandori.party/u/c/655Lisa-Imai-Happy-Ilkxig.png",
+			"img": "http://i.bandori.party/u/c/art/655Lisa-Imai-Happy-bTbpQM.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/655Lisa-Imai-Happy-bTbpQM.png"
 		}
     ]
 }

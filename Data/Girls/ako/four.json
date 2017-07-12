@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 657,
+			"name": "(Tomoe’s Exclusive Nurse) Ako Udagawa",
+			"nick": "ako",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "For my Older Sister!",
+			"skill": "Restores life by 500, up to 750.",
+			"stat": "Powerful",
+			"pf": 11186,
+			"tech": 9349,
+			"vis": 10565,
+			"total": 31100,
+			"origin": "Gacha: Rockin' Nurse (11 July 2017)",
+			"icon": "http://i.bandori.party/u/c/657Ako-Udagawa-Power-XZzeTm.png",
+			"img": "http://i.bandori.party/u/c/art/657Ako-Udagawa-Power-MwMshO.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/657Ako-Udagawa-Power-eXUilq.png"
+		}
+	]
+}

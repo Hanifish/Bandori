@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/625Tsugumi-Hazawa-Pure-4tEcJ2.png",
 			"img": "http://i.bandori.party/u/c/art/625Tsugumi-Hazawa-Pure-FFAIdH.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/625Tsugumi-Hazawa-Pure-FFAIdH.png"
+		},
+		{
+			"id": 659,
+			"name": "(These Warm Feelings) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "r3",
+			"star": "2",
+			"skname": "I hope you get better soon.",
+			"skill": "Turns GREAT+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Cool",
+			"pf": 5872,
+			"tech": 4563,
+			"vis": 3854,
+			"total": 14289,
+			"origin": "Event: Tomoe SOS! Ako’s Grand Nursing Operation (11 July 2017)",
+			"icon": "http://i.bandori.party/u/c/659Tsugumi-Hazawa-Cool-DWGnaF.png",
+			"img": "http://i.bandori.party/u/c/art/659Tsugumi-Hazawa-Cool-6liMz4.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/659Tsugumi-Hazawa-Cool-6liMz4.png"
 		}
 	]
 }

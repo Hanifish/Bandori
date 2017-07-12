@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 656,
+			"name": "(The Patient in Pajamas) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "Oh, Sorry.",
+			"skill": "Boosts score by +60% and turns GOOD+ notes into PERFECT notes for 5, up to 7.5 seconds",
+			"stat": "Powerful",
+			"pf": 11812,
+			"tech": 10013,
+			"vis": 8512,
+			"total": 30337,
+			"origin": "Gacha: Rockin' Nurse (11 July 2017)",
+			"icon": "http://i.bandori.party/u/c/656Tomoe-Udagawa-Power-wHPbNj.png",
+			"img": "http://i.bandori.party/u/c/art/656Tomoe-Udagawa-Power-qEjuVw.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/656Tomoe-Udagawa-Power-Li3lto.png"
+		}
+	]
+}

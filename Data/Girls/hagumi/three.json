@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/551Hagumi-Kitazawa-Happy-tKUAM2.png",
 			"img": "http://i.bandori.party/u/c/art/551Hagumi-Kitazawa-Happy-vYyX7F.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/551Hagumi-Kitazawa-Happy-OEycFe.png"
+		},
+		{
+			"id": 658,
+			"name": "(The Root of Being Healthy) Hagumi Kitazawa",
+			"nick": "hagumi",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "It's nutritious!",
+			"skill": "Restores life by 300, up to 450.",
+			"stat": "Pure",
+			"pf": 8129,
+			"tech": 10764,
+			"vis": 7802,
+			"total": 26695,
+			"origin": "Event: Tomoe SOS! Ako’s Grand Nursing Operation (11 July 2017)",
+			"icon": "http://i.bandori.party/u/c/658Hagumi-Kitazawa-Pure-fX4ctv.png",
+			"img": "http://i.bandori.party/u/c/art/658Hagumi-Kitazawa-Pure-7QfBca.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/658Hagumi-Kitazawa-Pure-lmqzK4.png"
 		}
 	]
 }
