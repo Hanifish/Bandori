@@ -145,24 +145,6 @@
 			"imgbloomed": "http://i.bandori.party/u/c/art/550Hagumi-Kitazawa-Happy-Sl78KM.png"
 		},
 		{
-			"id": 614,
-			"name": "(Little Miss Detective) Hagumi Kitazawa",
-			"nick": "hagumi",
-			"alias": "r2",
-			"star": "2",
-			"skname": "It's the detective, Hagumi!",
-			"skill": "Restores 200 life.",
-			"stat": "Pure",
-			"pf": 6376,
-			"tech": 4249,
-			"vis": 3188,
-			"total": 13813,
-			"origin": "Event: The Phantom Thief of HaroHapi and the Luxury Cruise Ship! (13 April 2017)",
-			"icon": "http://i.bandori.party/u/c/614Hagumi-Kitazawa-Pure-5MrWRR.png",
-			"img": "http://i.bandori.party/u/c/art/614Hagumi-Kitazawa-Pure-akmHXk.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/614Hagumi-Kitazawa-Pure-akmHXk.png"
-		},
-		{
 			"id": 530,
 			"name": "(Stage) Himari Uehara",
 			"nick": "himari",
@@ -269,24 +251,6 @@
 			"icon": "http://i.bandori.party/u/c/502Kasumi-Toyama-Power-6Dh7uA.png",
 			"img": "http://i.bandori.party/u/c/art/502Kasumi-Toyama-Power-vQO5C1.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/502Kasumi-Toyama-Power-vQO5C1.png"
-		},
-		{
-			"id": 619,
-			"name": "(The First Visitor) Kasumi Toyama",
-			"nick": "kasumi",
-			"alias": "r2",
-			"star": "2",
-			"skname": "I Was Impressed!",
-			"skill": "Turns Great+ notes into Perfect notes for 5 seconds.",
-			"stat": "Pure",
-			"pf": 3246,
-			"tech": 4569,
-			"vis": 6133,
-			"total": 13948,
-			"origin": "Event: Rimi's Present Song! (21 April 2017)",
-			"icon": "http://i.bandori.party/u/c/619Kasumi-Toyama-Pure-yr0gI5.png",
-			"img": "http://i.bandori.party/u/c/art/619Kasumi-Toyama-Pure-5uTG0m.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/619Kasumi-Toyama-Pure-5uTG0m.png"
 		},
 		{
 			"id": 542,
