@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/575Maya-Yamato-Pure-m7Is3c.png",
 			"img": "http://i.bandori.party/u/c/art/575Maya-Yamato-Pure-e2ZVcw.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/575Maya-Yamato-Pure-lYlhwO.png"
+		},
+		{
+			"id": 663,
+			"name": "(Tears of Emotion) Maya Yamato",
+			"nick": "maya",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "It was a very nice stage.",
+			"skill": "Restores life by 200, up to 300, and boosts score by +30% for 5, up to 7.5 seconds",
+			"stat": "Powerful",
+			"pf": 7544,
+			"tech": 7378,
+			"vis": 11288,
+			"total": 26210,
+			"origin": "Event: When the Buds Blossom (21 July 2017)",
+			"icon": "http://i.bandori.party/u/c/663Maya-Yamato-Power-Lnz2g6.png",
+			"img": "http://i.bandori.party/u/c/art/663Maya-Yamato-Power-6VgjeI.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/663Maya-Yamato-Power-L6gOps.png"
 		}
 	]
 }

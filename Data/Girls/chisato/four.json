@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 661,
+			"name": "(Friends I Can Trust) Chisato Shirasagi",
+			"nick": "chisato",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "If you can tell me the truth.",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 8072,
+			"tech": 12486,
+			"vis": 9624,
+			"total": 30182,
+			"origin": "Gacha: Flowers and Butterflies (21 July 2017)",
+			"icon": "http://i.bandori.party/u/c/661Chisato-Shirasagi-Pure-5o5ZUM.png",
+			"img": "http://i.bandori.party/u/c/art/661Chisato-Shirasagi-Pure-Pk24xL.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/661Chisato-Shirasagi-Pure-nvTFVx.png"
+		}
+	]
+}

@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/640Hina-Hikawa-Power-39yQHV.png",
 			"img": "http://i.bandori.party/u/c/art/640Hina-Hikawa-Power-qF65Mm.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/640Hina-Hikawa-Power-qF65Mm.png"
+		},
+		{
+			"id": 665,
+			"name": "(Behind the Scenes) Hina Hikawa",
+			"nick": "hina",
+			"alias": "r3",
+			"star": "2",
+			"skname": "I wish I could depend on you more.",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 4006,
+			"tech": 4443,
+			"vis": 5843,
+			"total": 14292,
+			"origin": "Gacha: Flowers and Butterflies (21 July 2017)",
+			"icon": "http://i.bandori.party/u/c/665Hina-Hikawa-Pure-ApVV6q.png",
+			"img": "http://i.bandori.party/u/c/art/665Hina-Hikawa-Pure-Ue5OVt.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/665Hina-Hikawa-Pure-Ue5OVt.png"
 		}
 	]
 }

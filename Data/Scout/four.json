@@ -306,6 +306,42 @@
 			"icon": "http://i.bandori.party/u/c/652Sayo-Hikawa-Happy-k9DGu8.png",
 			"img": "http://i.bandori.party/u/c/art/652Sayo-Hikawa-Happy-iGOWzr.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/652Sayo-Hikawa-Happy-NxmwlB.png"
+		},
+		{
+			"id": 656,
+			"name": "(The Patient in Pajamas) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "Oh, Sorry.",
+			"skill": "Boosts score by +60% and turns GOOD+ notes into PERFECT notes for 5, up to 7.5 seconds",
+			"stat": "Powerful",
+			"pf": 11812,
+			"tech": 10013,
+			"vis": 8512,
+			"total": 30337,
+			"origin": "Gacha: Rockin' Nurse (11 July 2017)",
+			"icon": "http://i.bandori.party/u/c/656Tomoe-Udagawa-Power-wHPbNj.png",
+			"img": "http://i.bandori.party/u/c/art/656Tomoe-Udagawa-Power-qEjuVw.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/656Tomoe-Udagawa-Power-Li3lto.png"
+		},
+		{
+			"id": 657,
+			"name": "(Tomoe’s Exclusive Nurse) Ako Udagawa",
+			"nick": "ako",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "For my Older Sister!",
+			"skill": "Restores life by 500, up to 750.",
+			"stat": "Powerful",
+			"pf": 11186,
+			"tech": 9349,
+			"vis": 10565,
+			"total": 31100,
+			"origin": "Gacha: Rockin' Nurse (11 July 2017)",
+			"icon": "http://i.bandori.party/u/c/657Ako-Udagawa-Power-XZzeTm.png",
+			"img": "http://i.bandori.party/u/c/art/657Ako-Udagawa-Power-MwMshO.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/657Ako-Udagawa-Power-eXUilq.png"
 		}
 
     ]

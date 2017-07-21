@@ -1,64 +1,64 @@
 {
 	"eventTwo": [
 		{
-			"id": 660,
-			"name": "(A Kind Gift) Saaya Yamabuki",
-			"nick": "saaya",
-			"alias": "r2",
+			"id": 665,
+			"name": "(Behind the Scenes) Hina Hikawa",
+			"nick": "hina",
+			"alias": "r3",
 			"star": "2",
-			"skname": "Get Well Soon",
+			"skname": "I wish I could depend on you more.",
 			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
-			"stat": "Powerful",
-			"pf": 4332,
-			"tech": 5722,
-			"vis": 4573,
-			"total": 14627,
-			"origin": "Gacha: Rockin' Nurse (11 July 2017)",
-			"icon": "http://i.bandori.party/u/c/660Saaya-Yamabuki-Power-Xo4rQu.png",
-			"img": "http://i.bandori.party/u/c/art/660Saaya-Yamabuki-Power-4lrVeX.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/660Saaya-Yamabuki-Power-4lrVeX.png"
+			"stat": "Pure",
+			"pf": 4006,
+			"tech": 4443,
+			"vis": 5843,
+			"total": 14292,
+			"origin": "Gacha: Flowers and Butterflies (21 July 2017)",
+			"icon": "http://i.bandori.party/u/c/665Hina-Hikawa-Pure-ApVV6q.png",
+			"img": "http://i.bandori.party/u/c/art/665Hina-Hikawa-Pure-Ue5OVt.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/665Hina-Hikawa-Pure-Ue5OVt.png"
 		}
 		
 	],
 	"eventThree": [
+		{
+			"id": 662,
+			"name": "(A Bouquet of my Feelings) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Everyone is Supportive!",
+			"skill": "Boosts score by +30% and turns GREAT+ notes into PERFECT notes for 5, up to 7.5 seconds.",
+			"stat": "Pure",
+			"pf": 9005,
+			"tech": 9798,
+			"vis": 8794,
+			"total": 27597,
+			"origin": "Gacha: Flowers and Butterflies (21 July 2017)",
+			"icon": "http://i.bandori.party/u/c/662Eve-Wakamiya-Pure-93yF8K.png",
+			"img": "http://i.bandori.party/u/c/art/662Eve-Wakamiya-Pure-THL3j9.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/662Eve-Wakamiya-Pure-RzAjfc.png"
+		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 656,
-			"name": "(The Patient in Pajamas) Tomoe Udagawa",
-			"nick": "tomoe",
+			"id": 661,
+			"name": "(Friends I Can Trust) Chisato Shirasagi",
+			"nick": "chisato",
 			"alias": "ur1",
 			"star": "4",
-			"skname": "Oh, Sorry.",
-			"skill": "Boosts score by +60% and turns GOOD+ notes into PERFECT notes for 5, up to 7.5 seconds",
-			"stat": "Powerful",
-			"pf": 11812,
-			"tech": 10013,
-			"vis": 8512,
-			"total": 30337,
-			"origin": "Gacha: Rockin' Nurse (11 July 2017)",
-			"icon": "http://i.bandori.party/u/c/656Tomoe-Udagawa-Power-wHPbNj.png",
-			"img": "http://i.bandori.party/u/c/art/656Tomoe-Udagawa-Power-qEjuVw.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/656Tomoe-Udagawa-Power-Li3lto.png"
-		},
-		{
-			"id": 657,
-			"name": "(Tomoe’s Exclusive Nurse) Ako Udagawa",
-			"nick": "ako",
-			"alias": "ur1",
-			"star": "4",
-			"skname": "For my Older Sister!",
-			"skill": "Restores life by 500, up to 750.",
-			"stat": "Powerful",
-			"pf": 11186,
-			"tech": 9349,
-			"vis": 10565,
-			"total": 31100,
-			"origin": "Gacha: Rockin' Nurse (11 July 2017)",
-			"icon": "http://i.bandori.party/u/c/657Ako-Udagawa-Power-XZzeTm.png",
-			"img": "http://i.bandori.party/u/c/art/657Ako-Udagawa-Power-MwMshO.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/657Ako-Udagawa-Power-eXUilq.png"
+			"skname": "If you can tell me the truth.",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 8072,
+			"tech": 12486,
+			"vis": 9624,
+			"total": 30182,
+			"origin": "Gacha: Flowers and Butterflies (21 July 2017)",
+			"icon": "http://i.bandori.party/u/c/661Chisato-Shirasagi-Pure-5o5ZUM.png",
+			"img": "http://i.bandori.party/u/c/art/661Chisato-Shirasagi-Pure-Pk24xL.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/661Chisato-Shirasagi-Pure-nvTFVx.png"
 		}
 	]
 }
