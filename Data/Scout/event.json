@@ -1,64 +1,65 @@
 {
 	"eventTwo": [
+		
 		{
-			"id": 665,
-			"name": "(Behind the Scenes) Hina Hikawa",
-			"nick": "hina",
+			"id": 670,
+			"name": "(1 Day Manager) Aya Maruyama",
+			"nick": "aya",
 			"alias": "r3",
 			"star": "2",
-			"skname": "I wish I could depend on you more.",
-			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
-			"stat": "Pure",
-			"pf": 4006,
-			"tech": 4443,
-			"vis": 5843,
-			"total": 14292,
-			"origin": "Gacha: Flowers and Butterflies (21 July 2017)",
-			"icon": "http://i.bandori.party/u/c/665Hina-Hikawa-Pure-ApVV6q.png",
-			"img": "http://i.bandori.party/u/c/art/665Hina-Hikawa-Pure-Ue5OVt.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/665Hina-Hikawa-Pure-Ue5OVt.png"
+			"skname": "Everyone sit down sit down!",
+			"skill": "Restores life by 200, up to 300.",
+			"stat": "Cool",
+			"pf": 5587,
+			"tech": 4181,
+			"vis": 4856,
+			"total": 14624,
+			"origin": "Limited Gacha: Summer Sky Ocean Blue (31 July 2017)",
+			"icon": "http://i.bandori.party/u/c/670Aya-Maruyama-Cool-dRM9hS.png",
+			"img": "http://i.bandori.party/u/c/art/670Aya-Maruyama-Cool-enz3nb.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/670Aya-Maruyama-Cool-enz3nb.png"
 		}
-		
 	],
 	"eventThree": [
+
 		{
-			"id": 662,
-			"name": "(A Bouquet of my Feelings) Eve Wakamiya",
-			"nick": "eve",
-			"alias": "sr3",
+			"id": 667,
+			"name": "(3 People Playing in the Water) Himari Uehara",
+			"nick": "himari",
+			"alias": "sr2",
 			"star": "3",
-			"skname": "Everyone is Supportive!",
+			"skname": "I'm Definitely in the Ocean!",
 			"skill": "Boosts score by +30% and turns GREAT+ notes into PERFECT notes for 5, up to 7.5 seconds.",
-			"stat": "Pure",
-			"pf": 9005,
-			"tech": 9798,
-			"vis": 8794,
-			"total": 27597,
-			"origin": "Gacha: Flowers and Butterflies (21 July 2017)",
-			"icon": "http://i.bandori.party/u/c/662Eve-Wakamiya-Pure-93yF8K.png",
-			"img": "http://i.bandori.party/u/c/art/662Eve-Wakamiya-Pure-THL3j9.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/662Eve-Wakamiya-Pure-RzAjfc.png"
+			"stat": "Cool",
+			"pf": 10333,
+			"tech": 7809,
+			"vis": 9018,
+			"total": 27160,
+			"origin": "Limited Gacha: Summer Sky Ocean Blue (31 July 2017)",
+			"icon": "http://i.bandori.party/u/c/667Himari-Uehara-Cool-XJtCRZ.png",
+			"img": "http://i.bandori.party/u/c/art/667Himari-Uehara-Cool-z0uH3n.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/667Himari-Uehara-Cool-m6GInk.png"
 		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 661,
-			"name": "(Friends I Can Trust) Chisato Shirasagi",
-			"nick": "chisato",
+			"id": 666,
+			"name": "(Dazzling Sunlight) Lisa Imai",
+			"nick": "lisa",
 			"alias": "ur1",
 			"star": "4",
-			"skname": "If you can tell me the truth.",
+			"skname": "I am getting along~?",
 			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
-			"stat": "Pure",
-			"pf": 8072,
-			"tech": 12486,
-			"vis": 9624,
-			"total": 30182,
-			"origin": "Gacha: Flowers and Butterflies (21 July 2017)",
-			"icon": "http://i.bandori.party/u/c/661Chisato-Shirasagi-Pure-5o5ZUM.png",
-			"img": "http://i.bandori.party/u/c/art/661Chisato-Shirasagi-Pure-Pk24xL.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/661Chisato-Shirasagi-Pure-nvTFVx.png"
+			"stat": "Cool",
+			"pf": 7827,
+			"tech": 10172,
+			"vis": 12090,
+			"total": 30089,
+			"origin": "Limited Gacha: Summer Sky Ocean Blue (31 July 2017)",
+			"icon": "http://i.bandori.party/u/c/666Lisa-Imai-Cool-jLcnLS.png",
+			"img": "http://i.bandori.party/u/c/art/666Lisa-Imai-Cool-xlu43c.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/666Lisa-Imai-Cool-Sb8jNs.png"
 		}
 	]
 }

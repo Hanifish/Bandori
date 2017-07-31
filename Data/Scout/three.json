@@ -594,6 +594,24 @@
 			"icon": "http://i.bandori.party/u/c/647Yukina-Minato-Cool-1iCLmS.png",
 			"img": "http://i.bandori.party/u/c/art/647Yukina-Minato-Cool-yM1Yu9.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/647Yukina-Minato-Cool-wwVyaj.png"
+		},
+		{
+			"id": 662,
+			"name": "(A Bouquet of my Feelings) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Everyone is Supportive!",
+			"skill": "Boosts score by +30% and turns GREAT+ notes into PERFECT notes for 5, up to 7.5 seconds.",
+			"stat": "Pure",
+			"pf": 9005,
+			"tech": 9798,
+			"vis": 8794,
+			"total": 27597,
+			"origin": "Gacha: Flowers and Butterflies (21 July 2017)",
+			"icon": "http://i.bandori.party/u/c/662Eve-Wakamiya-Pure-93yF8K.png",
+			"img": "http://i.bandori.party/u/c/art/662Eve-Wakamiya-Pure-THL3j9.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/662Eve-Wakamiya-Pure-RzAjfc.png"
 		}
 
     ]

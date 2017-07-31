@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 666,
+			"name": "(Dazzling Sunlight) Lisa Imai",
+			"nick": "lisa",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "I am getting along~?",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Cool",
+			"pf": 7827,
+			"tech": 10172,
+			"vis": 12090,
+			"total": 30089,
+			"origin": "Limited Gacha: Summer Sky Ocean Blue (31 July 2017)",
+			"icon": "http://i.bandori.party/u/c/666Lisa-Imai-Cool-jLcnLS.png",
+			"img": "http://i.bandori.party/u/c/art/666Lisa-Imai-Cool-xlu43c.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/666Lisa-Imai-Cool-Sb8jNs.png"
+		}
+	]
+}

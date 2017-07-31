@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/608Rinko-Shirokane-Pure-2I7mDJ.png",
 			"img": "http://i.bandori.party/u/c/art/608Rinko-Shirokane-Pure-pT2phn.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/608Rinko-Shirokane-Pure-rI8zB1.png"
+		},
+		{
+			"id": 668,
+			"name": "(The Swimsuit that they Chose) Rinko Shirokane",
+			"nick": "rinko",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Swimming........ I'm not good at it.",
+			"skill": "Restores life by 300, up to 450.",
+			"stat": "Happy",
+			"pf": 10330,
+			"tech": 8972,
+			"vis": 7393,
+			"total": 26695,
+			"origin": "Event: Happy Summer Vacation! (31 July 2017)",
+			"icon": "http://i.bandori.party/u/c/668Rinko-Shirokane-Happy-3HdGv2.png",
+			"img": "http://i.bandori.party/u/c/art/668Rinko-Shirokane-Happy-eISoDL.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/668Rinko-Shirokane-Happy-8Tt3Re.png"
 		}
 	]
 }
