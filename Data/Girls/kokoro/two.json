@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/542Kokoro-Tsurumaki-Pure-KUDsRq.png",
 			"img": "http://i.bandori.party/u/c/art/542Kokoro-Tsurumaki-Pure-LISCIz.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/542Kokoro-Tsurumaki-Pure-LISCIz.png"
+		},
+		{
+			"id": 679,
+			"name": "(Garupa Cafe♪2017) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "r2",
+			"star": "2",
+			"skname": "Let's Eat Together!",
+			"skill": "Restores life by 200, up to 300.",
+			"stat": "Happy",
+			"pf": 4766,
+			"tech": 6296,
+			"vis": 5030,
+			"total": 16092,
+			"origin": "Campaign: BanG Dream Cafe 2017 (10 August 2017)",
+			"icon": "http://i.bandori.party/u/c/680Kokoro-Tsurumaki-Happy-xMmhjn.png",
+			"img": "http://i.bandori.party/u/c/art/680Kokoro-Tsurumaki-Happy-JZ2P1I.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/680Kokoro-Tsurumaki-Happy-JZ2P1I.png"
 		}
 	]
 }

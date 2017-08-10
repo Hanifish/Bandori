@@ -35,6 +35,42 @@
 			"icon": "http://i.bandori.party/u/c/619Kasumi-Toyama-Pure-yr0gI5.png",
 			"img": "http://i.bandori.party/u/c/art/619Kasumi-Toyama-Pure-5uTG0m.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/619Kasumi-Toyama-Pure-5uTG0m.png"
+		},
+		{
+			"id": 674,
+			"name": "(Vows! The Fireworks Festival) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "r3",
+			"star": "2",
+			"skname": "Ka～～～Gya～～～!",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 5905,
+			"tech": 4539,
+			"vis": 3507,
+			"total": 13951,
+			"origin": "Event: Overlapping Heartbeats, the Fireworks Festival (10 August 2017)",
+			"icon": "http://i.bandori.party/u/c/674Kasumi-Toyama-Happy-GKCe20.png",
+			"img": "http://i.bandori.party/u/c/art/674Kasumi-Toyama-Happy-E0kMpy.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/674Kasumi-Toyama-Happy-E0kMpy.png"
+		},
+		{
+			"id": 676,
+			"name": "(Garupa Cafe♪2017) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Welcome to Collab Cafe!",
+			"skill": "Turns GREAT+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Powerful",
+			"pf": 5227,
+			"tech": 6278,
+			"vis": 4405,
+			"total": 15910,
+			"origin": "Campaign: BanG Dream Cafe 2017 (10 August 2017)",
+			"icon": "http://i.bandori.party/u/c/676Kasumi-Toyama-Power-BdygOX.png",
+			"img": "http://i.bandori.party/u/c/art/676Kasumi-Toyama-Power-CoyFtT.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/676Kasumi-Toyama-Power-CoyFtT.png"
 		}
 	]
 }

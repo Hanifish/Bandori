@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/633Tae-Hanazono-Cool-kjSWr6.png",
 			"img": "http://i.bandori.party/u/c/art/633Tae-Hanazono-Cool-apE5Ib.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/633Tae-Hanazono-Cool-MkxoEM.png"
+		},
+		{
+			"id": 672,
+			"name": "(If We Hold Hands) Tae Hanazono",
+			"nick": "tae",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "fireworks Beat!",
+			"skill": "Boosts score by +30% and turns GREAT+ notes into PERFECT notes for 5, up to 7.5 seconds.",
+			"stat": "Happy",
+			"pf": 7532,
+			"tech": 8317,
+			"vis": 10844,
+			"total": 26693,
+			"origin": "Gacha: Kirakira Starmine (10 August 2017)",
+			"icon": "http://i.bandori.party/u/c/672Tae-Hanazono-Happy-DONRXy.png",
+			"img": "http://i.bandori.party/u/c/art/672Tae-Hanazono-Happy-jxk7Jg.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/672Tae-Hanazono-Happy-bPBr5m.png"
 		}
 	]
 }

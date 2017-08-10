@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/632Arisa-Ichigaya-Happy-nA96qB.png",
 			"img": "http://i.bandori.party/u/c/art/632Arisa-Ichigaya-Happy-yAC9I2.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/632Arisa-Ichigaya-Happy-n4yPC3.png"
+		},
+		{
+			"id": 673,
+			"name": "(My Secret Place) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Ta, tamaya.....",
+			"skill": "Turns GOOD+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Powerful",
+			"pf": 10791,
+			"tech": 7504,
+			"vis": 8400,
+			"total": 26695,
+			"origin": "Event: Overlapping Heartbeats, the Fireworks Festival (10 August 2017)",
+			"icon": "http://i.bandori.party/u/c/673Arisa-Ichigaya-Power-qRqlXR.png",
+			"img": "http://i.bandori.party/u/c/art/673Arisa-Ichigaya-Power-3YVQvI.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/673Arisa-Ichigaya-Power-LUVkCc.png"
 		}
 	]
 }

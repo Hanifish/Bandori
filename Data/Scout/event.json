@@ -2,64 +2,64 @@
 	"eventTwo": [
 		
 		{
-			"id": 670,
-			"name": "(1 Day Manager) Aya Maruyama",
-			"nick": "aya",
-			"alias": "r3",
+			"id": 675,
+			"name": "(Soft Coronet♪) Ushigome Rimi",
+			"nick": "rimi",
+			"alias": "r2",
 			"star": "2",
-			"skname": "Everyone sit down sit down!",
-			"skill": "Restores life by 200, up to 300.",
-			"stat": "Cool",
-			"pf": 5587,
-			"tech": 4181,
-			"vis": 4856,
-			"total": 14624,
-			"origin": "Limited Gacha: Summer Sky Ocean Blue (31 July 2017)",
-			"icon": "http://i.bandori.party/u/c/670Aya-Maruyama-Cool-dRM9hS.png",
-			"img": "http://i.bandori.party/u/c/art/670Aya-Maruyama-Cool-enz3nb.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/670Aya-Maruyama-Cool-enz3nb.png"
+			"skname": "Happy Sound!?",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 5783,
+			"tech": 3885,
+			"vis": 4624,
+			"total": 14292,
+			"origin": "Gacha: Kirakira Starmine (10 August 2017)",
+			"icon": "http://i.bandori.party/u/c/675Rimi-Ushigome-Happy-yP7NTP.png",
+			"img": "http://i.bandori.party/u/c/art/675Rimi-Ushigome-Happy-WnJSrB.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/675Rimi-Ushigome-Happy-WnJSrB.png"
 		}
 	],
 	"eventThree": [
 
 		{
-			"id": 667,
-			"name": "(3 People Playing in the Water) Himari Uehara",
-			"nick": "himari",
-			"alias": "sr2",
+			"id": 672,
+			"name": "(If We Hold Hands) Tae Hanazono",
+			"nick": "tae",
+			"alias": "sr3",
 			"star": "3",
-			"skname": "I'm Definitely in the Ocean!",
+			"skname": "fireworks Beat!",
 			"skill": "Boosts score by +30% and turns GREAT+ notes into PERFECT notes for 5, up to 7.5 seconds.",
-			"stat": "Cool",
-			"pf": 10333,
-			"tech": 7809,
-			"vis": 9018,
-			"total": 27160,
-			"origin": "Limited Gacha: Summer Sky Ocean Blue (31 July 2017)",
-			"icon": "http://i.bandori.party/u/c/667Himari-Uehara-Cool-XJtCRZ.png",
-			"img": "http://i.bandori.party/u/c/art/667Himari-Uehara-Cool-z0uH3n.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/667Himari-Uehara-Cool-m6GInk.png"
+			"stat": "Happy",
+			"pf": 7532,
+			"tech": 8317,
+			"vis": 10844,
+			"total": 26693,
+			"origin": "Gacha: Kirakira Starmine (10 August 2017)",
+			"icon": "http://i.bandori.party/u/c/672Tae-Hanazono-Happy-DONRXy.png",
+			"img": "http://i.bandori.party/u/c/art/672Tae-Hanazono-Happy-jxk7Jg.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/672Tae-Hanazono-Happy-bPBr5m.png"
 		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 666,
-			"name": "(Dazzling Sunlight) Lisa Imai",
-			"nick": "lisa",
-			"alias": "ur1",
+			"id": 671,
+			"name": "(Dusk and Dressing Up) Saaya Yamabuki",
+			"nick": "saaya",
+			"alias": "ur2",
 			"star": "4",
-			"skname": "I am getting along~?",
+			"skname": "Let's Hold Hands",
 			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
-			"stat": "Cool",
-			"pf": 7827,
-			"tech": 10172,
-			"vis": 12090,
-			"total": 30089,
-			"origin": "Limited Gacha: Summer Sky Ocean Blue (31 July 2017)",
-			"icon": "http://i.bandori.party/u/c/666Lisa-Imai-Cool-jLcnLS.png",
-			"img": "http://i.bandori.party/u/c/art/666Lisa-Imai-Cool-xlu43c.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/666Lisa-Imai-Cool-Sb8jNs.png"
+			"stat": "Happy",
+			"pf": 11634,
+			"tech": 10113,
+			"vis": 9346,
+			"total": 30093,
+			"origin": "Gacha: Kirakira Starmine (10 August 2017)",
+			"icon": "http://i.bandori.party/u/c/671Saaya-Yamabuki-Happy-S7J5Gn.png",
+			"img": "http://i.bandori.party/u/c/art/671Saaya-Yamabuki-Happy-31dHzP.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/671Saaya-Yamabuki-Happy-rye7Uz.png"
 		}
 	]
 }

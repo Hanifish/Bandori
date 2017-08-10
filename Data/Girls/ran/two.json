@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/522Ran-Mitake-Power-dBBpEe.png",
 			"img": "http://i.bandori.party/u/c/art/522Ran-Mitake-Power-H5Y3cp.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/522Ran-Mitake-Power-H5Y3cp.png"
+		},
+		{
+			"id": 677,
+			"name": "(Garupa Cafe♪2017) Ran Mitake",
+			"nick": "ran",
+			"alias": "r2",
+			"star": "2",
+			"skname": "So, what's your order?",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Cool",
+			"pf": 6930,
+			"tech": 3675,
+			"vis": 4758,
+			"total": 15363,
+			"origin": "Campaign: BanG Dream Cafe 2017 (10 August 2017)",
+			"icon": "http://i.bandori.party/u/c/677Ran-Mitake-Cool-D9cPfi.png",
+			"img": "http://i.bandori.party/u/c/art/677Ran-Mitake-Cool-HAbA9c.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/677Ran-Mitake-Cool-HAbA9c.png"
 		}
 	]
 }

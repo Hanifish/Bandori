@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/582Yukina-Minato-Power-rU40sU.png",
 			"img": "http://i.bandori.party/u/c/art/582Yukina-Minato-Power-c78vmM.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/582Yukina-Minato-Power-c78vmM.png"
+		},
+		{
+			"id": 679,
+			"name": "(Garupa Cafe♪2017) Yukina Minato",
+			"nick": "yukina",
+			"alias": "r2",
+			"star": "2",
+			"skname": "Here's your seat.",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 6492,
+			"tech": 4992,
+			"vis": 3858,
+			"total": 15342,
+			"origin": "Campaign: BanG Dream Cafe 2017 (10 August 2017)",
+			"icon": "http://i.bandori.party/u/c/679Yukina-Minato-Happy-XJWDZJ.png",
+			"img": "http://i.bandori.party/u/c/art/679Yukina-Minato-Happy-MeEHGj.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/679Yukina-Minato-Happy-MeEHGj.png"
 		}
 	]
 }

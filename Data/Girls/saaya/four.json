@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/516Saaya-Yamabuki-Pure-U1vpND.png",
 			"img": "http://i.bandori.party/u/c/art/516Saaya-Yamabuki-Pure-9CbJCI.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/516Saaya-Yamabuki-Pure-H4bpXE.png"
+		},
+		{
+			"id": 671,
+			"name": "(Dusk and Dressing Up) Saaya Yamabuki",
+			"nick": "saaya",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Let's Hold Hands",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 11634,
+			"tech": 10113,
+			"vis": 9346,
+			"total": 30093,
+			"origin": "Gacha: Kirakira Starmine (10 August 2017)",
+			"icon": "http://i.bandori.party/u/c/671Saaya-Yamabuki-Happy-S7J5Gn.png",
+			"img": "http://i.bandori.party/u/c/art/671Saaya-Yamabuki-Happy-31dHzP.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/671Saaya-Yamabuki-Happy-rye7Uz.png"
 		}
 	]
 }
