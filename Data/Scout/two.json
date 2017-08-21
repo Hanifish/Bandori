@@ -647,6 +647,24 @@
 			"icon": "http://i.bandori.party/u/c/665Hina-Hikawa-Pure-ApVV6q.png",
 			"img": "http://i.bandori.party/u/c/art/665Hina-Hikawa-Pure-Ue5OVt.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/665Hina-Hikawa-Pure-Ue5OVt.png"
+		},
+		{
+			"id": 675,
+			"name": "(Soft Coronet♪) Rimi Ushigome",
+			"nick": "rimi",
+			"alias": "r2",
+			"star": "2",
+			"skname": "Happy Sound!?",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 5783,
+			"tech": 3885,
+			"vis": 4624,
+			"total": 14292,
+			"origin": "Gacha: Kirakira Starmine (10 August 2017)",
+			"icon": "http://i.bandori.party/u/c/675Rimi-Ushigome-Happy-yP7NTP.png",
+			"img": "http://i.bandori.party/u/c/art/675Rimi-Ushigome-Happy-WnJSrB.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/675Rimi-Ushigome-Happy-WnJSrB.png"
 		}
     ]
 }

@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/527Moca-Aoba-Happy-Us9hin.png",
 			"img": "http://i.bandori.party/u/c/art/527Moca-Aoba-Happy-dkHY2l.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/527Moca-Aoba-Happy-TuMwsM.png"
+		},
+		{
+			"id": 682,
+			"name": "(Seven Wonders of the Academy) Moca Aoba",
+			"nick": "moca",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "Seven Wonders Tradition~",
+			"skill": "Boosts score by +30% and turns GREAT+ notes into PERFECT notes for 5, up to 7.5 seconds.",
+			"stat": "Powerful",
+			"pf": 8509,
+			"tech": 6879,
+			"vis": 11119,
+			"total": 26507,
+			"origin": "Gacha: Haunted High Schooooool!!!!! (21 August 2017)",
+			"icon": "http://i.bandori.party/u/c/682Moca-Aoba-Power-xwEOCH.png",
+			"img": "http://i.bandori.party/u/c/art/682Moca-Aoba-Power-84ISId.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/682Moca-Aoba-Power-M9knLC.png"
 		}
 	]
 }

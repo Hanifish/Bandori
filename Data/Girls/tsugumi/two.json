@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/659Tsugumi-Hazawa-Cool-DWGnaF.png",
 			"img": "http://i.bandori.party/u/c/art/659Tsugumi-Hazawa-Cool-6liMz4.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/659Tsugumi-Hazawa-Cool-6liMz4.png"
+		},
+		{
+			"id": 684,
+			"name": "(The Brave Tsugu) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Go, we'll go!",
+			"skill": "Turns GREAT+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Happy",
+			"pf": 5184,
+			"tech": 5054,
+			"vis": 4711,
+			"total": 14949,
+			"origin": "Event: 6th Afterglow (21 August 2017)",
+			"icon": "http://i.bandori.party/u/c/684Tsugumi-Hazawa-Happy-a4tphy.png",
+			"img": "http://i.bandori.party/u/c/art/684Tsugumi-Hazawa-Happy-5XYd3r.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/684Tsugumi-Hazawa-Happy-5XYd3r.png"
 		}
 	]
 }

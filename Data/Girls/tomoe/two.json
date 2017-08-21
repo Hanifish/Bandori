@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/629Tomoe-Udagawa-Happy-oIYrwK.png",
 			"img": "http://i.bandori.party/u/c/art/629Tomoe-Udagawa-Happy-hQUQNK.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/629Tomoe-Udagawa-Happy-hQUQNK.png"
+		},
+		{
+			"id": 685,
+			"name": "(Ghost Stories of the Staircase) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "r3",
+			"star": "2",
+			"skname": "13th Step...?",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 4221,
+			"tech": 5620,
+			"vis": 4779,
+			"total": 14620,
+			"origin": "Gacha: Haunted High Schooooool!!!!! (21 August 2017)",
+			"icon": "http://i.bandori.party/u/c/685Tomoe-Udagawa-Power-fDlCA1.png",
+			"img": "http://i.bandori.party/u/c/art/685Tomoe-Udagawa-Power-VHeYD6.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/685Tomoe-Udagawa-Power-VHeYD6.png"
 		}
 	]
 }

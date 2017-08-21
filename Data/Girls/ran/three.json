@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/627Ran-Mitake-Pure-wHegPt.png",
 			"img": "http://i.bandori.party/u/c/art/627Ran-Mitake-Pure-ZhpEOh.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/627Ran-Mitake-Pure-Eupos7.png"
+		},
+		{
+			"id": 683,
+			"name": "(Scary Library) Ran Mitake",
+			"nick": "ran",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "I'm Not Scared!",
+			"skill": "Restores life by 200, up to 300. Then, boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Cool",
+			"pf": 9658,
+			"tech": 9389,
+			"vis": 8105,
+			"total": 27152,
+			"origin": "Event: 6th Afterglow (21 August 2017)",
+			"icon": "http://i.bandori.party/u/c/683Ran-Mitake-Cool-XR4GDP.png",
+			"img": "http://i.bandori.party/u/c/art/683Ran-Mitake-Cool-XrvMLL.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/683Ran-Mitake-Cool-iiqGva.png"
 		}
 	]
 }

@@ -2,64 +2,64 @@
 	"eventTwo": [
 		
 		{
-			"id": 675,
-			"name": "(Soft Coronet♪) Ushigome Rimi",
-			"nick": "rimi",
-			"alias": "r2",
+			"id": 685,
+			"name": "(Ghost Stories of the Staircase) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "r3",
 			"star": "2",
-			"skname": "Happy Sound!?",
+			"skname": "13th Step...?",
 			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
-			"stat": "Happy",
-			"pf": 5783,
-			"tech": 3885,
-			"vis": 4624,
-			"total": 14292,
-			"origin": "Gacha: Kirakira Starmine (10 August 2017)",
-			"icon": "http://i.bandori.party/u/c/675Rimi-Ushigome-Happy-yP7NTP.png",
-			"img": "http://i.bandori.party/u/c/art/675Rimi-Ushigome-Happy-WnJSrB.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/675Rimi-Ushigome-Happy-WnJSrB.png"
+			"stat": "Powerful",
+			"pf": 4221,
+			"tech": 5620,
+			"vis": 4779,
+			"total": 14620,
+			"origin": "Gacha: Haunted High Schooooool!!!!! (21 August 2017)",
+			"icon": "http://i.bandori.party/u/c/685Tomoe-Udagawa-Power-fDlCA1.png",
+			"img": "http://i.bandori.party/u/c/art/685Tomoe-Udagawa-Power-VHeYD6.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/685Tomoe-Udagawa-Power-VHeYD6.png"
 		}
 	],
 	"eventThree": [
 
 		{
-			"id": 672,
-			"name": "(If We Hold Hands) Tae Hanazono",
-			"nick": "tae",
-			"alias": "sr3",
+			"id": 682,
+			"name": "(Seven Wonders of the Academy) Moca Aoba",
+			"nick": "moca",
+			"alias": "sr2",
 			"star": "3",
-			"skname": "fireworks Beat!",
+			"skname": "Seven Wonders Tradition~",
 			"skill": "Boosts score by +30% and turns GREAT+ notes into PERFECT notes for 5, up to 7.5 seconds.",
-			"stat": "Happy",
-			"pf": 7532,
-			"tech": 8317,
-			"vis": 10844,
-			"total": 26693,
-			"origin": "Gacha: Kirakira Starmine (10 August 2017)",
-			"icon": "http://i.bandori.party/u/c/672Tae-Hanazono-Happy-DONRXy.png",
-			"img": "http://i.bandori.party/u/c/art/672Tae-Hanazono-Happy-jxk7Jg.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/672Tae-Hanazono-Happy-bPBr5m.png"
+			"stat": "Powerful",
+			"pf": 8509,
+			"tech": 6879,
+			"vis": 11119,
+			"total": 26507,
+			"origin": "Gacha: Haunted High Schooooool!!!!! (21 August 2017)",
+			"icon": "http://i.bandori.party/u/c/682Moca-Aoba-Power-xwEOCH.png",
+			"img": "http://i.bandori.party/u/c/art/682Moca-Aoba-Power-84ISId.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/682Moca-Aoba-Power-M9knLC.png"
 		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 671,
-			"name": "(Dusk and Dressing Up) Saaya Yamabuki",
-			"nick": "saaya",
-			"alias": "ur2",
+			"id": 681,
+			"name": "(Lost Ghost) Himari Uehara",
+			"nick": "himari",
+			"alias": "ur1",
 			"star": "4",
-			"skname": "Let's Hold Hands",
+			"skname": "A lifetime request!!",
 			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
-			"stat": "Happy",
-			"pf": 11634,
-			"tech": 10113,
-			"vis": 9346,
-			"total": 30093,
-			"origin": "Gacha: Kirakira Starmine (10 August 2017)",
-			"icon": "http://i.bandori.party/u/c/671Saaya-Yamabuki-Happy-S7J5Gn.png",
-			"img": "http://i.bandori.party/u/c/art/671Saaya-Yamabuki-Happy-31dHzP.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/671Saaya-Yamabuki-Happy-rye7Uz.png"
+			"stat": "Powerful",
+			"pf": 9471,
+			"tech": 12636,
+			"vis": 7639,
+			"total": 29746,
+			"origin": "Gacha: Haunted High Schooooool!!!!! (21 August 2017)",
+			"icon": "http://i.bandori.party/u/c/681Himari-Uehara-Power-weGMFO.png",
+			"img": "http://i.bandori.party/u/c/art/681Himari-Uehara-Power-MGjHPN.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/681Himari-Uehara-Power-zojGm1.png"
 		}
 	]
 }
