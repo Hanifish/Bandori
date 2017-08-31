@@ -2,64 +2,64 @@
 	"eventTwo": [
 		
 		{
-			"id": 685,
-			"name": "(Ghost Stories on the Staircase) Tomoe Udagawa",
-			"nick": "tomoe",
+			"id": 695,
+			"name": "(Supporting the Two) Maya Yamato",
+			"nick": "maya",
 			"alias": "r3",
 			"star": "2",
-			"skname": "13th Step...?",
+			"skname": "Behind the Scenes!",
 			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
-			"stat": "Powerful",
-			"pf": 4221,
-			"tech": 5620,
-			"vis": 4779,
-			"total": 14620,
-			"origin": "Gacha: Haunted High Schooooool!!!!! (21 August 2017)",
-			"icon": "http://i.bandori.party/u/c/685Tomoe-Udagawa-Power-fDlCA1.png",
-			"img": "http://i.bandori.party/u/c/art/685Tomoe-Udagawa-Power-VHeYD6.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/685Tomoe-Udagawa-Power-VHeYD6.png"
+			"stat": "Pure",
+			"pf": 4736,
+			"tech": 5573,
+			"vis": 4318,
+			"total": 14627,
+			"origin": "Gacha: Sonata of Blue and Crimson (31 August 2017)",
+			"icon": "http://i.bandori.party/u/c/695Maya-Yamato-Pure-nyYSxi.png",
+			"img": "http://i.bandori.party/u/c/art/695Maya-Yamato-Pure-0CXG9b.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/695Maya-Yamato-Pure-0CXG9b.png"
 		}
 	],
 	"eventThree": [
 
 		{
-			"id": 682,
-			"name": "(Seven Wonders of the Academy) Moca Aoba",
-			"nick": "moca",
-			"alias": "sr2",
+			"id": 692,
+			"name": "(The Work of the Student Council) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "sr3",
 			"star": "3",
-			"skname": "Seven Wonders Tradition~",
-			"skill": "Boosts score by +30% and turns GREAT+ notes into PERFECT notes for 5, up to 7.5 seconds.",
-			"stat": "Powerful",
-			"pf": 8509,
-			"tech": 6879,
-			"vis": 11119,
-			"total": 26507,
-			"origin": "Gacha: Haunted High Schooooool!!!!! (21 August 2017)",
-			"icon": "http://i.bandori.party/u/c/682Moca-Aoba-Power-xwEOCH.png",
-			"img": "http://i.bandori.party/u/c/art/682Moca-Aoba-Power-84ISId.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/682Moca-Aoba-Power-M9knLC.png"
+			"skname": "Go for it!",
+			"skill": "Restores life by 200, up to 300. Then, boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Pure",
+			"pf": 8026,
+			"tech": 10381,
+			"vis": 9190,
+			"total": 27595,
+			"origin": "Gacha: Sonata of Blue and Crimson (31 August 2017)",
+			"icon": "http://i.bandori.party/u/c/692Tsugumi-Hazawa-Pure-nPqc9r.png",
+			"img": "http://i.bandori.party/u/c/art/692Tsugumi-Hazawa-Pure-QX0UA0.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/692Tsugumi-Hazawa-Pure-9WOz4n.png"
 		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 681,
-			"name": "(Forgetful Ghost) Himari Uehara",
-			"nick": "himari",
+			"id": 691,
+			"name": "(My Past Name) Kaoru Seta",
+			"nick": "kaoru",
 			"alias": "ur1",
 			"star": "4",
-			"skname": "A lifetime request!!",
+			"skname": "Wings of Love",
 			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
-			"stat": "Powerful",
-			"pf": 9471,
-			"tech": 12636,
-			"vis": 7639,
-			"total": 29746,
-			"origin": "Gacha: Haunted High Schooooool!!!!! (21 August 2017)",
-			"icon": "http://i.bandori.party/u/c/681Himari-Uehara-Power-weGMFO.png",
-			"img": "http://i.bandori.party/u/c/art/681Himari-Uehara-Power-MGjHPN.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/681Himari-Uehara-Power-zojGm1.png"
+			"stat": "Pure",
+			"pf": 12272,
+			"tech": 9624,
+			"vis": 8192,
+			"total": 30088,
+			"origin": "Gacha: Sonata of Blue and Crimson (31 August 2017)",
+			"icon": "http://i.bandori.party/u/c/691Kaoru-Seta-Pure-1f8PCq.png",
+			"img": "http://i.bandori.party/u/c/art/691Kaoru-Seta-Pure-ITxUXD.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/691Kaoru-Seta-Pure-qB2PDH.png"
 		}
 	]
 }
