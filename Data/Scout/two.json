@@ -683,6 +683,24 @@
 			"icon": "http://i.bandori.party/u/c/685Tomoe-Udagawa-Power-fDlCA1.png",
 			"img": "http://i.bandori.party/u/c/art/685Tomoe-Udagawa-Power-VHeYD6.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/685Tomoe-Udagawa-Power-VHeYD6.png"
+		},
+		{
+			"id": 695,
+			"name": "(Supporting the Two) Maya Yamato",
+			"nick": "maya",
+			"alias": "r3",
+			"star": "2",
+			"skname": "Behind the Scenes!",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 4736,
+			"tech": 5573,
+			"vis": 4318,
+			"total": 14627,
+			"origin": "Gacha: Sonata of Blue and Crimson (31 August 2017)",
+			"icon": "http://i.bandori.party/u/c/695Maya-Yamato-Pure-nyYSxi.png",
+			"img": "http://i.bandori.party/u/c/art/695Maya-Yamato-Pure-0CXG9b.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/695Maya-Yamato-Pure-0CXG9b.png"
 		}
     ]
 }

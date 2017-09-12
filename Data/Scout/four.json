@@ -396,6 +396,24 @@
 			"icon": "http://i.bandori.party/u/c/681Himari-Uehara-Power-weGMFO.png",
 			"img": "http://i.bandori.party/u/c/art/681Himari-Uehara-Power-MGjHPN.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/681Himari-Uehara-Power-zojGm1.png"
+		},
+		{
+			"id": 691,
+			"name": "(My Past Name) Kaoru Seta",
+			"nick": "kaoru",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "Wings of Love",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 12272,
+			"tech": 9624,
+			"vis": 8192,
+			"total": 30088,
+			"origin": "Gacha: Sonata of Blue and Crimson (31 August 2017)",
+			"icon": "http://i.bandori.party/u/c/691Kaoru-Seta-Pure-1f8PCq.png",
+			"img": "http://i.bandori.party/u/c/art/691Kaoru-Seta-Pure-ITxUXD.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/691Kaoru-Seta-Pure-qB2PDH.png"
 		}
 
     ]

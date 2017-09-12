@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/603Kokoro-Tsurumaki-Pure-0xzCfK.png",
 			"img": "http://i.bandori.party/u/c/art/603Kokoro-Tsurumaki-Pure-a9Ovog.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/603Kokoro-Tsurumaki-Pure-b6rVXV.png"
+		},
+		{
+			"id": 728,
+			"name": "(Happy Revolution!) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "I will go monmon!",
+			"skill": "Restores life by 200, up to 300. Then, boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Happy",
+			"pf": 9165,
+			"tech": 9693,
+			"vis": 8741,
+			"total": 27599,
+			"origin": "Event: Hello, My Happy World (12 Sept 2017)",
+			"icon": "http://i.bandori.party/u/c/728Kokoro-Tsurumaki-Happy-YROijA.png",
+			"img": "http://i.bandori.party/u/c/art/728Kokoro-Tsurumaki-Happy-a0GhSG.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/728Kokoro-Tsurumaki-Happy-vckGfR.png"
 		}
 	]
 }

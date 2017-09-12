@@ -648,6 +648,24 @@
 			"icon": "http://i.bandori.party/u/c/682Moca-Aoba-Power-xwEOCH.png",
 			"img": "http://i.bandori.party/u/c/art/682Moca-Aoba-Power-84ISId.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/682Moca-Aoba-Power-M9knLC.png"
+		},
+		{
+			"id": 692,
+			"name": "(The Work of the Student Council) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Go for it!",
+			"skill": "Restores life by 200, up to 300. Then, boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Pure",
+			"pf": 8026,
+			"tech": 10381,
+			"vis": 9190,
+			"total": 27595,
+			"origin": "Gacha: Sonata of Blue and Crimson (31 August 2017)",
+			"icon": "http://i.bandori.party/u/c/692Tsugumi-Hazawa-Pure-nPqc9r.png",
+			"img": "http://i.bandori.party/u/c/art/692Tsugumi-Hazawa-Pure-QX0UA0.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/692Tsugumi-Hazawa-Pure-9WOz4n.png"
 		}
 
     ]
