@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/635Eve-Wakamiya-Happy-k6a9dU.png",
 			"img": "http://i.bandori.party/u/c/art/635Eve-Wakamiya-Happy-wYmGt4.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/635Eve-Wakamiya-Happy-wYmGt4.png"
+		},
+		{
+			"id": 739,
+			"name": "(Full Power Concentration) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "r4",
+			"star": "2",
+			"skname": "My heart is troubled!",
+			"skill": "Boosts score by +30% for 5, up to 7 second.",
+			"stat": "Powerful",
+			"pf": 5982,
+			"tech": 3583,
+			"vis": 4387,
+			"total": 13952,
+			"origin": "Event: PasuPare Expedition Team ~Idols Who Conquer a Deserted Island~ (21 Sept 2017)",
+			"icon": "http://i.bandori.party/u/c/739Eve-Wakamiya-Power-hKIPPh.png",
+			"img": "http://i.bandori.party/u/c/art/739Eve-Wakamiya-Power-nbuwUE.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/739Eve-Wakamiya-Power-nbuwUE.png"
 		}
 	]
 }

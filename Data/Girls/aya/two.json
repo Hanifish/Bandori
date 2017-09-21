@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/678Aya-Maruyama-Pure-1nzmFb.png",
 			"img": "http://i.bandori.party/u/c/art/678Aya-Maruyama-Pure-RjJ8Dv.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/678Aya-Maruyama-Pure-RjJ8Dv.png"
+		},
+		{
+			"id": 740,
+			"name": "(Full Power Stand By) Aya Maruyama",
+			"nick": "aya",
+			"alias": "r5",
+			"star": "2",
+			"skname": "I am waiting...",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 4022,
+			"tech": 5829,
+			"vis": 4443,
+			"total": 14294,
+			"origin": "Gacha: Dokidoki!? Idol Survival (21 Sept 2017)",
+			"icon": "http://i.bandori.party/u/c/740Aya-Maruyama-Happy-rkluKQ.png",
+			"img": "http://i.bandori.party/u/c/art/740Aya-Maruyama-Happy-mhjS5l.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/740Aya-Maruyama-Happy-mhjS5l.png"
 		}
 	]
 }

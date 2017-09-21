@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/623Hina-Hikawa-Cool-V1pRfq.png",
 			"img": "http://i.bandori.party/u/c/art/623Hina-Hikawa-Cool-E8QO2d.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/623Hina-Hikawa-Cool-pVHMYq.png"
+		},
+		{
+			"id": 738,
+			"name": "(Full Power Swaying!) Hina Hikawa",
+			"nick": "hina",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Thrilled, it's OK!",
+			"skill": "Boosts score by +30% and turns GREAT+ notes into PERFECT notes for 5, up to 7.5 seconds.",
+			"stat": "Pure",
+			"pf": 7893,
+			"tech": 10384,
+			"vis": 8881,
+			"total": 27158,
+			"origin": "Event: PasuPare Expedition Team ~Idols Who Conquer a Deserted Island~ (21 Sept 2017)",
+			"icon": "http://i.bandori.party/u/c/738Hina-Hikawa-Pure-TqOvMl.png",
+			"img": "http://i.bandori.party/u/c/art/738Hina-Hikawa-Pure-CeDlYi.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/738Hina-Hikawa-Pure-WSuaJA.png"
 		}
 	]
 }

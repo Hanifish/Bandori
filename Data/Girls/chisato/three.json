@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/693Chisato-Shirasagi-Pure-5Q44EM.png",
 			"img": "http://i.bandori.party/u/c/art/693Chisato-Shirasagi-Pure-YW5JIw.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/693Chisato-Shirasagi-Pure-Qi96iT.png"
+		},
+		{
+			"id": 737,
+			"name": "(Full Power Panic) Chisato Shirasagi",
+			"nick": "chisato",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Always stay safe",
+			"skill": "Boosts score by +60% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 8239,
+			"tech": 8722,
+			"vis": 10197,
+			"total": 27158,
+			"origin": "Gacha: Dokidoki!? Idol Survival (21 Sept 2017)",
+			"icon": "http://i.bandori.party/u/c/737Chisato-Shirasagi-Happy-MhDwnC.png",
+			"img": "http://i.bandori.party/u/c/art/737Chisato-Shirasagi-Happy-95rYNn.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/737Chisato-Shirasagi-Happy-HAKHq2.png"
 		}
 	]
 }
