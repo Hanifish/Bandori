@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/680Kokoro-Tsurumaki-Happy-xMmhjn.png",
 			"img": "http://i.bandori.party/u/c/art/680Kokoro-Tsurumaki-Happy-JZ2P1I.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/680Kokoro-Tsurumaki-Happy-JZ2P1I.png"
+		},
+		{
+			"id": 751,
+			"name": "(An Entrance with a Bang!) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "r3",
+			"star": "2",
+			"skname": "Anyways, Bang-o",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 5001,
+			"tech": 4009,
+			"vis": 6595,
+			"total": 15605,
+			"origin": "Campaign: Election #1 School Festival (24 Sept 2017)",
+			"icon": "http://i.bandori.party/u/c/751Kokoro-Tsurumaki-Pure-6h5ADW.png",
+			"img": "http://i.bandori.party/u/c/art/751Kokoro-Tsurumaki-Pure-ScfOtP.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/751Kokoro-Tsurumaki-Pure-ScfOtP.png"
 		}
 	]
 }

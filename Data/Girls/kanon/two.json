@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/654Kanon-Matsubara-Cool-IrzoV3.png",
 			"img": "http://i.bandori.party/u/c/art/654Kanon-Matsubara-Cool-JggKTB.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/654Kanon-Matsubara-Cool-JggKTB.png"
+		},
+		{
+			"id": 754,
+			"name": "(An Entrance with a Bang!) Kanon Matsubara",
+			"nick": "kanon",
+			"alias": "r4",
+			"star": "3",
+			"skname": "Sorry I made you wait!",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 4938,
+			"tech": 6659,
+			"vis": 3943,
+			"total": 15540,
+			"origin": "Campaign: Election #1 School Festival (24 Sept 2017)",
+			"icon": "http://i.bandori.party/u/c/754Kanon-Matsubara-Pure-hBl7ZV.png",
+			"img": "http://i.bandori.party/u/c/art/754Kanon-Matsubara-Pure-fgHoJO.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/754Kanon-Matsubara-Pure-fgHoJO.png"
 		}
 	]
 }

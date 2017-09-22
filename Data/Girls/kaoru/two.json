@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/729Kaoru-Seta-Power-EvND7T.png",
 			"img": "http://i.bandori.party/u/c/art/729Kaoru-Seta-Power-0eomMf.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/729Kaoru-Seta-Power-0eomMf.png"
+		},
+		{
+			"id": 752,
+			"name": "(An Entrance with a Bang!) Kaoru Seta",
+			"nick": "kaoru",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Spectacularly Passionate",
+			"skill": "Turns GREAT+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Happy",
+			"pf": 4635,
+			"tech": 5372,
+			"vis": 6129,
+			"total": 16136,
+			"origin": "Campaign: Election #1 School Festival (24 Sept 2017)",
+			"icon": "http://i.bandori.party/u/c/752Kaoru-Seta-Happy-ZGYTm0.png",
+			"img": "http://i.bandori.party/u/c/art/752Kaoru-Seta-Happy-d9tf31.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/752Kaoru-Seta-Happy-d9tf31.png"
 		}
 	]
 }
