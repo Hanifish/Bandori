@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/675Rimi-Ushigome-Happy-yP7NTP.png",
 			"img": "http://i.bandori.party/u/c/art/675Rimi-Ushigome-Happy-WnJSrB.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/675Rimi-Ushigome-Happy-WnJSrB.png"
+		},
+		{
+			"id": 745,
+			"name": "(A Shy Angel) Rimi Ushigome",
+			"nick": "rimi",
+			"alias": "r3",
+			"star": "2",
+			"skname": "Lovely Helper",
+			"skill": "Turns GREAT+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Powerful",
+			"pf": 5157,
+			"tech": 4817,
+			"vis": 4979,
+			"total": 14953,
+			"origin": "Limited Gacha: One Night Magic (30 Sept 2017)",
+			"icon": "http://i.bandori.party/u/c/745Rimi-Ushigome-Power-MobPoi.png",
+			"img": "http://i.bandori.party/u/c/art/745Rimi-Ushigome-Power-sWkhsb.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/745Rimi-Ushigome-Power-sWkhsb.png"
 		}
 	]
 }

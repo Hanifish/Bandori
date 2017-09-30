@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/611Kokoro-Tsurumaki-Happy-I8NfFD.png",
 			"img": "http://i.bandori.party/u/c/art/611Kokoro-Tsurumaki-Happy-6X74F3.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/611Kokoro-Tsurumaki-Happy-vLZGD1.png"
+		},
+		{
+			"id": 741,
+			"name": "(Witch in Training) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Everyone, Hanamaru 1st Prize!",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 9408,
+			"tech": 11099,
+			"vis": 10593,
+			"total": 31100,
+			"origin": "Limited Gacha: One Night Magic (30 Sept 2017)",
+			"icon": "http://i.bandori.party/u/c/741Kokoro-Tsurumaki-Power-2oxoRG.png",
+			"img": "http://i.bandori.party/u/c/art/741Kokoro-Tsurumaki-Power-5BgHpq.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/741Kokoro-Tsurumaki-Power-ygNiPO.png"
 		}
 	]
 }

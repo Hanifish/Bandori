@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/679Yukina-Minato-Happy-XJWDZJ.png",
 			"img": "http://i.bandori.party/u/c/art/679Yukina-Minato-Happy-MeEHGj.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/679Yukina-Minato-Happy-MeEHGj.png"
+		},
+		{
+			"id": 744,
+			"name": "(My First Cat Ears) Yukina Minato",
+			"nick": "yukina",
+			"alias": "r3",
+			"star": "2",
+			"skname": "Cat Ears Chosen By Ako",
+			"skill": "Restores life by 200, up to 300.",
+			"stat": "Cool",
+			"pf": 4934,
+			"tech": 4772,
+			"vis": 5246,
+			"total": 14952,
+			"origin": "Event: In My Heart, It's Always Halloween! (30 Sept 2017)",
+			"icon": "http://i.bandori.party/u/c/744Yukina-Minato-Cool-nsQJGO.png",
+			"img": "http://i.bandori.party/u/c/art/744Yukina-Minato-Cool-ccuTUH.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/744Yukina-Minato-Cool-ccuTUH.png"
 		}
 	]
 }

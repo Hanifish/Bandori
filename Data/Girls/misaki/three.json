@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/613Michelle-Power-y7x1gH.png",
 			"img": "http://i.bandori.party/u/c/art/613Michelle-Power-oU1Vay.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/613Michelle-Power-at6q41.png"
+		},
+		{
+			"id": 742,
+			"name": "(Magician Michelle) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Lovely Magic",
+			"skill": "Boosts score by +60% for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 8803,
+			"tech": 10305,
+			"vis": 8050,
+			"total": 27158,
+			"origin": "Limited Gacha: One Night Magic (30 Sept 2017)",
+			"icon": "http://i.bandori.party/u/c/742Michelle-Power-6eG19n.png",
+			"img": "http://i.bandori.party/u/c/art/742Michelle-Power-b5Jehp.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/742Michelle-Power-9zwxJn.png"
 		}
 	]
 }
