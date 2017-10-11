@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/598Rinko-Shirokane-Happy-me5ntl.png",
 			"img": "http://i.bandori.party/u/c/art/598Rinko-Shirokane-Happy-ngTdYr.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/598Rinko-Shirokane-Happy-ngTdYr.png"
+		},
+		{
+			"id": 760,
+			"name": "(Small Worries) Rinko Shirokane",
+			"nick": "rinko",
+			"alias": "r2",
+			"star": "2",
+			"skname": "I wonder if it'll be okay...",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 5978,
+			"tech": 3946,
+			"vis": 4834,
+			"total": 14758,
+			"origin": "Gacha: Rainy Blue Rose (11 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/760Rinko-Shirokane-Pure-3X3VCH.png",
+			"img": "http://i.bandori.party/u/c/art/760Rinko-Shirokane-Pure-05fqWB.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/760Rinko-Shirokane-Pure-05fqWB.png"
 		}
 	]
 }

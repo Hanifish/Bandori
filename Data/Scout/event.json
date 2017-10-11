@@ -2,64 +2,64 @@
 	"eventTwo": [
 		
 		{
-			"id": 745,
-			"name": "(A Shy Angel) Rimi Ushigome",
-			"nick": "rimi",
-			"alias": "r3",
+			"id": 760,
+			"name": "(Small Worries) Rinko Shirokane",
+			"nick": "rinko",
+			"alias": "r2",
 			"star": "2",
-			"skname": "Lovely Helper",
-			"skill": "Turns GREAT+ notes into PERFECT notes for 5, up to 8 seconds.",
-			"stat": "Powerful",
-			"pf": 5157,
-			"tech": 4817,
-			"vis": 4979,
-			"total": 14953,
-			"origin": "Limited Gacha: One Night Magic (30 Sept 2017)",
-			"icon": "http://i.bandori.party/u/c/745Rimi-Ushigome-Power-MobPoi.png",
-			"img": "http://i.bandori.party/u/c/art/745Rimi-Ushigome-Power-sWkhsb.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/745Rimi-Ushigome-Power-sWkhsb.png"
+			"skname": "I wonder if it'll be okay...",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 5978,
+			"tech": 3946,
+			"vis": 4834,
+			"total": 14758,
+			"origin": "Gacha: Rainy Blue Rose (11 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/760Rinko-Shirokane-Pure-3X3VCH.png",
+			"img": "http://i.bandori.party/u/c/art/760Rinko-Shirokane-Pure-05fqWB.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/760Rinko-Shirokane-Pure-05fqWB.png"
 		}
 	],
 	"eventThree": [
 
 		{
-			"id": 742,
-			"name": "(Magician Michelle) Misaki Okusawa",
-			"nick": "misaki",
-			"alias": "sr3",
+			"id": 757,
+			"name": "(Raindrops and Tears) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "sr2",
 			"star": "3",
-			"skname": "Lovely Magic",
-			"skill": "Boosts score by +60% for 5, up to 7 seconds.",
-			"stat": "Powerful",
-			"pf": 8803,
-			"tech": 10305,
-			"vis": 8050,
-			"total": 27158,
-			"origin": "Limited Gacha: One Night Magic (30 Sept 2017)",
-			"icon": "http://i.bandori.party/u/c/742Michelle-Power-6eG19n.png",
-			"img": "http://i.bandori.party/u/c/art/742Michelle-Power-b5Jehp.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/742Michelle-Power-9zwxJn.png"
+			"skname": "Offered Umbrella",
+			"skill": "Restores life by 200, up to 300 (at max level 5). Then, boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Pure",
+			"pf": 8078,
+			"tech": 9363,
+			"vis": 10544,
+			"total": 27985,
+			"origin": "Gacha: Rainy Blue Rose (11 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/757Sayo-Hikawa-Pure-Ai8i5O.png",
+			"img": "http://i.bandori.party/u/c/art/757Sayo-Hikawa-Pure-ulFkX0.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/757Sayo-Hikawa-Pure-Hlk0Le.png"
 		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 741,
-			"name": "(Witch in Training) Kokoro Tsurumaki",
-			"nick": "kokoro",
+			"id": 756,
+			"name": "(Past the Sunny Days of Autumn) Yukina Minato",
+			"nick": "yukina",
 			"alias": "ur2",
 			"star": "4",
-			"skname": "Everyone, Hanamaru 1st Prize!",
-			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
-			"stat": "Powerful",
-			"pf": 9408,
-			"tech": 11099,
-			"vis": 10593,
-			"total": 31100,
-			"origin": "Limited Gacha: One Night Magic (30 Sept 2017)",
-			"icon": "http://i.bandori.party/u/c/741Kokoro-Tsurumaki-Power-2oxoRG.png",
-			"img": "http://i.bandori.party/u/c/art/741Kokoro-Tsurumaki-Power-5BgHpq.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/741Kokoro-Tsurumaki-Power-ygNiPO.png"
+			"skname": "Watchful Eye",
+			"skill": "Boosts score by +60% and turns GOOD+ notes into PERFECT notes for 5, up to 7.5 seconds.",
+			"stat": "Pure",
+			"pf": 10732,
+			"tech": 11782,
+			"vis": 9322,
+			"total": 31836,
+			"origin": "Gacha: Rainy Blue Rose (11 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/756Yukina-Minato-Pure-Qo0JdB.png",
+			"img": "http://i.bandori.party/u/c/art/756Yukina-Minato-Pure-qHsoV4.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/756Yukina-Minato-Pure-a4d8jx.png"
 		}
 	]
 }
