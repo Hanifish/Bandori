@@ -702,6 +702,24 @@
 			"icon": "http://i.bandori.party/u/c/737Chisato-Shirasagi-Happy-MhDwnC.png",
 			"img": "http://i.bandori.party/u/c/art/737Chisato-Shirasagi-Happy-95rYNn.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/737Chisato-Shirasagi-Happy-HAKHq2.png"
+		},
+		{
+			"id": 757,
+			"name": "(Raindrops and Tears) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "sr2",
+			"star": "3",
+			"skname": "Offered Umbrella",
+			"skill": "Restores life by 200, up to 300 (at max level 5). Then, boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Pure",
+			"pf": 8078,
+			"tech": 9363,
+			"vis": 10544,
+			"total": 27985,
+			"origin": "Gacha: Rainy Blue Rose (11 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/757Sayo-Hikawa-Pure-Ai8i5O.png",
+			"img": "http://i.bandori.party/u/c/art/757Sayo-Hikawa-Pure-ulFkX0.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/757Sayo-Hikawa-Pure-Hlk0Le.png"
 		}
 
     ]

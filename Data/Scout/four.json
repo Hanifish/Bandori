@@ -450,6 +450,24 @@
 			"icon": "http://i.bandori.party/u/c/736Maya-Yamato-Happy-aWtO15.png",
 			"img": "http://i.bandori.party/u/c/art/736Maya-Yamato-Happy-TcVpqR.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/736Maya-Yamato-Happy-rg9vqo.png"
+		},
+		{
+			"id": 756,
+			"name": "(Past the Sunny Days of Autumn) Yukina Minato",
+			"nick": "yukina",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Watchful Eye",
+			"skill": "Boosts score by +60% and turns GOOD+ notes into PERFECT notes for 5, up to 7.5 seconds.",
+			"stat": "Pure",
+			"pf": 10732,
+			"tech": 11782,
+			"vis": 9322,
+			"total": 31836,
+			"origin": "Gacha: Rainy Blue Rose (11 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/756Yukina-Minato-Pure-Qo0JdB.png",
+			"img": "http://i.bandori.party/u/c/art/756Yukina-Minato-Pure-qHsoV4.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/756Yukina-Minato-Pure-a4d8jx.png"
 		}
 
     ]

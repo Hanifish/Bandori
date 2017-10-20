@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/653Aya-Maruyama-Power-yBCnJ5.png",
 			"img": "http://i.bandori.party/u/c/art/653Aya-Maruyama-Power-rdqueA.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/653Aya-Maruyama-Power-yQpZJH.png"
+		},
+		{
+			"id": 763,
+			"name": "(Go! Go!) Aya Maruyama",
+			"nick": "aya",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Specializing in Support",
+			"skill": "Turns GOOD+ notes into PERFECT notes for 5, up to 8 seconds.",
+			"stat": "Happy",
+			"pf": 8917,
+			"tech": 7421,
+			"vis": 11199,
+			"total": 27537,
+			"origin": "Event: The Teary Smile Anchor (20 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/763Aya-Maruyama-Happy-Puepuc.png",
+			"img": "http://i.bandori.party/u/c/art/763Aya-Maruyama-Happy-VgIlJO.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/763Aya-Maruyama-Happy-jzdM8j.png"
 		}
 	]
 }

@@ -2,64 +2,64 @@
 	"eventTwo": [
 		
 		{
-			"id": 760,
-			"name": "(Small Worries) Rinko Shirokane",
-			"nick": "rinko",
-			"alias": "r2",
+			"id": 765,
+			"name": "(Sportsmanship) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "r3",
 			"star": "2",
-			"skname": "I wonder if it'll be okay...",
+			"skname": "Team, sensei-...",
 			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
-			"stat": "Pure",
-			"pf": 5978,
+			"stat": "Cool",
+			"pf": 4775,
 			"tech": 3946,
-			"vis": 4834,
-			"total": 14758,
-			"origin": "Gacha: Rainy Blue Rose (11 Oct 2017)",
-			"icon": "http://i.bandori.party/u/c/760Rinko-Shirokane-Pure-3X3VCH.png",
-			"img": "http://i.bandori.party/u/c/art/760Rinko-Shirokane-Pure-05fqWB.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/760Rinko-Shirokane-Pure-05fqWB.png"
+			"vis": 6038,
+			"total": 14759,
+			"origin": "Gacha: Cheerful Sports Festival (20 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/765Arisa-Ichigaya-Cool-WDBNt2.png",
+			"img": "http://i.bandori.party/u/c/art/765Arisa-Ichigaya-Cool-saTEWm.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/765Arisa-Ichigaya-Cool-saTEWm.png"
 		}
 	],
 	"eventThree": [
 
 		{
-			"id": 757,
-			"name": "(Raindrops and Tears) Sayo Hikawa",
-			"nick": "sayo",
-			"alias": "sr2",
+			"id": 762,
+			"name": "(Bread Eating Contest) Tae Hanazono",
+			"nick": "tae",
+			"alias": "sr4",
 			"star": "3",
-			"skname": "Offered Umbrella",
-			"skill": "Restores life by 200, up to 300 (at max level 5). Then, boosts score by +30% for 5, up to 7.5 seconds.",
-			"stat": "Pure",
-			"pf": 8078,
-			"tech": 9363,
-			"vis": 10544,
-			"total": 27985,
-			"origin": "Gacha: Rainy Blue Rose (11 Oct 2017)",
-			"icon": "http://i.bandori.party/u/c/757Sayo-Hikawa-Pure-Ai8i5O.png",
-			"img": "http://i.bandori.party/u/c/art/757Sayo-Hikawa-Pure-ulFkX0.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/757Sayo-Hikawa-Pure-Hlk0Le.png"
+			"skname": "Bread Catch!",
+			"skill": "Restores life by 200, up to 300. Then, boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Cool",
+			"pf": 10305,
+			"tech": 8535,
+			"vis": 9430,
+			"total": 28270,
+			"origin": "Gacha: Cheerful Sports Festival (20 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/762Tae-Hanazono-Cool-kN4Gsi.png",
+			"img": "http://i.bandori.party/u/c/art/762Tae-Hanazono-Cool-I5Dlr7.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/762Tae-Hanazono-Cool-yeDFbD.png"
 		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 756,
-			"name": "(Past the Sunny Days of Autumn) Yukina Minato",
-			"nick": "yukina",
-			"alias": "ur2",
+			"id": 761,
+			"name": "(A Smile for a Serious Battle) Hagumi Kitazawa",
+			"nick": "hagumi",
+			"alias": "ur1",
 			"star": "4",
-			"skname": "Watchful Eye",
+			"skname": "Full power! Use all your strength!",
 			"skill": "Boosts score by +60% and turns GOOD+ notes into PERFECT notes for 5, up to 7.5 seconds.",
-			"stat": "Pure",
-			"pf": 10732,
-			"tech": 11782,
-			"vis": 9322,
-			"total": 31836,
-			"origin": "Gacha: Rainy Blue Rose (11 Oct 2017)",
-			"icon": "http://i.bandori.party/u/c/756Yukina-Minato-Pure-Qo0JdB.png",
-			"img": "http://i.bandori.party/u/c/art/756Yukina-Minato-Pure-qHsoV4.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/756Yukina-Minato-Pure-a4d8jx.png"
+			"stat": "Cool",
+			"pf": 9771,
+			"tech": 11516,
+			"vis": 10553,
+			"total": 31840,
+			"origin": "Gacha: Cheerful Sports Festival (20 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/761Hagumi-Kitazawa-Cool-g7HM0a.png",
+			"img": "http://i.bandori.party/u/c/art/761Hagumi-Kitazawa-Cool-77edS2.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/761Hagumi-Kitazawa-Cool-4a9HMJ.png"
 		}
 	]
 }

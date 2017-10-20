@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/755Michelle-Cool-u9tqqF.png",
 			"img": "http://i.bandori.party/u/c/art/755Michelle-Cool-SV6sJW.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/755Michelle-Cool-SV6sJW.png"
+		},
+		{
+			"id": 764,
+			"name": "(White Team's Cheering Head?) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Let's go, white team~",
+			"skill": "Restores life by 200, up to 300.",
+			"stat": "Pure",
+			"pf": 4391,
+			"tech": 5692,
+			"vis": 5005,
+			"total": 15088,
+			"origin": "Event: The Teary Smile Anchor (20 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/764Michelle-Pure-wRJdRn.png",
+			"img": "http://i.bandori.party/u/c/art/764Michelle-Pure-QGdnMT.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/764Michelle-Pure-QGdnMT.png"
 		}
 	]
 }
