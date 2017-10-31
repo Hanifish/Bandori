@@ -755,6 +755,24 @@
 			"icon": "http://i.bandori.party/u/c/760Rinko-Shirokane-Pure-3X3VCH.png",
 			"img": "http://i.bandori.party/u/c/art/760Rinko-Shirokane-Pure-05fqWB.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/760Rinko-Shirokane-Pure-05fqWB.png"
+		},
+		{
+			"id": 765,
+			"name": "(Sportsmanship) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "r3",
+			"star": "2",
+			"skname": "Team, sensei-...",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Cool",
+			"pf": 4775,
+			"tech": 3946,
+			"vis": 6038,
+			"total": 14759,
+			"origin": "Gacha: Cheerful Sports Festival (20 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/765Arisa-Ichigaya-Cool-WDBNt2.png",
+			"img": "http://i.bandori.party/u/c/art/765Arisa-Ichigaya-Cool-saTEWm.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/765Arisa-Ichigaya-Cool-saTEWm.png"
 		}
     ]
 }

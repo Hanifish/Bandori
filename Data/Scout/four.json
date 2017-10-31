@@ -468,6 +468,24 @@
 			"icon": "http://i.bandori.party/u/c/756Yukina-Minato-Pure-Qo0JdB.png",
 			"img": "http://i.bandori.party/u/c/art/756Yukina-Minato-Pure-qHsoV4.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/756Yukina-Minato-Pure-a4d8jx.png"
+		},
+		{
+			"id": 761,
+			"name": "(A Smile for a Serious Battle) Hagumi Kitazawa",
+			"nick": "hagumi",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "Full power! Use all your strength!",
+			"skill": "Boosts score by +60% and turns GOOD+ notes into PERFECT notes for 5, up to 7.5 seconds.",
+			"stat": "Cool",
+			"pf": 9771,
+			"tech": 11516,
+			"vis": 10553,
+			"total": 31840,
+			"origin": "Gacha: Cheerful Sports Festival (20 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/761Hagumi-Kitazawa-Cool-g7HM0a.png",
+			"img": "http://i.bandori.party/u/c/art/761Hagumi-Kitazawa-Cool-77edS2.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/761Hagumi-Kitazawa-Cool-4a9HMJ.png"
 		}
 
     ]

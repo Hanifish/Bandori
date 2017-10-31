@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/757Sayo-Hikawa-Pure-Ai8i5O.png",
 			"img": "http://i.bandori.party/u/c/art/757Sayo-Hikawa-Pure-ulFkX0.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/757Sayo-Hikawa-Pure-Hlk0Le.png"
+		},
+		{
+			"id": 768,
+			"name": "(Cookie Baking!) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Thick Cookie",
+			"skill": "Boosts score by +60% for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 6690,
+			"tech": 11675,
+			"vis": 8700,
+			"total": 27065,
+			"origin": "Event: Mismatched!? Silly Sweets Classroom (31 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/768Sayo-Hikawa-Power-ibztL5.png",
+			"img": "http://i.bandori.party/u/c/art/768Sayo-Hikawa-Power-hsg0qJ.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/768Sayo-Hikawa-Power-UzNBKK.png"
 		}
 	]
 }

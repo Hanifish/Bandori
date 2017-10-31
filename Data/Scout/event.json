@@ -2,64 +2,64 @@
 	"eventTwo": [
 		
 		{
-			"id": 765,
-			"name": "(Sportsmanship) Arisa Ichigaya",
-			"nick": "arisa",
-			"alias": "r3",
+			"id": 770,
+			"name": "(Pastel Maid) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "r5",
 			"star": "2",
-			"skname": "Team, sensei-...",
+			"skname": "Teacher's Lesson.",
 			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
-			"stat": "Cool",
-			"pf": 4775,
-			"tech": 3946,
-			"vis": 6038,
-			"total": 14759,
-			"origin": "Gacha: Cheerful Sports Festival (20 Oct 2017)",
-			"icon": "http://i.bandori.party/u/c/765Arisa-Ichigaya-Cool-WDBNt2.png",
-			"img": "http://i.bandori.party/u/c/art/765Arisa-Ichigaya-Cool-saTEWm.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/765Arisa-Ichigaya-Cool-saTEWm.png"
+			"stat": "Happy",
+			"pf": 4454,
+			"tech": 5498,
+			"vis": 4676,
+			"total": 14628,
+			"origin": "Gacha: Sweet Suite (31 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/770Eve-Wakamiya-Happy-F3s8SE.png",
+			"img": "http://i.bandori.party/u/c/art/770Eve-Wakamiya-Happy-hG0DhC.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/770Eve-Wakamiya-Happy-hG0DhC.png"
 		}
 	],
 	"eventThree": [
 
 		{
-			"id": 762,
-			"name": "(Bread Eating Contest) Tae Hanazono",
-			"nick": "tae",
+			"id": 767,
+			"name": "(Probably the Right Amount) Hina Hikawa",
+			"nick": "hina",
 			"alias": "sr4",
 			"star": "3",
-			"skname": "Bread Catch!",
+			"skname": "Special Cookie",
 			"skill": "Restores life by 200, up to 300. Then, boosts score by +30% for 5, up to 7.5 seconds.",
-			"stat": "Cool",
-			"pf": 10305,
-			"tech": 8535,
-			"vis": 9430,
-			"total": 28270,
-			"origin": "Gacha: Cheerful Sports Festival (20 Oct 2017)",
-			"icon": "http://i.bandori.party/u/c/762Tae-Hanazono-Cool-kN4Gsi.png",
-			"img": "http://i.bandori.party/u/c/art/762Tae-Hanazono-Cool-I5Dlr7.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/762Tae-Hanazono-Cool-yeDFbD.png"
+			"stat": "Happy",
+			"pf": 8426,
+			"tech": 9389,
+			"vis": 10438,
+			"total": 28253,
+			"origin": "Gacha: Sweet Suite (31 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/767Hina-Hikawa-Happy-1GyN41.png",
+			"img": "http://i.bandori.party/u/c/art/767Hina-Hikawa-Happy-ndj0Rt.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/767Hina-Hikawa-Happy-zZydhZ.png"
 		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 761,
-			"name": "(A Smile for a Serious Battle) Hagumi Kitazawa",
-			"nick": "hagumi",
+			"id": 766,
+			"name": "(Teacher in Sweets) Tsugumi Hazawa",
+			"nick": "tsugumi",
 			"alias": "ur1",
 			"star": "4",
-			"skname": "Full power! Use all your strength!",
-			"skill": "Boosts score by +60% and turns GOOD+ notes into PERFECT notes for 5, up to 7.5 seconds.",
-			"stat": "Cool",
-			"pf": 9771,
-			"tech": 11516,
-			"vis": 10553,
-			"total": 31840,
-			"origin": "Gacha: Cheerful Sports Festival (20 Oct 2017)",
-			"icon": "http://i.bandori.party/u/c/761Hagumi-Kitazawa-Cool-g7HM0a.png",
-			"img": "http://i.bandori.party/u/c/art/761Hagumi-Kitazawa-Cool-77edS2.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/761Hagumi-Kitazawa-Cool-4a9HMJ.png"
+			"skname": "Moderation is Important!",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 11876,
+			"tech": 9234,
+			"vis": 10435,
+			"total": 31545,
+			"origin": "Gacha: Sweet Suite (31 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/766Tsugumi-Hazawa-Happy-b7yuPG.png",
+			"img": "http://i.bandori.party/u/c/art/766Tsugumi-Hazawa-Happy-F5hBc2.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/766Tsugumi-Hazawa-Happy-o9L5AV.png"
 		}
 	]
 }
