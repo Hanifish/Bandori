@@ -25,7 +25,7 @@
 			"alias": "sr2",
 			"star": "3",
 			"skname": "The Sugar in the Coffee is...",
-			"skill": "Restores life by 300, up to 450.",
+			"skill": "Restores life by 300, up to 450, and boosts score by +20% for 5, up to 8 seconds.",
 			"stat": "Cool",
 			"pf": 9929,
 			"tech": 8290,

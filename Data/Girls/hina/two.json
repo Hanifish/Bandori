@@ -7,7 +7,7 @@
 			"alias": "r1",
 			"star": "2",
 			"skname": "Easy Contact",
-			"skill": "Restores 200, up to 300 life.",
+			"skill": "Restores 200, up to 300 life, and boosts score by +10% for 5, up to 8 seconds.",
 			"stat": "Happy",
 			"pf": 4624,
 			"tech": 5143,

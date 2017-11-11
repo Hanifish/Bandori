@@ -7,7 +7,7 @@
 			"alias": "r1",
 			"star": "2",
 			"skname": "I'll Do More!",
-			"skill": "Restores 200, up to 300 life.",
+			"skill": "Restores 200, up to 300 life, and boosts score by +10% for 5, up to 8 seconds.",
 			"stat": "Powerful",
 			"pf": 5261,
 			"tech": 4596,

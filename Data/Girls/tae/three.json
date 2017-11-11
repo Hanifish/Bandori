@@ -25,7 +25,7 @@
 			"alias": "sr2",
 			"star": "3",
 			"skname": "Leave it to me.",
-			"skill": "Restores 300, up to 450 life.",
+			"skill": "Restores 300, up to 450 life, and boosts score by +20% for 5, up to 8 seconds.",
 			"stat": "Cool",
 			"pf": 7694,
 			"tech": 9450,
