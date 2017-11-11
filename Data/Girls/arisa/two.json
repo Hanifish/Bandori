@@ -7,7 +7,7 @@
 			"alias": "r1",
 			"star": "2",
 			"skname": "Ritardando",
-			"skill": "Restores 200, up to 300 life.",
+			"skill": "Restores 200, up to 300 life, and boosts score by +10% for 5, up to 8 seconds.",
 			"stat": "Cool",
 			"pf": 4811,
 			"tech": 4064,
@@ -25,7 +25,7 @@
 			"alias": "r2",
 			"star": "2",
 			"skname": "My House, I Think I'll Stay",
-			"skill": "Turns Great+ notes into Perfect notes for 5, up to 8 seconds.",
+			"skill": "Turns Great+ notes into Perfect notes for 5, up to 8 seconds, and boosts score by +10% for 5, up to 8 seconds.",
 			"stat": "Powerful",
 			"pf": 6024,
 			"tech": 4518,
@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/765Arisa-Ichigaya-Cool-WDBNt2.png",
 			"img": "http://i.bandori.party/u/c/art/765Arisa-Ichigaya-Cool-saTEWm.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/765Arisa-Ichigaya-Cool-saTEWm.png"
+		},
+		{
+			"id": 779,
+			"name": "(A Substitute Guardian) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "r4",
+			"star": "2",
+			"skname": "I returned the borrowed",
+			"skill": "Restores life by 200, up to 300, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Pure",
+			"pf": 4931,
+			"tech": 4454,
+			"vis": 5705,
+			"total": 15090,
+			"origin": "Event: Welcome to Eve's Home Party (10 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/779Arisa-Ichigaya-Pure-y6aGkk.png",
+			"img": "http://i.bandori.party/u/c/art/779Arisa-Ichigaya-Pure-73RG4E.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/779Arisa-Ichigaya-Pure-73RG4E.png"
 		}
 	]
 }

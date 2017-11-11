@@ -7,7 +7,7 @@
 			"alias": "sr1",
 			"star": "3",
 			"skname": "Someday, like everyone else",
-			"skill": "Restores 300, up to 450 life.",
+			"skill": "Restores 300, up to 450 life, and boosts score by +20% for 5, up to 8 seconds.",
 			"stat": "Pure",
 			"pf": 8936,
 			"tech": 7591,
@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/727Kanon-Matsubara-Cool-jzal5G.png",
 			"img": "http://i.bandori.party/u/c/art/727Kanon-Matsubara-Cool-Qsu5Jj.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/727Kanon-Matsubara-Cool-qKtVbl.png"
+		},
+		{
+			"id": 778,
+			"name": "(A Spell to Transform?) Kanon Matsubara",
+			"nick": "kanon",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "A Fun Party",
+			"skill": "Turns GOOD+ notes into PERFECT notes and boosts score by +20% for 5, up to 8 seconds.",
+			"stat": "Powerful",
+			"pf": 11090,
+			"tech": 7421,
+			"vis": 9022,
+			"total": 27533,
+			"origin": "Event: Welcome to Eve's Home Party (10 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/778Kanon-Matsubara-Power-TUbE68.png",
+			"img": "http://i.bandori.party/u/c/art/778Kanon-Matsubara-Power-syPM2X.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/778Kanon-Matsubara-Power-yfJlUT.png"
 		}
 	]
 }

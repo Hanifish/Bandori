@@ -738,6 +738,24 @@
 			"icon": "http://i.bandori.party/u/c/762Tae-Hanazono-Cool-kN4Gsi.png",
 			"img": "http://i.bandori.party/u/c/art/762Tae-Hanazono-Cool-I5Dlr7.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/762Tae-Hanazono-Cool-yeDFbD.png"
+		},
+		{
+			"id": 767,
+			"name": "(Probably the Right Amount) Hina Hikawa",
+			"nick": "hina",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Special Cookie",
+			"skill": "Restores life by 200, up to 300. Then, boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Happy",
+			"pf": 8426,
+			"tech": 9389,
+			"vis": 10438,
+			"total": 28253,
+			"origin": "Gacha: Sweet Suite (31 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/767Hina-Hikawa-Happy-1GyN41.png",
+			"img": "http://i.bandori.party/u/c/art/767Hina-Hikawa-Happy-ndj0Rt.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/767Hina-Hikawa-Happy-zZydhZ.png"
 		}
 
     ]

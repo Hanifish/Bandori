@@ -773,6 +773,24 @@
 			"icon": "http://i.bandori.party/u/c/765Arisa-Ichigaya-Cool-WDBNt2.png",
 			"img": "http://i.bandori.party/u/c/art/765Arisa-Ichigaya-Cool-saTEWm.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/765Arisa-Ichigaya-Cool-saTEWm.png"
+		},
+		{
+			"id": 770,
+			"name": "(Pastel Maid) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "r5",
+			"star": "2",
+			"skname": "Teacher's Lesson.",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 4454,
+			"tech": 5498,
+			"vis": 4676,
+			"total": 14628,
+			"origin": "Gacha: Sweet Suite (31 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/770Eve-Wakamiya-Happy-F3s8SE.png",
+			"img": "http://i.bandori.party/u/c/art/770Eve-Wakamiya-Happy-hG0DhC.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/770Eve-Wakamiya-Happy-hG0DhC.png"
 		}
     ]
 }

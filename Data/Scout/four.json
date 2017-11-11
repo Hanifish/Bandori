@@ -486,6 +486,24 @@
 			"icon": "http://i.bandori.party/u/c/761Hagumi-Kitazawa-Cool-g7HM0a.png",
 			"img": "http://i.bandori.party/u/c/art/761Hagumi-Kitazawa-Cool-77edS2.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/761Hagumi-Kitazawa-Cool-4a9HMJ.png"
+		},
+		{
+			"id": 766,
+			"name": "(Teacher in Sweets) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "Moderation is Important!",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 11876,
+			"tech": 9234,
+			"vis": 10435,
+			"total": 31545,
+			"origin": "Gacha: Sweet Suite (31 Oct 2017)",
+			"icon": "http://i.bandori.party/u/c/766Tsugumi-Hazawa-Happy-b7yuPG.png",
+			"img": "http://i.bandori.party/u/c/art/766Tsugumi-Hazawa-Happy-F5hBc2.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/766Tsugumi-Hazawa-Happy-o9L5AV.png"
 		}
 
     ]
