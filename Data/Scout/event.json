@@ -2,64 +2,64 @@
 	"eventTwo": [
 		
 		{
-			"id": 780,
-			"name": "(Being True to Myself) Himari Uehara",
-			"nick": "himari",
+			"id": 785,
+			"name": "(Poppin' and Happy) Ran Mitake",
+			"nick": "ran",
 			"alias": "r3",
 			"star": "2",
-			"skname": "I Do Not Long For~",
-			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
-			"stat": "Powerful",
-			"pf": 4454,
-			"tech": 5498,
-			"vis": 4676,
-			"total": 14628,
-			"origin": "Gacha: Natural Wind (10 Nov 2017)",
-			"icon": "http://i.bandori.party/u/c/780Himari-Uehara-Power-pRD69V.png",
-			"img": "http://i.bandori.party/u/c/art/780Himari-Uehara-Power-yvAW56.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/780Himari-Uehara-Power-yvAW56.png"
+			"skname": "Mocarashi",
+			"skill": "Turns GREAT+ notes into PERFECT notes and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Pure",
+			"pf": 4804,
+			"tech": 6009,
+			"vis": 3946,
+			"total": 14759,
+			"origin": "Gacha: Smile Star of the Evening Sun (21 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/785Ran-Mitake-Pure-P2cOq5.png",
+			"img": "http://i.bandori.party/u/c/art/785Ran-Mitake-Pure-v7Xvwr.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/785Ran-Mitake-Pure-v7Xvwr.png"
 		}
 	],
 	"eventThree": [
 
 		{
-			"id": 777,
-			"name": "(Origami with Everyone) Kasumi Toyama",
-			"nick": "kasumi",
+			"id": 782,
+			"name": "(My Best Work Friend) Moca Aoba",
+			"nick": "moca",
 			"alias": "sr3",
 			"star": "3",
-			"skname": "That Feeling!",
+			"skname": "Moca-chan's Song",
 			"skill": "Boosts score by +65% when life is above 900, or +55% if not for 5, up to 7 seconds.",
-			"stat": "Powerful",
-			"pf": 8186,
-			"tech": 10520,
-			"vis": 9284,
-			"total": 27990,
-			"origin": "Gacha: Natural Wind (10 Nov 2017)",
-			"icon": "http://i.bandori.party/u/c/777Kasumi-Toyama-Power-7QG5Vo.png",
-			"img": "http://i.bandori.party/u/c/art/777Kasumi-Toyama-Power-cDjPni.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/777Kasumi-Toyama-Power-0KqIqV.png"
+			"stat": "Pure",
+			"pf": 9150,
+			"tech": 8292,
+			"vis": 10544,
+			"total": 27986,
+			"origin": "Gacha: Smile Star of the Evening Sun (21 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/782Moca-Aoba-Pure-wGiYUn.png",
+			"img": "http://i.bandori.party/u/c/art/782Moca-Aoba-Pure-nIsL7a.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/782Moca-Aoba-Pure-x8W3bC.png"
 		}
 	],
 	"eventFour": [
 		
 		{
 			"id": 776,
-			"name": "(Our Best Welcome) Eve Wakamiya",
-			"nick": "eve",
-			"alias": "ur1",
+			"name": "(Overcoming It with My All) Lisa Imai",
+			"nick": "lisa",
+			"alias": "ur2",
 			"star": "4",
-			"skname": "Tearful Confession",
-			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
-			"stat": "Powerful",
-			"pf": 10311,
-			"tech": 9353,
-			"vis": 11876,
-			"total": 31540,
-			"origin": "Gacha: Natural Wind (10 Nov 2017)",
-			"icon": "http://i.bandori.party/u/c/776Eve-Wakamiya-Power-Y6llob.png",
-			"img": "http://i.bandori.party/u/c/art/776Eve-Wakamiya-Power-r9Sp6W.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/776Eve-Wakamiya-Power-myIOcZ.png"
+			"skname": "Serious Challenge",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 9234,
+			"tech": 11845,
+			"vis": 10462,
+			"total": 31541,
+			"origin": "Gacha: Smile Star of the Evening Sun (21 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/781Lisa-Imai-Pure-ApdVCa.png",
+			"img": "http://i.bandori.party/u/c/art/781Lisa-Imai-Pure-9Bh5FV.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/781Lisa-Imai-Pure-0OJjec.png"
 		}
 	]
 }

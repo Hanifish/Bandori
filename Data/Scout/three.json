@@ -756,6 +756,24 @@
 			"icon": "http://i.bandori.party/u/c/767Hina-Hikawa-Happy-1GyN41.png",
 			"img": "http://i.bandori.party/u/c/art/767Hina-Hikawa-Happy-ndj0Rt.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/767Hina-Hikawa-Happy-zZydhZ.png"
+		},
+		{
+			"id": 777,
+			"name": "(Origami with Everyone) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "That Feeling!",
+			"skill": "Boosts score by +65% when life is above 900, or +55% if not for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 8186,
+			"tech": 10520,
+			"vis": 9284,
+			"total": 27990,
+			"origin": "Gacha: Natural Wind (10 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/777Kasumi-Toyama-Power-7QG5Vo.png",
+			"img": "http://i.bandori.party/u/c/art/777Kasumi-Toyama-Power-cDjPni.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/777Kasumi-Toyama-Power-0KqIqV.png"
 		}
 
     ]

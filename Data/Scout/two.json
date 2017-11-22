@@ -791,6 +791,24 @@
 			"icon": "http://i.bandori.party/u/c/770Eve-Wakamiya-Happy-F3s8SE.png",
 			"img": "http://i.bandori.party/u/c/art/770Eve-Wakamiya-Happy-hG0DhC.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/770Eve-Wakamiya-Happy-hG0DhC.png"
+		},
+		{
+			"id": 780,
+			"name": "(Being True to Myself) Himari Uehara",
+			"nick": "himari",
+			"alias": "r3",
+			"star": "2",
+			"skname": "I Do Not Long For~",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 4454,
+			"tech": 5498,
+			"vis": 4676,
+			"total": 14628,
+			"origin": "Gacha: Natural Wind (10 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/780Himari-Uehara-Power-pRD69V.png",
+			"img": "http://i.bandori.party/u/c/art/780Himari-Uehara-Power-yvAW56.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/780Himari-Uehara-Power-yvAW56.png"
 		}
     ]
 }

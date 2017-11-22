@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/682Moca-Aoba-Power-xwEOCH.png",
 			"img": "http://i.bandori.party/u/c/art/682Moca-Aoba-Power-84ISId.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/682Moca-Aoba-Power-M9knLC.png"
+		},
+		{
+			"id": 782,
+			"name": "(My Best Work Friend) Moca Aoba",
+			"nick": "moca",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Moca-chan's Song",
+			"skill": "Boosts score by +65% when life is above 900, or +55% if not for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 9150,
+			"tech": 8292,
+			"vis": 10544,
+			"total": 27986,
+			"origin": "Gacha: Smile Star of the Evening Sun (21 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/782Moca-Aoba-Pure-wGiYUn.png",
+			"img": "http://i.bandori.party/u/c/art/782Moca-Aoba-Pure-nIsL7a.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/782Moca-Aoba-Pure-x8W3bC.png"
 		}
 	]
 }

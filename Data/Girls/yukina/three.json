@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/647Yukina-Minato-Cool-1iCLmS.png",
 			"img": "http://i.bandori.party/u/c/art/647Yukina-Minato-Cool-yM1Yu9.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/647Yukina-Minato-Cool-wwVyaj.png"
+		},
+		{
+			"id": 783,
+			"name": "(Lisa-like Lyrics) Yukina Minato",
+			"nick": "yukina",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Consult me too.",
+			"skill": "Turns GOOD+ notes into PERFECT notes and boosts score by +20% for 5, up to 8 second.",
+			"stat": "Pure",
+			"pf": 8972,
+			"tech": 11148,
+			"vis": 7421,
+			"total": 27541,
+			"origin": "Event: Someday, My Words Will Reach You ~Lisa's Lyrics~ (21 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/783Yukina-Minato-Pure-Q1VIaK.png",
+			"img": "http://i.bandori.party/u/c/art/783Yukina-Minato-Pure-Fown2g.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/783Yukina-Minato-Pure-h3osxd.png"
 		}
 	]
 }

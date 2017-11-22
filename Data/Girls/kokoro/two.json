@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/751Kokoro-Tsurumaki-Pure-6h5ADW.png",
 			"img": "http://i.bandori.party/u/c/art/751Kokoro-Tsurumaki-Pure-ScfOtP.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/751Kokoro-Tsurumaki-Pure-ScfOtP.png"
+		},
+		{
+			"id": 784,
+			"name": "(Poppin' and After) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Cookie Making Genius",
+			"skill": "Restores life by 200, up to 300 and boosts score by +10% for 5, up to 8 seconds",
+			"stat": "Cool",
+			"pf": 5705,
+			"tech": 4391,
+			"vis": 4990,
+			"total": 15086,
+			"origin": "Event: Someday, My Words Will Reach You ~Lisa's Lyrics~ (21 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/784Kokoro-Tsurumaki-Cool-GrJGoB.png",
+			"img": "http://i.bandori.party/u/c/art/784Kokoro-Tsurumaki-Cool-rqptRe.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/784Kokoro-Tsurumaki-Cool-rqptRe.png"
 		}
 	]
 }

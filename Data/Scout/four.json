@@ -504,6 +504,24 @@
 			"icon": "http://i.bandori.party/u/c/766Tsugumi-Hazawa-Happy-b7yuPG.png",
 			"img": "http://i.bandori.party/u/c/art/766Tsugumi-Hazawa-Happy-F5hBc2.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/766Tsugumi-Hazawa-Happy-o9L5AV.png"
+		},
+		{
+			"id": 776,
+			"name": "(Our Best Welcome) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "ur1",
+			"star": "4",
+			"skname": "Tearful Confession",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 10311,
+			"tech": 9353,
+			"vis": 11876,
+			"total": 31540,
+			"origin": "Gacha: Natural Wind (10 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/776Eve-Wakamiya-Power-Y6llob.png",
+			"img": "http://i.bandori.party/u/c/art/776Eve-Wakamiya-Power-r9Sp6W.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/776Eve-Wakamiya-Power-myIOcZ.png"
 		}
 
     ]
