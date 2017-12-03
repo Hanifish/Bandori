@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/676Kasumi-Toyama-Power-BdygOX.png",
 			"img": "http://i.bandori.party/u/c/art/676Kasumi-Toyama-Power-CoyFtT.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/676Kasumi-Toyama-Power-CoyFtT.png"
+		},
+		{
+			"id": 790,
+			"name": "(Sudden Santa) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "r5",
+			"star": "2",
+			"skname": "Happy Christmas!",
+			"skill": "Turns GREAT+ notes into PERFECT notes and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Cool",
+			"pf": 5858,
+			"tech": 4985,
+			"vis": 4065,
+			"total": 14908,
+			"origin": "Limited Gacha: Bright Christmas (30 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/790Kasumi-Toyama-Cool-Zvw0fA.png",
+			"img": "http://i.bandori.party/u/c/art/790Kasumi-Toyama-Cool-Misf5x.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/790Kasumi-Toyama-Cool-Misf5x.png"
 		}
 	]
 }

@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/673Arisa-Ichigaya-Power-qRqlXR.png",
 			"img": "http://i.bandori.party/u/c/art/673Arisa-Ichigaya-Power-3YVQvI.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/673Arisa-Ichigaya-Power-LUVkCc.png"
+		},
+		{
+			"id": 787,
+			"name": "(Christmas with Everyone) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Arisanta's Gift!",
+			"skill": "Turns GREAT+ notes into PERFECT notes and boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Cool",
+			"pf": 10305,
+			"tech": 8535,
+			"vis": 9430,
+			"total": 28270,
+			"origin": "Limited Gacha: Bright Christmas (30 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/787Arisa-Ichigaya-Cool-fr8lIN.png",
+			"img": "http://i.bandori.party/u/c/art/787Arisa-Ichigaya-Cool-gyrBAU.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/787Arisa-Ichigaya-Cool-S9p8oS.png"
 		}
 	]
 }

@@ -522,6 +522,24 @@
 			"icon": "http://i.bandori.party/u/c/776Eve-Wakamiya-Power-Y6llob.png",
 			"img": "http://i.bandori.party/u/c/art/776Eve-Wakamiya-Power-r9Sp6W.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/776Eve-Wakamiya-Power-myIOcZ.png"
+		},
+		{
+			"id": 776,
+			"name": "(Overcoming It with My All) Lisa Imai",
+			"nick": "lisa",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Serious Challenge",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 9234,
+			"tech": 11845,
+			"vis": 10462,
+			"total": 31541,
+			"origin": "Gacha: Smile Star of the Evening Sun (21 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/781Lisa-Imai-Pure-ApdVCa.png",
+			"img": "http://i.bandori.party/u/c/art/781Lisa-Imai-Pure-9Bh5FV.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/781Lisa-Imai-Pure-0OJjec.png"
 		}
 
     ]

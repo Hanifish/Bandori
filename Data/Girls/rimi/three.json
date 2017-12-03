@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/616Rimi-Ushigome-Happy-ZCuFLa.png",
 			"img": "http://i.bandori.party/u/c/art/616Rimi-Ushigome-Happy-cnexZr.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/616Rimi-Ushigome-Happy-e4Cn6B.png"
+		},
+		{
+			"id": 788,
+			"name": "(Preparing for the Party) Rimi Ushigome",
+			"nick": "rimi",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "I'll reach it in a minute...!",
+			"skill": "Restores life by 200, up to 300, and boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Powerful",
+			"pf": 7447,
+			"tech": 11090,
+			"vis": 8998,
+			"total": 27535,
+			"origin": "Event: HAPPY Poppin' Xmas (30 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/788Rimi-Ushigome-Power-o40XAU.png",
+			"img": "http://i.bandori.party/u/c/art/788Rimi-Ushigome-Power-I6iSEg.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/788Rimi-Ushigome-Power-LgFes6.png"
 		}
 	]
 }

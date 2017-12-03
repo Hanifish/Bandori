@@ -809,6 +809,24 @@
 			"icon": "http://i.bandori.party/u/c/780Himari-Uehara-Power-pRD69V.png",
 			"img": "http://i.bandori.party/u/c/art/780Himari-Uehara-Power-yvAW56.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/780Himari-Uehara-Power-yvAW56.png"
+		},
+		{
+			"id": 785,
+			"name": "(Poppin' and Happy) Ran Mitake",
+			"nick": "ran",
+			"alias": "r3",
+			"star": "2",
+			"skname": "Mocarashi",
+			"skill": "Turns GREAT+ notes into PERFECT notes and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Pure",
+			"pf": 4804,
+			"tech": 6009,
+			"vis": 3946,
+			"total": 14759,
+			"origin": "Gacha: Smile Star of the Evening Sun (21 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/785Ran-Mitake-Pure-P2cOq5.png",
+			"img": "http://i.bandori.party/u/c/art/785Ran-Mitake-Pure-v7Xvwr.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/785Ran-Mitake-Pure-v7Xvwr.png"
 		}
     ]
 }

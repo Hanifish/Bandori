@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/506Tae-Hanazono-Happy-i2UbWw.png",
 			"img": "http://i.bandori.party/u/c/art/506Tae-Hanazono-Happy-hxZeC0.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/506Tae-Hanazono-Happy-hxZeC0.png"
+		},
+		{
+			"id": 789,
+			"name": "(Bearded Santa) Tae Hanazono",
+			"nick": "tae",
+			"alias": "r2",
+			"star": "2",
+			"skname": "Merry Otae",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Cool",
+			"pf": 3490,
+			"tech": 4647,
+			"vis": 6285,
+			"total": 14422,
+			"origin": "Event: HAPPY Poppin' Xmas (30 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/789Tae-Hanazono-Cool-Bh5ZT7.png",
+			"img": "http://i.bandori.party/u/c/art/789Tae-Hanazono-Cool-Ip8nQC.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/789Tae-Hanazono-Cool-Ip8nQC.png"
 		}
 	]
 }
