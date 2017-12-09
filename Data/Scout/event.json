@@ -2,64 +2,64 @@
 	"eventTwo": [
 		
 		{
-			"id": 790,
-			"name": "(Sudden Santa) Kasumi Toyama",
-			"nick": "kasumi",
+			"id": 795,
+			"name": "(Looking up at the Night Sky) Tsugumi Hazawa",
+			"nick": "tsugumi",
 			"alias": "r5",
 			"star": "2",
-			"skname": "Happy Christmas!",
-			"skill": "Turns GREAT+ notes into PERFECT notes and boosts score by +10% for 5, up to 8 seconds.",
-			"stat": "Cool",
-			"pf": 5858,
-			"tech": 4985,
-			"vis": 4065,
-			"total": 14908,
-			"origin": "Limited Gacha: Bright Christmas (30 Nov 2017)",
-			"icon": "http://i.bandori.party/u/c/790Kasumi-Toyama-Cool-Zvw0fA.png",
-			"img": "http://i.bandori.party/u/c/art/790Kasumi-Toyama-Cool-Misf5x.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/790Kasumi-Toyama-Cool-Misf5x.png"
+			"skname": "I found the best star!",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 6024,
+			"tech": 4849,
+			"vis": 3885,
+			"total": 14758,
+			"origin": "Gacha: Frosty Twinkle Blue (9 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/795Tsugumi-Hazawa-Happy-ObLEVl.png",
+			"img": "http://i.bandori.party/u/c/art/795Tsugumi-Hazawa-Happy-4xsX5q.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/795Tsugumi-Hazawa-Happy-4xsX5q.png"
 		}
 	],
 	"eventThree": [
 
 		{
-			"id": 787,
-			"name": "(Christmas with Everyone) Arisa Ichigaya",
-			"nick": "arisa",
+			"id": 792,
+			"name": "(My Special Place) Himari Uehara",
+			"nick": "himari",
 			"alias": "sr4",
 			"star": "3",
-			"skname": "Arisanta's Gift!",
-			"skill": "Turns GREAT+ notes into PERFECT notes and boosts score by +30% for 5, up to 7.5 seconds.",
-			"stat": "Cool",
-			"pf": 10305,
-			"tech": 8535,
-			"vis": 9430,
-			"total": 28270,
-			"origin": "Limited Gacha: Bright Christmas (30 Nov 2017)",
-			"icon": "http://i.bandori.party/u/c/787Arisa-Ichigaya-Cool-fr8lIN.png",
-			"img": "http://i.bandori.party/u/c/art/787Arisa-Ichigaya-Cool-gyrBAU.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/787Arisa-Ichigaya-Cool-S9p8oS.png"
+			"skname": "Leader's Proposal",
+			"skill": "Restores life by 200, up to 300, and boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Happy",
+			"pf": 10333,
+			"tech": 9450,
+			"vis": 8478,
+			"total": 28261,
+			"origin": "Gacha: Frosty Twinkle Blue (9 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/792Himari-Uehara-Happy-N7VUfj.png",
+			"img": "http://i.bandori.party/u/c/art/792Himari-Uehara-Happy-qWcMf8.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/792Himari-Uehara-Happy-rU1tLN.png"
 		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 786,
-			"name": "(Merry Surprise!) Saaya Yamabuki",
-			"nick": "saaya",
-			"alias": "ur3",
+			"id": 791,
+			"name": "(Grand Night Sky) Ran Mitake",
+			"nick": "ran",
+			"alias": "ur2",
 			"star": "4",
-			"skname": "The Best Gift",
+			"skname": "Beyond the Sunset",
 			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
-			"stat": "Cool",
-			"pf": 10406,
-			"tech": 11782,
-			"vis": 9353,
-			"total": 31541,
-			"origin": "Limited Gacha: Bright Christmas (30 Nov 2017)",
-			"icon": "http://i.bandori.party/u/c/786Saaya-Yamabuki-Cool-c4jSRN.png",
-			"img": "http://i.bandori.party/u/c/art/786Saaya-Yamabuki-Cool-zv9UeJ.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/a/786Saaya-Yamabuki-Cool-AOQdj2.png"
+			"stat": "Happy",
+			"pf": 9863,
+			"tech": 11211,
+			"vis": 10462,
+			"total": 31536,
+			"origin": "Gacha: Frosty Twinkle Blue (9 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/791Ran-Mitake-Happy-ajA5Fy.png",
+			"img": "http://i.bandori.party/u/c/art/791Ran-Mitake-Happy-0kUg9h.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/791Ran-Mitake-Happy-0xMRSn.png"
 		}
 	]
 }

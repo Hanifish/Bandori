@@ -1,0 +1,65 @@
+{
+	"eventTwo": [
+		
+		{
+			"id": 790,
+			"name": "(Sudden Santa) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "r5",
+			"star": "2",
+			"skname": "Happy Christmas!",
+			"skill": "Turns GREAT+ notes into PERFECT notes and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Cool",
+			"pf": 5858,
+			"tech": 4985,
+			"vis": 4065,
+			"total": 14908,
+			"origin": "Limited Gacha: Bright Christmas (30 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/790Kasumi-Toyama-Cool-Zvw0fA.png",
+			"img": "http://i.bandori.party/u/c/art/790Kasumi-Toyama-Cool-Misf5x.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/790Kasumi-Toyama-Cool-Misf5x.png"
+		}
+	],
+	"eventThree": [
+
+		{
+			"id": 787,
+			"name": "(Christmas with Everyone) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Arisanta's Gift!",
+			"skill": "Turns GREAT+ notes into PERFECT notes and boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Cool",
+			"pf": 10305,
+			"tech": 8535,
+			"vis": 9430,
+			"total": 28270,
+			"origin": "Limited Gacha: Bright Christmas (30 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/787Arisa-Ichigaya-Cool-fr8lIN.png",
+			"img": "http://i.bandori.party/u/c/art/787Arisa-Ichigaya-Cool-gyrBAU.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/787Arisa-Ichigaya-Cool-S9p8oS.png"
+		}
+	],
+	"eventFour": [
+		
+		{
+			"id": 786,
+			"name": "(Merry Surprise!) Saaya Yamabuki",
+			"nick": "saaya",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "The Best Gift",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Cool",
+			"pf": 10406,
+			"tech": 11782,
+			"vis": 9353,
+			"total": 31541,
+			"origin": "Limited Gacha: Bright Christmas (30 Nov 2017)",
+			"icon": "http://i.bandori.party/u/c/786Saaya-Yamabuki-Cool-c4jSRN.png",
+			"img": "http://i.bandori.party/u/c/art/786Saaya-Yamabuki-Cool-zv9UeJ.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/786Saaya-Yamabuki-Cool-AOQdj2.png"
+		}
+	]
+}

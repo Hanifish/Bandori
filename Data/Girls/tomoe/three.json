@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/642Tomoe-Udagawa-Pure-tzIHrQ.png",
 			"img": "http://i.bandori.party/u/c/art/642Tomoe-Udagawa-Pure-Moo57P.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/642Tomoe-Udagawa-Pure-ZUFdC9.png"
+		},
+		{
+			"id": 793,
+			"name": "(Something I Can't Put into Words) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Make it Easy!",
+			"skill": "Restores life by 300, up to 450, and boosts score by +20% for 5, up to 8 seconds.",
+			"stat": "Powerful",
+			"pf": 9005,
+			"tech": 9530,
+			"vis": 9059,
+			"total": 27594,
+			"origin": "Event: Azure, Sparkle Like a Star (9 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/793Tomoe-Udagawa-Power-38w23U.png",
+			"img": "http://i.bandori.party/u/c/art/793Tomoe-Udagawa-Power-rb4uKk.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/793Tomoe-Udagawa-Power-0UoLsd.png"
 		}
 	]
 }

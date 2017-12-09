@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/526Moca-Aoba-Pure-xFBz88.png",
 			"img": "http://i.bandori.party/u/c/art/526Moca-Aoba-Pure-Z1kwNM.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/526Moca-Aoba-Pure-Z1kwNM.png"
+		},
+		{
+			"id": 794,
+			"name": "(Small Improvement?) Moca Aoba",
+			"nick": "moca",
+			"alias": "r2",
+			"star": "2",
+			"skname": "Height grew~?",
+			"skill": "Restores life by 200, up to 300, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Happy",
+			"pf": 4975,
+			"tech": 5666,
+			"vis": 4454,
+			"total": 15095,
+			"origin": "Event: Azure, Sparkle Like a Star (9 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/794Moca-Aoba-Happy-aPHS5V.png",
+			"img": "http://i.bandori.party/u/c/art/794Moca-Aoba-Happy-9jSsa6.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/794Moca-Aoba-Happy-9jSsa6.png"
 		}
 	]
 }
