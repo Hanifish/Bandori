@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/631Kanon-Matsubara-Happy-wyG1FH.png",
 			"img": "http://i.bandori.party/u/c/art/631Kanon-Matsubara-Happy-kw4vJS.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/631Kanon-Matsubara-Happy-k7NdKo.png"
+		},
+		{
+			"id": 796,
+			"name": "(Determined First Step!) Kanon Matsubara",
+			"nick": "kanon",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "What I Want to Do",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 11876,
+			"tech": 10493,
+			"vis": 9170,
+			"total": 31539,
+			"origin": "Gacha: Aurora of the Icy Pole (20 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/796Kanon-Matsubara-Power-%E6%B1%BA%E6%84%8F%E3%81%AE%E4%B8%80%E6%AD%A9-DBTu9D.png",
+			"img": "http://i.bandori.party/u/c/art/796Kanon-Matsubara-Power-%E6%B1%BA%E6%84%8F%E3%81%AE%E4%B8%80%E6%AD%A9-DRDBlX.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/796Kanon-Matsubara-Power-%E6%B1%BA%E6%84%8F%E3%81%AE%E4%B8%80%E6%AD%A9-wltDA4.png"
 		}
 	]
 }

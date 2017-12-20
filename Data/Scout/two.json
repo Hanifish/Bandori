@@ -827,6 +827,24 @@
 			"icon": "http://i.bandori.party/u/c/785Ran-Mitake-Pure-P2cOq5.png",
 			"img": "http://i.bandori.party/u/c/art/785Ran-Mitake-Pure-v7Xvwr.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/785Ran-Mitake-Pure-v7Xvwr.png"
+		},
+		{
+			"id": 795,
+			"name": "(Looking up at the Night Sky) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "r5",
+			"star": "2",
+			"skname": "I found the best star!",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 6024,
+			"tech": 4849,
+			"vis": 3885,
+			"total": 14758,
+			"origin": "Gacha: Frosty Twinkle Blue (9 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/795Tsugumi-Hazawa-Happy-ObLEVl.png",
+			"img": "http://i.bandori.party/u/c/art/795Tsugumi-Hazawa-Happy-4xsX5q.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/795Tsugumi-Hazawa-Happy-4xsX5q.png"
 		}
     ]
 }

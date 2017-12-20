@@ -792,6 +792,24 @@
 			"icon": "http://i.bandori.party/u/c/782Moca-Aoba-Pure-wGiYUn.png",
 			"img": "http://i.bandori.party/u/c/art/782Moca-Aoba-Pure-nIsL7a.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/782Moca-Aoba-Pure-x8W3bC.png"
+		},
+		{
+			"id": 792,
+			"name": "(My Special Place) Himari Uehara",
+			"nick": "himari",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Leader's Proposal",
+			"skill": "Restores life by 200, up to 300, and boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Happy",
+			"pf": 10333,
+			"tech": 9450,
+			"vis": 8478,
+			"total": 28261,
+			"origin": "Gacha: Frosty Twinkle Blue (9 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/792Himari-Uehara-Happy-N7VUfj.png",
+			"img": "http://i.bandori.party/u/c/art/792Himari-Uehara-Happy-qWcMf8.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/792Himari-Uehara-Happy-rU1tLN.png"
 		}
 
     ]

@@ -540,6 +540,24 @@
 			"icon": "http://i.bandori.party/u/c/781Lisa-Imai-Pure-ApdVCa.png",
 			"img": "http://i.bandori.party/u/c/art/781Lisa-Imai-Pure-9Bh5FV.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/781Lisa-Imai-Pure-0OJjec.png"
+		},
+		{
+			"id": 791,
+			"name": "(Grand Night Sky) Ran Mitake",
+			"nick": "ran",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Beyond the Sunset",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 9863,
+			"tech": 11211,
+			"vis": 10462,
+			"total": 31536,
+			"origin": "Gacha: Frosty Twinkle Blue (9 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/791Ran-Mitake-Happy-ajA5Fy.png",
+			"img": "http://i.bandori.party/u/c/art/791Ran-Mitake-Happy-0kUg9h.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/791Ran-Mitake-Happy-0xMRSn.png"
 		}
 
     ]

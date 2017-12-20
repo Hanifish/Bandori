@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/764Michelle-Pure-wRJdRn.png",
 			"img": "http://i.bandori.party/u/c/art/764Michelle-Pure-QGdnMT.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/764Michelle-Pure-QGdnMT.png"
+		},
+		{
+			"id": 799,
+			"name": "(Penguin? Bear?) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "r5",
+			"star": "2",
+			"skname": "Decisive Pose",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Cool",
+			"pf": 3490,
+			"tech": 4647,
+			"vis": 6285,
+			"total": 14422,
+			"origin": "Event: Little Smile Step (20 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/799Michelle-Cool-%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3-%E3%82%AF%E3%83%9E-tgQSfr.png",
+			"img": "http://i.bandori.party/u/c/art/799Michelle-Cool-%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3-%E3%82%AF%E3%83%9E-NoS96y.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/799Michelle-Cool-%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3-%E3%82%AF%E3%83%9E-NoS96y.png"
 		}
 	]
 }

@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/658Hagumi-Kitazawa-Pure-fX4ctv.png",
 			"img": "http://i.bandori.party/u/c/art/658Hagumi-Kitazawa-Pure-7QfBca.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/658Hagumi-Kitazawa-Pure-lmqzK4.png"
+		},
+		{
+			"id": 797,
+			"name": "(Cute Things Everywhere!) Hagumi Kitazawa",
+			"nick": "hagumi",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "I Love to Hold It",
+			"skill": "Boosts score by +60% for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 9231,
+			"tech": 10463,
+			"vis": 8292,
+			"total": 27986,
+			"origin": "Gacha: Aurora of the Icy Pole (20 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/797Hagumi-Kitazawa-Power-%E5%8F%AF%E6%84%9B%E3%81%84%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%81%97-XIzYZH.png",
+			"img": "http://i.bandori.party/u/c/art/797Hagumi-Kitazawa-Power-%E5%8F%AF%E6%84%9B%E3%81%84%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%81%97-1UxAqn.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/797Hagumi-Kitazawa-Power-%E5%8F%AF%E6%84%9B%E3%81%84%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%81%97-0tYGRk.png"
 		}
 	]
 }
