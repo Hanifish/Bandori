@@ -845,6 +845,24 @@
 			"icon": "http://i.bandori.party/u/c/795Tsugumi-Hazawa-Happy-ObLEVl.png",
 			"img": "http://i.bandori.party/u/c/art/795Tsugumi-Hazawa-Happy-4xsX5q.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/795Tsugumi-Hazawa-Happy-4xsX5q.png"
+		},
+		{
+			"id": 800,
+			"name": "(I'm a Penguin, Too!) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "r5",
+			"star": "2",
+			"skname": "Jumping!",
+			"skill": "Restores life by 200, up to 300, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Powerful",
+			"pf": 4236,
+			"tech": 5753,
+			"vis": 4924,
+			"total": 14913,
+			"origin": "Gacha: Aurora of the Icy Pole (20 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/800Kokoro-Tsurumaki-Power-%E3%81%82%E3%81%9F%E3%81%97%E3%82%82%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3-ljQe1D.png",
+			"img": "http://i.bandori.party/u/c/art/800Kokoro-Tsurumaki-Power-%E3%81%82%E3%81%9F%E3%81%97%E3%82%82%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3-TudTkm.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/800Kokoro-Tsurumaki-Power-%E3%81%82%E3%81%9F%E3%81%97%E3%82%82%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3-TudTkm.png"
 		}
     ]
 }

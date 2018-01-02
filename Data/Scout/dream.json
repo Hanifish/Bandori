@@ -24,7 +24,6 @@
 		}
 	],
 	"eventFour": [
-		
 		{
 			"id": 801,
 			"name": "(First Mochi Making Fair) Eve Wakamiya",
@@ -60,6 +59,42 @@
 			"icon": "http://i.bandori.party/u/c/802Kokoro-Tsurumaki-Pure-%E6%AD%A3%E6%9C%88%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E4%BA%8B%E3%81%A0%E3%82%89%E3%81%91-AuJTdA.png",
 			"img": "http://i.bandori.party/u/c/art/802Kokoro-Tsurumaki-Pure-%E6%AD%A3%E6%9C%88%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E4%BA%8B%E3%81%A0%E3%82%89%E3%81%91-WbGqxm.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/802Kokoro-Tsurumaki-Pure-%E6%AD%A3%E6%9C%88%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E4%BA%8B%E3%81%A0%E3%82%89%E3%81%91-IUD5SH.png"
+		},
+		{
+			"id": 806,
+			"name": "(Our Poster) Aya Maruyama",
+			"nick": "aya",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Event, please come!",
+			"skill": "Boosts score of PERFECT notes by +115% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 10521,
+			"tech": 10493,
+			"vis": 10583,
+			"total": 31597,
+			"origin": "DreamFes Gacha Limited (31 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/806Aya-Maruyama-Pure-%E7%A7%81%E9%81%94%E3%81%AE%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-TgzEHH.png",
+			"img": "http://i.bandori.party/u/c/art/806Aya-Maruyama-Pure-%E7%A7%81%E9%81%94%E3%81%AE%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-BAup9a.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/806Aya-Maruyama-Pure-%E7%A7%81%E9%81%94%E3%81%AE%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-MUeIXb.png"
+		},
+		{
+			"id": 807,
+			"name": "(An Enchanting Hand) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Beautiful Hands",
+			"skill": "Boosts score of PERFECT notes by +115% for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 10611,
+			"tech": 10462,
+			"vis": 10521,
+			"total": 31594,
+			"origin": "DreamFes Gacha Limited (31 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/807Sayo-Hikawa-Power-%E9%AD%85%E6%83%91%E3%81%AE%E6%89%8B-37CFh9.png",
+			"img": "http://i.bandori.party/u/c/art/807Sayo-Hikawa-Power-%E9%AD%85%E6%83%91%E3%81%AE%E6%89%8B-KJLfoR.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/807Sayo-Hikawa-Power-%E9%AD%85%E6%83%91%E3%81%AE%E6%89%8B-YAa1HY.png"
 		}
 	]
 }
