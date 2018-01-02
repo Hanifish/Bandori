@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/636Aya-Maruyama-Power-3eKQkR.png",
 			"img": "http://i.bandori.party/u/c/art/636Aya-Maruyama-Power-vtC2j1.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/636Aya-Maruyama-Power-MSeWz7.png"
+		},
+		{
+			"id": 806,
+			"name": "(Our Poster) Aya Maruyama",
+			"nick": "aya",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Event, please come!",
+			"skill": "Boosts score of PERFECT notes by +115% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 10521,
+			"tech": 10493,
+			"vis": 10583,
+			"total": 31597,
+			"origin": "DreamFes Gacha Limited (31 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/806Aya-Maruyama-Pure-%E7%A7%81%E9%81%94%E3%81%AE%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-TgzEHH.png",
+			"img": "http://i.bandori.party/u/c/art/806Aya-Maruyama-Pure-%E7%A7%81%E9%81%94%E3%81%AE%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-BAup9a.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/806Aya-Maruyama-Pure-%E7%A7%81%E9%81%94%E3%81%AE%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-MUeIXb.png"
 		}
 	]
 }

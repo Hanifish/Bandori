@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/741Kokoro-Tsurumaki-Power-2oxoRG.png",
 			"img": "http://i.bandori.party/u/c/art/741Kokoro-Tsurumaki-Power-5BgHpq.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/741Kokoro-Tsurumaki-Power-ygNiPO.png"
+		},
+		{
+			"id": 802,
+			"name": "(New Years is Full of Fun) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Happy can do it now!",
+			"skill": "Restores life by 300, up to 450, and boosts score by +60% for 5, up to 7.5 seconds.",
+			"stat": "Pure",
+			"pf": 11637,
+			"tech": 10642,
+			"vis": 9562,
+			"total": 31841,
+			"origin": "Limited Gacha: Sunrise of Youth (31 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/802Kokoro-Tsurumaki-Pure-%E6%AD%A3%E6%9C%88%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E4%BA%8B%E3%81%A0%E3%82%89%E3%81%91-AuJTdA.png",
+			"img": "http://i.bandori.party/u/c/art/802Kokoro-Tsurumaki-Pure-%E6%AD%A3%E6%9C%88%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E4%BA%8B%E3%81%A0%E3%82%89%E3%81%91-WbGqxm.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/802Kokoro-Tsurumaki-Pure-%E6%AD%A3%E6%9C%88%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E4%BA%8B%E3%81%A0%E3%82%89%E3%81%91-IUD5SH.png"
 		}
 	]
 }

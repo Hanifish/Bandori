@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/685Tomoe-Udagawa-Power-fDlCA1.png",
 			"img": "http://i.bandori.party/u/c/art/685Tomoe-Udagawa-Power-VHeYD6.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/685Tomoe-Udagawa-Power-VHeYD6.png"
+		},
+		{
+			"id": 804,
+			"name": "(The Assistance of a Shrine Maiden) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Important Part Time Job",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 3523,
+			"tech": 6270,
+			"vis": 4631,
+			"total": 14424,
+			"origin": "Event: New Year, Foreboding Fortune! (31 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/804Tomoe-Udagawa-Pure-%E5%B7%AB%E5%A5%B3%E3%81%AE%E5%8A%A9%E5%8B%A4-siNjCw.png",
+			"img": "http://i.bandori.party/u/c/art/804Tomoe-Udagawa-Pure-%E5%B7%AB%E5%A5%B3%E3%81%AE%E5%8A%A9%E5%8B%A4-bkwd4R.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/804Tomoe-Udagawa-Pure-%E5%B7%AB%E5%A5%B3%E3%81%AE%E5%8A%A9%E5%8B%A4-bkwd4R.png"
 		}
 	]
 }

@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/668Rinko-Shirokane-Happy-3HdGv2.png",
 			"img": "http://i.bandori.party/u/c/art/668Rinko-Shirokane-Happy-eISoDL.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/668Rinko-Shirokane-Happy-8Tt3Re.png"
+		},
+		{
+			"id": 805,
+			"name": "(Cute New Years Kimono) Rinko Shirokane",
+			"nick": "rinko",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "May this year also be good.",
+			"skill": "Boosts score by +65% when life is above 900, or +55% if not for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 8776,
+			"tech": 9338,
+			"vis": 9874,
+			"total": 27988,
+			"origin": "Limited Gacha: Sunrise of Youth (31 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/805Rinko-Shirokane-Pure-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E6%99%B4%E3%82%8C%E7%9D%80-ixB9nj.png",
+			"img": "http://i.bandori.party/u/c/art/805Rinko-Shirokane-Pure-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E6%99%B4%E3%82%8C%E7%9D%80-4pnWiA.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/805Rinko-Shirokane-Pure-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E6%99%B4%E3%82%8C%E7%9D%80-8wp0QA.png"
 		}
 	]
 }

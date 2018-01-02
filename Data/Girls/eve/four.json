@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/776Eve-Wakamiya-Power-Y6llob.png",
 			"img": "http://i.bandori.party/u/c/art/776Eve-Wakamiya-Power-r9Sp6W.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/776Eve-Wakamiya-Power-myIOcZ.png"
+		},
+		{
+			"id": 801,
+			"name": "(First Mochi Making Fair) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Happy, Eve World!?",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 11156,
+			"tech": 10521,
+			"vis": 9863,
+			"total": 31540,
+			"origin": "Limited Gacha: Sunrise of Youth (31 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/801Eve-Wakamiya-Pure-%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E3%81%8A%E9%A4%85%E3%81%A4%E3%81%8D-wgWbiO.png",
+			"img": "http://i.bandori.party/u/c/art/801Eve-Wakamiya-Pure-%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E3%81%8A%E9%A4%85%E3%81%A4%E3%81%8D-UEz9hc.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/801Eve-Wakamiya-Pure-%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E3%81%8A%E9%A4%85%E3%81%A4%E3%81%8D-pVRoja.png"
 		}
 	]
 }
