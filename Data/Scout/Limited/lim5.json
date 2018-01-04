@@ -1,0 +1,65 @@
+{
+	"eventTwo": [
+		
+	],
+	"eventThree": [
+
+		{
+			"id": 805,
+			"name": "(Cute New Years Kimono) Rinko Shirokane",
+			"nick": "rinko",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "May this year also be good.",
+			"skill": "Boosts score by +65% when life is above 900, or +55% if not for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 8776,
+			"tech": 9338,
+			"vis": 9874,
+			"total": 27988,
+			"origin": "Limited Gacha: Sunrise of Youth (31 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/805Rinko-Shirokane-Pure-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E6%99%B4%E3%82%8C%E7%9D%80-ixB9nj.png",
+			"img": "http://i.bandori.party/u/c/art/805Rinko-Shirokane-Pure-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E6%99%B4%E3%82%8C%E7%9D%80-4pnWiA.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/805Rinko-Shirokane-Pure-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E6%99%B4%E3%82%8C%E7%9D%80-8wp0QA.png"
+		}
+	],
+	"eventFour": [
+		
+		{
+			"id": 801,
+			"name": "(First Mochi Making Fair) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Happy, Eve World!?",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 11156,
+			"tech": 10521,
+			"vis": 9863,
+			"total": 31540,
+			"origin": "Limited Gacha: Sunrise of Youth (31 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/801Eve-Wakamiya-Pure-%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E3%81%8A%E9%A4%85%E3%81%A4%E3%81%8D-wgWbiO.png",
+			"img": "http://i.bandori.party/u/c/art/801Eve-Wakamiya-Pure-%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E3%81%8A%E9%A4%85%E3%81%A4%E3%81%8D-UEz9hc.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/801Eve-Wakamiya-Pure-%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E3%81%8A%E9%A4%85%E3%81%A4%E3%81%8D-pVRoja.png"
+		},
+		{
+			"id": 802,
+			"name": "(New Years is Full of Fun) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Happy can do it now!",
+			"skill": "Restores life by 300, up to 450, and boosts score by +60% for 5, up to 7.5 seconds.",
+			"stat": "Pure",
+			"pf": 11637,
+			"tech": 10642,
+			"vis": 9562,
+			"total": 31841,
+			"origin": "Limited Gacha: Sunrise of Youth (31 Dec 2017)",
+			"icon": "http://i.bandori.party/u/c/802Kokoro-Tsurumaki-Pure-%E6%AD%A3%E6%9C%88%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E4%BA%8B%E3%81%A0%E3%82%89%E3%81%91-AuJTdA.png",
+			"img": "http://i.bandori.party/u/c/art/802Kokoro-Tsurumaki-Pure-%E6%AD%A3%E6%9C%88%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E4%BA%8B%E3%81%A0%E3%82%89%E3%81%91-WbGqxm.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/802Kokoro-Tsurumaki-Pure-%E6%AD%A3%E6%9C%88%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E4%BA%8B%E3%81%A0%E3%82%89%E3%81%91-IUD5SH.png"
+		}
+	]
+}
