@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/622Kasumi-Toyama-Pure-ZV2UdO.png",
 			"img": "http://i.bandori.party/u/c/art/622Kasumi-Toyama-Pure-urRyNG.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/622Kasumi-Toyama-Pure-ujhjOv.png"
+		},
+		{
+			"id": 833,
+			"name": "(To Make This Our Best Stage!) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Fighting Circle",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Cool",
+			"pf": 9111,
+			"tech": 10553,
+			"vis": 11876,
+			"total": 31540,
+			"origin": "Gacha: Shining Dream Stage (10 Jan 2017)",
+			"icon": "http://i.bandori.party/u/c/833Kasumi-Toyama-Cool-%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AB-DjuNTt.png",
+			"img": "http://i.bandori.party/u/c/art/833Kasumi-Toyama-Cool-%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AB-R9t3Xc.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/833Kasumi-Toyama-Cool-%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AB-0G5zmM.png"
 		}
 	]
 }

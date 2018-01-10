@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/779Arisa-Ichigaya-Pure-y6aGkk.png",
 			"img": "http://i.bandori.party/u/c/art/779Arisa-Ichigaya-Pure-73RG4E.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/779Arisa-Ichigaya-Pure-73RG4E.png"
+		},
+		{
+			"id": 836,
+			"name": "(Enjoying Our Performances) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "r5",
+			"star": "2",
+			"skname": "Delivered to many people",
+			"skill": "Restores life by 200, up to 300, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Happy",
+			"pf": 5692,
+			"tech": 4931,
+			"vis": 4467,
+			"total": 15090,
+			"origin": "Event: FUN! FUN! CiRCLING FIVESTAR! (10 Jan 2017)",
+			"icon": "http://i.bandori.party/u/c/836Arisa-Ichigaya-Happy-%E6%A5%BD%E3%81%97%E3%82%80%E6%BC%94%E5%A5%8F-o8uV5L.png",
+			"img": "http://i.bandori.party/u/c/art/836Arisa-Ichigaya-Happy-%E6%A5%BD%E3%81%97%E3%82%80%E6%BC%94%E5%A5%8F-2595sb.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/836Arisa-Ichigaya-Happy-%E6%A5%BD%E3%81%97%E3%82%80%E6%BC%94%E5%A5%8F-2595sb.png"
 		}
 	]
 }
