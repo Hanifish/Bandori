@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/649Sayo-Hikawa-Power-Jp7W2F.png",
 			"img": "http://i.bandori.party/u/c/art/649Sayo-Hikawa-Power-T96Mvp.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/649Sayo-Hikawa-Power-T96Mvp.png"
+		},
+		{
+			"id": 859,
+			"name": "(Overlapping Blue Roses) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "r4",
+			"star": "2",
+			"skname": "The Sound I Believe",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Cool",
+			"pf": 5705,
+			"tech": 4391,
+			"vis": 4990,
+			"total": 15086,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/859Sayo-Hikawa-Cool-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-pcNwzX.png",
+			"img": "http://i.bandori.party/u/c/art/859Sayo-Hikawa-Cool-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-DcUdbV.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/859Sayo-Hikawa-Cool-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-DcUdbV.png"
 		}
 	]
 }

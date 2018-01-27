@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/768Sayo-Hikawa-Power-ibztL5.png",
 			"img": "http://i.bandori.party/u/c/art/768Sayo-Hikawa-Power-hsg0qJ.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/768Sayo-Hikawa-Power-UzNBKK.png"
+		},
+		{
+			"id": 867,
+			"name": "(Fledgling Tank) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Defense Stance",
+			"skill": "Boosts score by +65% when life is above 900, or +55% if not for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 10544,
+			"tech": 8185,
+			"vis": 9259,
+			"total": 27989,
+			"origin": "Gacha: Our Party’s Journey: Neo Fantasy Online (22 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/867Sayo-Hikawa-Happy-%E6%96%B0%E7%B1%B3%E3%82%BF%E3%83%B3%E3%82%AF-Uq9hMj.png",
+			"img": "http://i.bandori.party/u/c/art/867Sayo-Hikawa-Happy-%E6%96%B0%E7%B1%B3%E3%82%BF%E3%83%B3%E3%82%AF-UhHy6D.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/867Sayo-Hikawa-Happy-%E6%96%B0%E7%B1%B3%E3%82%BF%E3%83%B3%E3%82%AF-0W77Cq.png"
 		}
 	]
 }

@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/789Tae-Hanazono-Cool-Bh5ZT7.png",
 			"img": "http://i.bandori.party/u/c/art/789Tae-Hanazono-Cool-Ip8nQC.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/789Tae-Hanazono-Cool-Ip8nQC.png"
+		},
+		{
+			"id": 839,
+			"name": "(Colorful Poppin'!) Tae Hanazono",
+			"nick": "tae",
+			"alias": "r3",
+			"star": "2",
+			"skname": "Fuzzy Play",
+			"skill": "Restores life by 200, up to 300, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Powerful",
+			"pf": 5140,
+			"tech": 5666,
+			"vis": 4437,
+			"total": 15243,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/839Tae-Hanazono-Power-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-OKSpYi.png",
+			"img": "http://i.bandori.party/u/c/art/839Tae-Hanazono-Power-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-6ycQ0U.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/839Tae-Hanazono-Power-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-6ycQ0U.png"
 		}
 	]
 }

@@ -576,6 +576,42 @@
 			"icon": "http://i.bandori.party/u/c/796Kanon-Matsubara-Power-%E6%B1%BA%E6%84%8F%E3%81%AE%E4%B8%80%E6%AD%A9-DBTu9D.png",
 			"img": "http://i.bandori.party/u/c/art/796Kanon-Matsubara-Power-%E6%B1%BA%E6%84%8F%E3%81%AE%E4%B8%80%E6%AD%A9-DRDBlX.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/796Kanon-Matsubara-Power-%E6%B1%BA%E6%84%8F%E3%81%AE%E4%B8%80%E6%AD%A9-wltDA4.png"
+		},
+		{
+			"id": 834,
+			"name": "(Only Looking Forward) Tae Hanazono",
+			"nick": "tae",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Supporting the Band",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Cool",
+			"pf": 10311,
+			"tech": 9413,
+			"vis": 11812,
+			"total": 31536,
+			"origin": "Gacha: Shining Dream Stage (10 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/834Tae-Hanazono-Cool-%E5%89%8D%E3%81%A0%E3%81%91%E3%82%92%E5%90%91%E3%81%93%E3%81%86-peaXtO.png",
+			"img": "http://i.bandori.party/u/c/art/834Tae-Hanazono-Cool-%E5%89%8D%E3%81%A0%E3%81%91%E3%82%92%E5%90%91%E3%81%93%E3%81%86-N2MsnQ.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/834Tae-Hanazono-Cool-%E5%89%8D%E3%81%A0%E3%81%91%E3%82%92%E5%90%91%E3%81%93%E3%81%86-t9wR9c.png"
+		},
+		{
+			"id": 833,
+			"name": "(To Make This Our Best Stage!) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Fighting Circle",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Cool",
+			"pf": 9111,
+			"tech": 10553,
+			"vis": 11876,
+			"total": 31540,
+			"origin": "Gacha: Shining Dream Stage (10 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/833Kasumi-Toyama-Cool-%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AB-DjuNTt.png",
+			"img": "http://i.bandori.party/u/c/art/833Kasumi-Toyama-Cool-%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AB-R9t3Xc.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/833Kasumi-Toyama-Cool-%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AB-0G5zmM.png"
 		}
 
     ]

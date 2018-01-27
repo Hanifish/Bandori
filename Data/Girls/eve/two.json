@@ -89,6 +89,24 @@
 			"icon": "http://i.bandori.party/u/c/770Eve-Wakamiya-Happy-F3s8SE.png",
 			"img": "http://i.bandori.party/u/c/art/770Eve-Wakamiya-Happy-hG0DhC.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/770Eve-Wakamiya-Happy-hG0DhC.png"
+		},
+		{
+			"id": 857,
+			"name": "(To The Sparkling Stage) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "r6",
+			"star": "2",
+			"skname": "Oninikanabō?",
+			"skill": "Restores life by 200, up to 300, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Powerful",
+			"pf": 5124,
+			"tech": 5438,
+			"vis": 4676,
+			"total": 15238,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/857Eve-Wakamiya-Power-%E7%85%8C%E3%82%81%E3%81%8F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%B8-zafAXy.png",
+			"img": "http://i.bandori.party/u/c/art/857Eve-Wakamiya-Power-%E7%85%8C%E3%82%81%E3%81%8F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%B8-unIQlu.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/857Eve-Wakamiya-Power-%E7%85%8C%E3%82%81%E3%81%8F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%B8-unIQlu.png"
 		}
 	]
 }

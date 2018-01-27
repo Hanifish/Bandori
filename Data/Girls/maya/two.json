@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/695Maya-Yamato-Pure-nyYSxi.png",
 			"img": "http://i.bandori.party/u/c/art/695Maya-Yamato-Pure-0CXG9b.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/695Maya-Yamato-Pure-0CXG9b.png"
+		},
+		{
+			"id": 856,
+			"name": "(To The Sparkling Stage) Maya Yamato",
+			"nick": "maya",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Precise Maintenance",
+			"skill": "Restores life by 200, up to 300, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Pure",
+			"pf": 5556,
+			"tech": 5035,
+			"vis": 4646,
+			"total": 15237,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/856Maya-Yamato-Pure-%E7%85%8C%E3%82%81%E3%81%8F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%B8-k3sGyO.png",
+			"img": "http://i.bandori.party/u/c/art/856Maya-Yamato-Pure-%E7%85%8C%E3%82%81%E3%81%8F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%B8-ArLp9m.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/856Maya-Yamato-Pure-%E7%85%8C%E3%82%81%E3%81%8F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%B8-ArLp9m.png"
 		}
 	]
 }

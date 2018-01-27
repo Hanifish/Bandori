@@ -88,7 +88,25 @@
 			"origin": "Event: Umbrella for the Sudden Autumn Rain (11 Oct 2017)",
 			"icon": "http://i.bandori.party/u/c/759Lisa-Imai-Power-vSsLT7.png",
 			"img": "http://i.bandori.party/u/c/art/759Lisa-Imai-Power-XaSiA4.png",
-			"imgbloomed": "http://i.bandori.party/u/c/art/759Lisa-Imai-Power-XaSiA4.pngg"
+			"imgbloomed": "http://i.bandori.party/u/c/art/759Lisa-Imai-Power-XaSiA4.png"
+		},
+		{
+			"id": 860,
+			"name": "(Overlapping Blue Roses) Lisa Imai",
+			"nick": "lisa",
+			"alias": "r6",
+			"star": "2",
+			"skname": "Blue Rose Stem",
+			"skill": "Turns GREAT+ notes into PERFECT notes, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Happy",
+			"pf": 4961,
+			"tech": 5544,
+			"vis": 4736,
+			"total": 15241,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/860Lisa-Imai-Happy-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-OVdAtL.png",
+			"img": "http://i.bandori.party/u/c/art/860Lisa-Imai-Happy-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-Uk7IPc.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/860Lisa-Imai-Happy-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-Uk7IPc.png"
 		}
 	]
 }

@@ -85,10 +85,28 @@
 			"tech": 4931,
 			"vis": 4467,
 			"total": 15090,
-			"origin": "Event: FUN! FUN! CiRCLING FIVESTAR! (10 Jan 2017)",
+			"origin": "Event: FUN! FUN! CiRCLING FIVESTAR! (10 Jan 2018)",
 			"icon": "http://i.bandori.party/u/c/836Arisa-Ichigaya-Happy-%E6%A5%BD%E3%81%97%E3%82%80%E6%BC%94%E5%A5%8F-o8uV5L.png",
 			"img": "http://i.bandori.party/u/c/art/836Arisa-Ichigaya-Happy-%E6%A5%BD%E3%81%97%E3%82%80%E6%BC%94%E5%A5%8F-2595sb.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/836Arisa-Ichigaya-Happy-%E6%A5%BD%E3%81%97%E3%82%80%E6%BC%94%E5%A5%8F-2595sb.png"
+		},
+		{
+			"id": 842,
+			"name": "(Colorful Poppin'!) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "r6",
+			"star": "2",
+			"skname": "Splendid Direction",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds .",
+			"stat": "Powerful",
+			"pf": 5705,
+			"tech": 5020,
+			"vis": 4363,
+			"total": 15088,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/842Arisa-Ichigaya-Power-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-l09g6N.png",
+			"img": "http://i.bandori.party/u/c/art/842Arisa-Ichigaya-Power-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-wZlqQW.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/842Arisa-Ichigaya-Power-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-wZlqQW.png"
 		}
 	]
 }

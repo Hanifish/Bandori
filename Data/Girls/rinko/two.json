@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/769Rinko-Shirokane-Power-iLkcop.png",
 			"img": "http://i.bandori.party/u/c/art/769Rinko-Shirokane-Power-gTk30Q.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/769Rinko-Shirokane-Power-gTk30Q.png"
+		},
+		{
+			"id": 862,
+			"name": "(Overlapping Blue Roses) Rinko Shirokane",
+			"nick": "rinko",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Me too... Sometime, Ahead",
+			"skill": "Turns GREAT+ notes into PERFECT notes, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Cool",
+			"pf": 5606,
+			"tech": 4721,
+			"vis": 4911,
+			"total": 15238,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/862Rinko-Shirokane-Cool-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-XRlhi5.png",
+			"img": "http://i.bandori.party/u/c/art/862Rinko-Shirokane-Cool-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-X4PbkR.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/862Rinko-Shirokane-Cool-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-X4PbkR.png"
 		}
 	]
 }

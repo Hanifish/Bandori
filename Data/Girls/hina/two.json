@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/665Hina-Hikawa-Pure-ApVV6q.png",
 			"img": "http://i.bandori.party/u/c/art/665Hina-Hikawa-Pure-Ue5OVt.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/665Hina-Hikawa-Pure-Ue5OVt.png"
+		},
+		{
+			"id": 854,
+			"name": "(To The Sparkling Stage) Hina Hikawa",
+			"nick": "hina",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Run, Come Up with an Idea",
+			"skill": "Turns GREAT+ notes into PERFECT notes, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Cool",
+			"pf": 4676,
+			"tech": 5079,
+			"vis": 5483,
+			"total": 15238,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/854Hina-Hikawa-Cool-%E7%85%8C%E3%82%81%E3%81%8F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%B8-gCpcUf.png",
+			"img": "http://i.bandori.party/u/c/art/854Hina-Hikawa-Cool-%E7%85%8C%E3%82%81%E3%81%8F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%B8-qEQn6P.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/854Hina-Hikawa-Cool-%E7%85%8C%E3%82%81%E3%81%8F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%B8-qEQn6P.png"
 		}
 	]
 }

@@ -828,6 +828,24 @@
 			"icon": "http://i.bandori.party/u/c/797Hagumi-Kitazawa-Power-%E5%8F%AF%E6%84%9B%E3%81%84%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%81%97-XIzYZH.png",
 			"img": "http://i.bandori.party/u/c/art/797Hagumi-Kitazawa-Power-%E5%8F%AF%E6%84%9B%E3%81%84%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%81%97-1UxAqn.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/797Hagumi-Kitazawa-Power-%E5%8F%AF%E6%84%9B%E3%81%84%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%81%97-0tYGRk.png"
+		},
+		{
+			"id": 837,
+			"name": "(Starting to Get Nervous) Rimi Ushigome",
+			"nick": "rimi",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "At such a big venue....!?",
+			"skill": "Turns GREAT+ notes into PERFECT notes, and boosts score by +30% for 5, up to 7.5 seconds",
+			"stat": "Cool",
+			"pf": 9529,
+			"tech": 10463,
+			"vis": 8267,
+			"total": 28259,
+			"origin": "Gacha: Shining Dream Stage (10 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/837Rimi-Ushigome-Cool-%E7%B7%8A%E5%BC%B5%E3%81%97%E3%81%A6%E3%81%8D%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F-TPPkB0.png",
+			"img": "http://i.bandori.party/u/c/art/837Rimi-Ushigome-Cool-%E7%B7%8A%E5%BC%B5%E3%81%97%E3%81%A6%E3%81%8D%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F-HI5BGD.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/837Rimi-Ushigome-Cool-%E7%B7%8A%E5%BC%B5%E3%81%97%E3%81%A6%E3%81%8D%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F-PHutHY.png"
 		}
 
     ]

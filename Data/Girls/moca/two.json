@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/794Moca-Aoba-Happy-aPHS5V.png",
 			"img": "http://i.bandori.party/u/c/art/794Moca-Aoba-Happy-9jSsa6.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/794Moca-Aoba-Happy-9jSsa6.png"
+		},
+		{
+			"id": 844,
+			"name": "(Grown Up Rock) Moca Aoba",
+			"nick": "moca",
+			"alias": "r3",
+			"star": "2",
+			"skname": "A Little Moca?",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds .",
+			"stat": "Powerful",
+			"pf": 4391,
+			"tech": 5692,
+			"vis": 5005,
+			"total": 15088,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/844Moca-Aoba-Power-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-NPnkoe.png",
+			"img": "http://i.bandori.party/u/c/art/844Moca-Aoba-Power-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-7COVLD.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/844Moca-Aoba-Power-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-7COVLD.png"
 		}
 	]
 }

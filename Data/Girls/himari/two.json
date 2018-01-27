@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/780Himari-Uehara-Power-pRD69V.png",
 			"img": "http://i.bandori.party/u/c/art/780Himari-Uehara-Power-yvAW56.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/780Himari-Uehara-Power-yvAW56.png"
+		},
+		{
+			"id": 845,
+			"name": "(Grown Up Rock) Himari Uehara",
+			"nick": "himari",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Leader's Coord-Jutsu",
+			"skill": "Restores life by 200, up to 300, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Pure",
+			"pf": 5573,
+			"tech": 4587,
+			"vis": 5079,
+			"total": 15239,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/845Himari-Uehara-Pure-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-lr0STz.png",
+			"img": "http://i.bandori.party/u/c/art/845Himari-Uehara-Pure-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-N5MiHb.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/845Himari-Uehara-Pure-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-N5MiHb.png"
 		}
 	]
 }

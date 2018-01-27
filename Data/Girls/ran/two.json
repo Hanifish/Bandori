@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/785Ran-Mitake-Pure-P2cOq5.png",
 			"img": "http://i.bandori.party/u/c/art/785Ran-Mitake-Pure-v7Xvwr.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/785Ran-Mitake-Pure-v7Xvwr.png"
+		},
+		{
+			"id": 843,
+			"name": "(Grown Up Rock) Ran Mitake",
+			"nick": "ran",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Sense of Rock Unity",
+			"skill": "Turns GREAT+ notes into PERFECT notes and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Cool",
+			"pf": 5020,
+			"tech": 5556,
+			"vis": 4661,
+			"total": 15237,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/843Ran-Mitake-Cool-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-3o8NWr.png",
+			"img": "http://i.bandori.party/u/c/art/843Ran-Mitake-Cool-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-xWUgcU.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/843Ran-Mitake-Cool-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-xWUgcU.png"
 		}
 	]
 }

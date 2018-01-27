@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/752Kaoru-Seta-Happy-ZGYTm0.png",
 			"img": "http://i.bandori.party/u/c/art/752Kaoru-Seta-Happy-d9tf31.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/752Kaoru-Seta-Happy-d9tf31.png"
+		},
+		{
+			"id": 849,
+			"name": "(Magic of Smiles) Kaoru Seta",
+			"nick": "kaoru",
+			"alias": "r5",
+			"star": "2",
+			"skname": "From vertical stripes... Horizontal stripes!",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 5350,
+			"tech": 5035,
+			"vis": 4706,
+			"total": 15091,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/849Kaoru-Seta-Power-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-cAxX2K.png",
+			"img": "http://i.bandori.party/u/c/art/849Kaoru-Seta-Power-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-P0qPrI.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/849Kaoru-Seta-Power-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-P0qPrI.png"
 		}
 	]
 }

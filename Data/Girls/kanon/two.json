@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/754Kanon-Matsubara-Pure-hBl7ZV.png",
 			"img": "http://i.bandori.party/u/c/art/754Kanon-Matsubara-Pure-fgHoJO.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/754Kanon-Matsubara-Pure-fgHoJO.png"
+		},
+		{
+			"id": 851,
+			"name": "(Magic of Smiles) Kanon Matsubara",
+			"nick": "kanon",
+			"alias": "r5",
+			"star": "3",
+			"skname": "Did I grow a little?",
+			"skill": "Restores life by 200, up to 300, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Cool",
+			"pf": 5095,
+			"tech": 4482,
+			"vis": 5666,
+			"total": 15243,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/851Kanon-Matsubara-Cool-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-mk2wiF.png",
+			"img": "http://i.bandori.party/u/c/art/851Kanon-Matsubara-Cool-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-K8ZOv7.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/851Kanon-Matsubara-Cool-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-K8ZOv7.png"
 		}
 	]
 }

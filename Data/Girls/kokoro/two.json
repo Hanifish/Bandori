@@ -89,6 +89,24 @@
 			"icon": "http://i.bandori.party/u/c/800Kokoro-Tsurumaki-Power-%E3%81%82%E3%81%9F%E3%81%97%E3%82%82%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3-ljQe1D.png",
 			"img": "http://i.bandori.party/u/c/art/800Kokoro-Tsurumaki-Power-%E3%81%82%E3%81%9F%E3%81%97%E3%82%82%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3-TudTkm.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/800Kokoro-Tsurumaki-Power-%E3%81%82%E3%81%9F%E3%81%97%E3%82%82%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3-TudTkm.png"
+		},
+		{
+			"id": 848,
+			"name": "(Magic of Smiles) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "r6",
+			"star": "2",
+			"skname": "Magician's Smile",
+			"skill": "Turns GREAT+ notes into PERFECT notes, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Happy",
+			"pf": 4687,
+			"tech": 5005,
+			"vis": 5544,
+			"total": 15236,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/848Kokoro-Tsurumaki-Happy-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-it2rTG.png",
+			"img": "http://i.bandori.party/u/c/art/848Kokoro-Tsurumaki-Happy-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-WoNTKg.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/848Kokoro-Tsurumaki-Happy-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-WoNTKg.png"
 		}
 	]
 }

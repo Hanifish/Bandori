@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/753Hagumi-Kitazawa-Power-cNJlb3.png",
 			"img": "http://i.bandori.party/u/c/art/753Hagumi-Kitazawa-Power-DqrCST.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/753Hagumi-Kitazawa-Power-DqrCST.png"
+		},
+		{
+			"id": 850,
+			"name": "(Magic of Smiles) Hagumi Kitazawa",
+			"nick": "hagumi",
+			"alias": "r5",
+			"star": "2",
+			"skname": "Be Genki!",
+			"skill": "Turns GREAT+ notes into PERFECT notes, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Pure",
+			"pf": 4687,
+			"tech": 5514,
+			"vis": 5035,
+			"total": 15236,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/850Hagumi-Kitazawa-Pure-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-3toZTq.png",
+			"img": "http://i.bandori.party/u/c/art/850Hagumi-Kitazawa-Pure-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-rURGOR.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/850Hagumi-Kitazawa-Pure-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-rURGOR.png"
 		}
 	]
 }

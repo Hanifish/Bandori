@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/646Rinko-Shirokane-Cool-sqtfz8.png",
 			"img": "http://i.bandori.party/u/c/art/646Rinko-Shirokane-Cool-ICw9Zz.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/646Rinko-Shirokane-Cool-2rO4x3.png"
+		},
+		{
+			"id": 864,
+			"name": "(Lone Wolf Wizard) Rinko Shirokane",
+			"nick": "rinko",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Magical Power Guidance",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 10373,
+			"tech": 11576,
+			"vis": 9590,
+			"total": 31539,
+			"origin": "Gacha: Our Party’s Journey: Neo Fantasy Online (22 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/864Rinko-Shirokane-Happy-%E5%AD%A4%E9%AB%98%E3%81%AE%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89-76KQjv.png",
+			"img": "http://i.bandori.party/u/c/art/864Rinko-Shirokane-Happy-%E5%AD%A4%E9%AB%98%E3%81%AE%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89-qtAMZa.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/864Rinko-Shirokane-Happy-%E5%AD%A4%E9%AB%98%E3%81%AE%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89-xIjmob.png"
 		}
 	]
 }

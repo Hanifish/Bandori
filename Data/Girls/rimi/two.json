@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/745Rimi-Ushigome-Power-MobPoi.png",
 			"img": "http://i.bandori.party/u/c/art/745Rimi-Ushigome-Power-sWkhsb.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/745Rimi-Ushigome-Power-sWkhsb.png"
+		},
+		{
+			"id": 840,
+			"name": "(Colorful Poppin'!) Rimi Ushigome",
+			"nick": "rimi",
+			"alias": "r4",
+			"star": "2",
+			"skname": "My Sister's Drumming",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds .",
+			"stat": "Cool",
+			"pf": 4931,
+			"tech": 4454,
+			"vis": 5705,
+			"total": 15090,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/840Rimi-Ushigome-Cool-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-I6sDU1.png",
+			"img": "http://i.bandori.party/u/c/art/840Rimi-Ushigome-Cool-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-bIj10V.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/840Rimi-Ushigome-Cool-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-bIj10V.png"
 		}
 	]
 }

@@ -89,6 +89,24 @@
 			"icon": "http://i.bandori.party/u/c/799Michelle-Cool-%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3-%E3%82%AF%E3%83%9E-tgQSfr.png",
 			"img": "http://i.bandori.party/u/c/art/799Michelle-Cool-%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3-%E3%82%AF%E3%83%9E-NoS96y.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/799Michelle-Cool-%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3-%E3%82%AF%E3%83%9E-NoS96y.png"
+		},
+		{
+			"id": 852,
+			"name": "(Magic of Smiles) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "r6",
+			"star": "2",
+			"skname": "I CAN NOT FLY!",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 4975,
+			"tech": 5666,
+			"vis": 4454,
+			"total": 15095,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/852Michelle-Pure-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-fvs9ZV.png",
+			"img": "http://i.bandori.party/u/c/art/852Michelle-Pure-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-KIg692.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/852Michelle-Pure-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-KIg692.png"
 		}
 	]
 }

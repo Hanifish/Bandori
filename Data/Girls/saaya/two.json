@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/660Saaya-Yamabuki-Power-Xo4rQu.png",
 			"img": "http://i.bandori.party/u/c/art/660Saaya-Yamabuki-Power-4lrVeX.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/660Saaya-Yamabuki-Power-4lrVeX.png"
+		},
+		{
+			"id": 841,
+			"name": "(Colorful Poppin'!) Saaya Yamabuki",
+			"nick": "saaya",
+			"alias": "r3",
+			"star": "2",
+			"skname": "To My Siblings",
+			"skill": "Restores life by 200, up to 300, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Pure",
+			"pf": 4527,
+			"tech": 5067,
+			"vis": 5648,
+			"total": 15242,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/841Saaya-Yamabuki-Pure-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-dphlvi.png",
+			"img": "http://i.bandori.party/u/c/art/841Saaya-Yamabuki-Pure-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-WcLSGl.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/841Saaya-Yamabuki-Pure-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-WcLSGl.png"
 		}
 	]
 }

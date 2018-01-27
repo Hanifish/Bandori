@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/657Ako-Udagawa-Power-XZzeTm.png",
 			"img": "http://i.bandori.party/u/c/art/657Ako-Udagawa-Power-MwMshO.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/657Ako-Udagawa-Power-eXUilq.png"
+		},
+		{
+			"id": 863,
+			"name": "(Necromancer of the Abyss) Ako Udagawa",
+			"nick": "ako",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Something Sugoi Ghost Jutsu!",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 9891,
+			"tech": 10521,
+			"vis": 11124,
+			"total": 31536,
+			"origin": "Gacha: Our Party’s Journey: Neo Fantasy Online (22 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/863Ako-Udagawa-Happy-%E6%B7%B1%E6%B7%B5%E3%81%AE%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%BC-Kv08sc.png",
+			"img": "http://i.bandori.party/u/c/art/863Ako-Udagawa-Happy-%E6%B7%B1%E6%B7%B5%E3%81%AE%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%BC-nur03z.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/863Ako-Udagawa-Happy-%E6%B7%B1%E6%B7%B5%E3%81%AE%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%BC-Ry9W90.png"
 		}
 	]
 }

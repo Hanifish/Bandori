@@ -53,6 +53,42 @@
 			"icon": "http://i.bandori.party/u/c/744Yukina-Minato-Cool-nsQJGO.png",
 			"img": "http://i.bandori.party/u/c/art/744Yukina-Minato-Cool-ccuTUH.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/744Yukina-Minato-Cool-ccuTUH.png"
+		},
+		{
+			"id": 858,
+			"name": "(Overlapping Blue Roses) Yukina Minato",
+			"nick": "yukina",
+			"alias": "r4",
+			"star": "2",
+			"skname": "The way to go, friends walking together",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 4467,
+			"tech": 4945,
+			"vis": 5677,
+			"total": 15089,
+			"origin": "Gacha: Update v1.13.1 (13 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/858Yukina-Minato-Pure-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-O5UjZJ.png",
+			"img": "http://i.bandori.party/u/c/art/858Yukina-Minato-Pure-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-KjObyG.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/858Yukina-Minato-Pure-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-KjObyG.png"
+		},
+		{
+			"id": 866,
+			"name": "(Newbie Bard) Yukina Minato",
+			"nick": "yukina",
+			"alias": "r5",
+			"star": "2",
+			"skname": "Violent Song Skills",
+			"skill": "Turns GREAT+ notes into PERFECT notes, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Happy",
+			"pf": 5843,
+			"tech": 4624,
+			"vis": 4293,
+			"total": 14760,
+			"origin": "Event: Neo Fantasy Online -Journey- (22 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/866Yukina-Minato-Happy-%E5%88%9D%E5%BF%83%E8%80%85%E3%83%90%E3%83%BC%E3%83%89-nEjHRv.png",
+			"img": "http://i.bandori.party/u/c/art/866Yukina-Minato-Happy-%E5%88%9D%E5%BF%83%E8%80%85%E3%83%90%E3%83%BC%E3%83%89-54ArH6.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/866Yukina-Minato-Happy-%E5%88%9D%E5%BF%83%E8%80%85%E3%83%90%E3%83%BC%E3%83%89-54ArH6.png"
 		}
 	]
 }
