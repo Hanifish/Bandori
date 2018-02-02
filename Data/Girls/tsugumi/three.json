@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/692Tsugumi-Hazawa-Pure-nPqc9r.png",
 			"img": "http://i.bandori.party/u/c/art/692Tsugumi-Hazawa-Pure-QX0UA0.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/692Tsugumi-Hazawa-Pure-9WOz4n.png"
+		},
+		{
+			"id": 875,
+			"name": "(Fun Tasting Party) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Was it delicious?",
+			"skill": "Turns GOOD+ notes into PERFECT notes and boosts score by +20% for 5, up to 8 seconds.",
+			"stat": "Happy",
+			"pf": 8617,
+			"tech": 8129,
+			"vis": 10791,
+			"total": 27537,
+			"origin": "Event: Dotabata Happy Valentine (31 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/875Tsugumi-Hazawa-Happy-%E6%A5%BD%E3%81%97%E3%81%84%E8%A9%A6%E9%A3%9F%E4%BC%9A-ksF5PA.png",
+			"img": "http://i.bandori.party/u/c/art/875Tsugumi-Hazawa-Happy-%E6%A5%BD%E3%81%97%E3%81%84%E8%A9%A6%E9%A3%9F%E4%BC%9A-qjXbeL.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/875Tsugumi-Hazawa-Happy-%E6%A5%BD%E3%81%97%E3%81%84%E8%A9%A6%E9%A3%9F%E4%BC%9A-09M1u3.png"
 		}
 	]
 }

@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/781Lisa-Imai-Pure-ApdVCa.png",
 			"img": "http://i.bandori.party/u/c/art/781Lisa-Imai-Pure-9Bh5FV.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/781Lisa-Imai-Pure-0OJjec.png"
+		},
+		{
+			"id": 874,
+			"name": "(Leave the Bakign to Me) Lisa Imai",
+			"nick": "lisa",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Lisa's Special Chocolate",
+			"skill": "Restores life by 300, up to 450, and boosts score by +60% for 5, up to 8 seconds.",
+			"stat": "Powerful",
+			"pf": 11607,
+			"tech": 9622,
+			"vis": 10611,
+			"total": 31840,
+			"origin": "Limited Gacha: Chocolate Made with Heart (31 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/874Lisa-Imai-Power-%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A%E3%81%AF%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B-4czpSX.png",
+			"img": "http://i.bandori.party/u/c/art/874Lisa-Imai-Power-%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A%E3%81%AF%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B-ega0bn.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/874Lisa-Imai-Power-%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A%E3%81%AF%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B-jysdvc.png"
 		}
 	]
 }

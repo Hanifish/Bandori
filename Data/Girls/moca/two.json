@@ -43,7 +43,7 @@
 			"alias": "r3",
 			"star": "2",
 			"skname": "A Little Moca?",
-			"skill": "Boosts score by +30% for 5, up to 7 seconds .",
+			"skill": "Boosts score by +30% for 5, up to 7 seconds.",
 			"stat": "Powerful",
 			"pf": 4391,
 			"tech": 5692,
@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/844Moca-Aoba-Power-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-NPnkoe.png",
 			"img": "http://i.bandori.party/u/c/art/844Moca-Aoba-Power-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-7COVLD.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/844Moca-Aoba-Power-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-7COVLD.png"
+		},
+		{
+			"id": 876,
+			"name": "(Never-Ending Appetite) Moca Aoba",
+			"nick": "moca",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Bittersweet Moments",
+			"skill": "Restores life by 200, up to 300 and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Cool",
+			"pf": 4721,
+			"tech": 5035,
+			"vis": 5334,
+			"total": 15090,
+			"origin": "Event: Dotabata Happy Valentine (31 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/876Moca-Aoba-Cool-%E9%A3%9F%E6%AC%B2%E3%81%AF%E7%84%A1%E9%99%90%E5%A4%A7-TgDbnu.png",
+			"img": "http://i.bandori.party/u/c/art/876Moca-Aoba-Cool-%E9%A3%9F%E6%AC%B2%E3%81%AF%E7%84%A1%E9%99%90%E5%A4%A7-I2ynHN.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/876Moca-Aoba-Cool-%E9%A3%9F%E6%AC%B2%E3%81%AF%E7%84%A1%E9%99%90%E5%A4%A7-I2ynHN.png"
 		}
 	]
 }

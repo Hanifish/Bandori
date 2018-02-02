@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/602Arisa-Ichigaya-Pure-NIVoiW.png",
 			"img": "http://i.bandori.party/u/c/art/602Arisa-Ichigaya-Pure-RPXFwI.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/602Arisa-Ichigaya-Pure-SzWnck.png"
+		},
+		{
+			"id": 873,
+			"name": "(Heart Pounding Moment) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Too much!?",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Powerful",
+			"pf": 11845,
+			"tech": 10311,
+			"vis": 9383,
+			"total": 31539,
+			"origin": "Limited Gacha: Chocolate Made with Heart (31 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/873Arisa-Ichigaya-Power-%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD%E3%81%AE%E7%9E%AC%E9%96%93-ge5ERU.png",
+			"img": "http://i.bandori.party/u/c/art/873Arisa-Ichigaya-Power-%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD%E3%81%AE%E7%9E%AC%E9%96%93-BJdWAS.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/873Arisa-Ichigaya-Power-%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD%E3%81%AE%E7%9E%AC%E9%96%93-s8KoBO.png"
 		}
 	]
 }

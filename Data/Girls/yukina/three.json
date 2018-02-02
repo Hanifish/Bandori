@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/783Yukina-Minato-Pure-Q1VIaK.png",
 			"img": "http://i.bandori.party/u/c/art/783Yukina-Minato-Pure-Fown2g.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/783Yukina-Minato-Pure-h3osxd.png"
+		},
+		{
+			"id": 877,
+			"name": "(Secret Time) Yukina Minato",
+			"nick": "yukina",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Surrounded by Cute",
+			"skill": "Turns GREAT+ notes into PERFECT notes and boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Powerful",
+			"pf": 9310,
+			"tech": 10277,
+			"vis": 8668,
+			"total": 28255,
+			"origin": "Limited Gacha: Chocolate Made with Heart (31 Jan 2018)",
+			"icon": "http://i.bandori.party/u/c/877Yukina-Minato-Power-%E7%A7%98%E5%AF%86%E3%81%AE%E6%99%82%E9%96%93-XuktZR.png",
+			"img": "http://i.bandori.party/u/c/art/877Yukina-Minato-Power-%E7%A7%98%E5%AF%86%E3%81%AE%E6%99%82%E9%96%93-F1TxAX.png",
+			"imgbloomed": "http://i.bandori.party/u/c/art/a/877Yukina-Minato-Power-%E7%A7%98%E5%AF%86%E3%81%AE%E6%99%82%E9%96%93-29tT5K.png"
 		}
 	]
 }
