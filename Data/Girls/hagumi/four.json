@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/761Hagumi-Kitazawa-Cool-g7HM0a.png",
 			"img": "http://i.bandori.party/u/c/art/761Hagumi-Kitazawa-Cool-77edS2.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/761Hagumi-Kitazawa-Cool-4a9HMJ.png"
+		},
+		{
+			"id": 879,
+			"name": "(I’ll Teach You!) Hagumi Kitazawa",
+			"nick": "hagumi",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Advice for you!",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 10435,
+			"tech": 9712,
+			"vis": 11393,
+			"total": 31540,
+			"origin": "Gacha: White Snow Fairy (10 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/879Hagumi-Kitazawa-Pure-%E6%95%99%E3%81%88%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B-SNn0Vv.png",
+			"img": "https://i.bandori.party/u/c/art/879Hagumi-Kitazawa-Pure-%E6%95%99%E3%81%88%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B-zTqBEt.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/879Hagumi-Kitazawa-Pure-%E6%95%99%E3%81%88%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B-8ooRJQ.png"
 		}
 	]
 }

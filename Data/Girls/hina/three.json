@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/767Hina-Hikawa-Happy-1GyN41.png",
 			"img": "http://i.bandori.party/u/c/art/767Hina-Hikawa-Happy-ndj0Rt.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/767Hina-Hikawa-Happy-zZydhZ.png"
+		},
+		{
+			"id": 880,
+			"name": "(Ski Slopes Are the Best!) Hina Hikawa",
+			"nick": "hina",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "Tangled-Up Winter Shogun",
+			"skill": "Restores life by 300, up to 450. Then, boosts score by +20% for 5, up to 8 seconds.",
+			"stat": "Powerful",
+			"pf": 9204,
+			"tech": 10277,
+			"vis": 8505,
+			"total": 27986,
+			"origin": "Event: My First Winter Sports!? (10 Feb 2017)",
+			"icon": "https://i.bandori.party/u/c/880Hina-Hikawa-Power-%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%87%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%BC-0kRpvx.png",
+			"img": "https://i.bandori.party/u/c/art/880Hina-Hikawa-Power-%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%87%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%BC-2rYD9N.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/880Hina-Hikawa-Power-%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%87%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%BC-mjltvr.png"
 		}
 	]
 }
