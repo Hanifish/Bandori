@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/856Maya-Yamato-Pure-%E7%85%8C%E3%82%81%E3%81%8F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%B8-k3sGyO.png",
 			"img": "http://i.bandori.party/u/c/art/856Maya-Yamato-Pure-%E7%85%8C%E3%82%81%E3%81%8F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%B8-ArLp9m.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/856Maya-Yamato-Pure-%E7%85%8C%E3%82%81%E3%81%8F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%B8-ArLp9m.png"
+		},
+		{
+			"id": 886,
+			"name": "(Humble Idol) Maya Yamato",
+			"nick": "maya",
+			"alias": "r5",
+			"star": "2",
+			"skname": "Smile and Peace!",
+			"skill": "Turns GREAT+ notes into PERFECT notes, and boosts score by +10% for 5, up to 8 seconds.",
+			"stat": "Powerful",
+			"pf": 3915,
+			"tech": 4849,
+			"vis": 5993,
+			"total": 14757,
+			"origin": "Event: What a Wonderful World! (19 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/886Maya-Yamato-Power-%E8%AC%99%E8%99%9A%E7%B3%BB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-Jh5iMu.png",
+			"img": "https://i.bandori.party/u/c/art/886Maya-Yamato-Power-%E8%AC%99%E8%99%9A%E7%B3%BB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-iqXqyY.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/886Maya-Yamato-Power-%E8%AC%99%E8%99%9A%E7%B3%BB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-iqXqyY.png"
 		}
 	]
 }

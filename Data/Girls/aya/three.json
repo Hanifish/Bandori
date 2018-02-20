@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/763Aya-Maruyama-Happy-Puepuc.png",
 			"img": "http://i.bandori.party/u/c/art/763Aya-Maruyama-Happy-VgIlJO.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/763Aya-Maruyama-Happy-jzdM8j.png"
+		},
+		{
+			"id": 887,
+			"name": "(Maruyama, Arriving!) Aya Maruyama",
+			"nick": "aya",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Idol Maruyama Aya!",
+			"skill": "Boosts score by +65% when life is above 900, or +55% if not for 5, up to 7 seconds.",
+			"stat": "Cool",
+			"pf": 9178,
+			"tech": 10226,
+			"vis": 8587,
+			"total": 27991,
+			"origin": "Gacha: Pastel*Bloom Girls (19 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/887Aya-Maruyama-Cool-%E4%B8%B8%E5%B1%B1-%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%99-YfqAxo.png",
+			"img": "https://i.bandori.party/u/c/art/887Aya-Maruyama-Cool-%E4%B8%B8%E5%B1%B1-%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%99-AttjIw.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/887Aya-Maruyama-Cool-%E4%B8%B8%E5%B1%B1-%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%99-V7JygN.png"
 		}
 	]
 }

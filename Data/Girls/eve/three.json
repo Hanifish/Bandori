@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/662Eve-Wakamiya-Pure-93yF8K.png",
 			"img": "http://i.bandori.party/u/c/art/662Eve-Wakamiya-Pure-THL3j9.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/662Eve-Wakamiya-Pure-RzAjfc.png"
+		},
+		{
+			"id": 885,
+			"name": "(Trendy Hairstyle) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Becoming Adored",
+			"skill": "Boosts score by +60% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 6630,
+			"tech": 8727,
+			"vis": 11704,
+			"total": 27061,
+			"origin": "Event: What a Wonderful World! (19 Feb 2017)",
+			"icon": "https://i.bandori.party/u/c/885Eve-Wakamiya-Happy-%E6%B5%81%E8%A1%8C%E3%82%8A%E3%81%AE%E3%83%98%E3%82%A2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8-ZTx1Cy.png",
+			"img": "https://i.bandori.party/u/c/art/885Eve-Wakamiya-Happy-%E6%B5%81%E8%A1%8C%E3%82%8A%E3%81%AE%E3%83%98%E3%82%A2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8-tCEcnG.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/885Eve-Wakamiya-Happy-%E6%B5%81%E8%A1%8C%E3%82%8A%E3%81%AE%E3%83%98%E3%82%A2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8-Fnrhz8.png"
 		}
 	]
 }

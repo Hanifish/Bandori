@@ -648,6 +648,42 @@
 			"icon": "http://i.bandori.party/u/c/864Rinko-Shirokane-Happy-%E5%AD%A4%E9%AB%98%E3%81%AE%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89-76KQjv.png",
 			"img": "http://i.bandori.party/u/c/art/864Rinko-Shirokane-Happy-%E5%AD%A4%E9%AB%98%E3%81%AE%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89-qtAMZa.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/864Rinko-Shirokane-Happy-%E5%AD%A4%E9%AB%98%E3%81%AE%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89-xIjmob.png"
+		},
+		{
+			"id": 878,
+			"name": "(Boldly Challenge It!) Maya Yamato",
+			"nick": "maya",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Cast off your Weaknesses",
+			"skill": "Boosts score by +100% for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 10343,
+			"tech": 11516,
+			"vis": 9683,
+			"total": 31542,
+			"origin": "Gacha: White Snow Fairy (10 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/878Maya-Yamato-Pure-%E6%9E%9C%E6%95%A2%E3%81%AB%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8-rbh6X4.png",
+			"img": "https://i.bandori.party/u/c/art/878Maya-Yamato-Pure-%E6%9E%9C%E6%95%A2%E3%81%AB%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8-mlcjtq.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/878Maya-Yamato-Pure-%E6%9E%9C%E6%95%A2%E3%81%AB%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8-2HLOri.png"
+		},
+		{
+			"id": 879,
+			"name": "(I’ll Teach You!) Hagumi Kitazawa",
+			"nick": "hagumi",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Advice for you!",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Pure",
+			"pf": 10435,
+			"tech": 9712,
+			"vis": 11393,
+			"total": 31540,
+			"origin": "Gacha: White Snow Fairy (10 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/879Hagumi-Kitazawa-Pure-%E6%95%99%E3%81%88%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B-SNn0Vv.png",
+			"img": "https://i.bandori.party/u/c/art/879Hagumi-Kitazawa-Pure-%E6%95%99%E3%81%88%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B-zTqBEt.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/879Hagumi-Kitazawa-Pure-%E6%95%99%E3%81%88%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B-8ooRJQ.png"
 		}
 
     ]

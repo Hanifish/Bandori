@@ -864,6 +864,24 @@
 			"icon": "http://i.bandori.party/u/c/867Sayo-Hikawa-Happy-%E6%96%B0%E7%B1%B3%E3%82%BF%E3%83%B3%E3%82%AF-Uq9hMj.png",
 			"img": "http://i.bandori.party/u/c/art/867Sayo-Hikawa-Happy-%E6%96%B0%E7%B1%B3%E3%82%BF%E3%83%B3%E3%82%AF-UhHy6D.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/867Sayo-Hikawa-Happy-%E6%96%B0%E7%B1%B3%E3%82%BF%E3%83%B3%E3%82%AF-0W77Cq.png"
+		},
+		{
+			"id": 882,
+			"name": "(For Winter Use) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Michelle’s Winter Gear",
+			"skill": "Turns GREAT+ notes into PERFECT notes and boosts score by +30% for 5, up to 7.5 seconds.",
+			"stat": "Pure",
+			"pf": 8722,
+			"tech": 9284,
+			"vis": 10250,
+			"total": 28256,
+			"origin": "Gacha: White Snow Fairy (10 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/882Michelle-Pure-%E5%86%AC%E4%BB%95%E6%A7%98-n3uvku.png",
+			"img": "https://i.bandori.party/u/c/art/882Michelle-Pure-%E5%86%AC%E4%BB%95%E6%A7%98-5LWmUY.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/882Michelle-Pure-%E5%86%AC%E4%BB%95%E6%A7%98-bSkGji.png"
 		}
 
     ]
