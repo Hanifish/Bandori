@@ -71,6 +71,24 @@
 			"icon": "https://i.bandori.party/u/c/887Aya-Maruyama-Cool-%E4%B8%B8%E5%B1%B1-%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%99-YfqAxo.png",
 			"img": "https://i.bandori.party/u/c/art/887Aya-Maruyama-Cool-%E4%B8%B8%E5%B1%B1-%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%99-AttjIw.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/887Aya-Maruyama-Cool-%E4%B8%B8%E5%B1%B1-%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%99-V7JygN.png"
+		},
+		{
+			"id": 901,
+			"name": "(My Ideal Idol!) Aya Maruyama",
+			"nick": "aya",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "It’s all for our fans from now on",
+			"skill": "For the next 5 seconds, score of all notes boosted by +60.0%.",
+			"stat": "Powerful",
+			"pf": 6717,
+			"tech": 11585,
+			"vis": 8755,
+			"total": 27057,
+			"origin": "Event: Backstage Pass (10 March 2018)",
+			"icon": "https://i.bandori.party/u/c/901Aya-Maruyama-Power-Aiming-to-be-a-Dream-Idol-uz7qKP.png",
+			"img": "https://i.bandori.party/u/c/art/901Aya-Maruyama-Power-t46uMR.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/901Aya-Maruyama-Power-WGCcaq.png"
 		}
 	]
 }

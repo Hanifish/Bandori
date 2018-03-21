@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/876Moca-Aoba-Cool-%E9%A3%9F%E6%AC%B2%E3%81%AF%E7%84%A1%E9%99%90%E5%A4%A7-TgDbnu.png",
 			"img": "http://i.bandori.party/u/c/art/876Moca-Aoba-Cool-%E9%A3%9F%E6%AC%B2%E3%81%AF%E7%84%A1%E9%99%90%E5%A4%A7-I2ynHN.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/876Moca-Aoba-Cool-%E9%A3%9F%E6%AC%B2%E3%81%AF%E7%84%A1%E9%99%90%E5%A4%A7-I2ynHN.png"
+		},
+		{
+			"id": 889,
+			"name": "(GOGO WEGO!) Moca Aoba",
+			"nick": "moca",
+			"alias": "r5",
+			"star": "2",
+			"skname": "We're alike? Yeah, yeah~",
+			"skill": "For the next 5 seconds, score of all notes boosted by +30.0%",
+			"stat": "Pure",
+			"pf": 6543,
+			"tech": 4140,
+			"vis": 5052,
+			"total": 15735,
+			"origin": "Campaign: WEGO Collab (23 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/889Moca-Aoba-Pure-GOGO-WEGO-X0JUfw.png",
+			"img": "https://i.bandori.party/u/c/art/889Moca-Aoba-Pure-GOGO-WEGO-14P7yP.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/889Moca-Aoba-Pure-GOGO-WEGO-14P7yP.png"
 		}
 	]
 }

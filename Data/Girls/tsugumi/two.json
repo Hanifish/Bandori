@@ -107,6 +107,24 @@
 			"icon": "http://i.bandori.party/u/c/847Tsugumi-Hazawa-Cool-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-snsCPR.png",
 			"img": "http://i.bandori.party/u/c/art/847Tsugumi-Hazawa-Cool-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-DRjojW.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/847Tsugumi-Hazawa-Cool-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-DRjojW.png"
+		},
+		{
+			"id": 908,
+			"name": "(An Important Lost Item) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "r7",
+			"star": "2",
+			"skname": "Grab the best seat!",
+			"skill": "For the next 5 seconds, score of all notes boosted by +30.0%.",
+			"stat": "Powerful",
+			"pf": 4631,
+			"tech": 6360,
+			"vis": 3431,
+			"total": 14422,
+			"origin": "Event: Run! A Journey in the Evening Shadows (21 March 2018)",
+			"icon": "https://i.bandori.party/u/c/908Tsugumi-Hazawa-Power-%E5%A4%A7%E4%BA%8B%E3%81%AA%E5%BF%98%E3%82%8C%E7%89%A9-DP8ews.png",
+			"img": "https://i.bandori.party/u/c/art/908Tsugumi-Hazawa-Power-%E5%A4%A7%E4%BA%8B%E3%81%AA%E5%BF%98%E3%82%8C%E7%89%A9-6QcmFd.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/908Tsugumi-Hazawa-Power-%E5%A4%A7%E4%BA%8B%E3%81%AA%E5%BF%98%E3%82%8C%E7%89%A9-6QcmFd.png"
 		}
 	]
 }

@@ -89,6 +89,24 @@
 			"icon": "http://i.bandori.party/u/c/846Tomoe-Udagawa-Happy-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-bvY6oI.png",
 			"img": "http://i.bandori.party/u/c/art/846Tomoe-Udagawa-Happy-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-ZS4juF.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/846Tomoe-Udagawa-Happy-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-ZS4juF.png"
+		},
+		{
+			"id": 896,
+			"name": "(A Fleeting Approach) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "r6",
+			"star": "2",
+			"skname": "First Time Musical",
+			"skill": "All GREAT notes turn into PERFECT notes and boosts score of all notes by 10.0% for the next 5 seconds.",
+			"stat": "Cool",
+			"pf": 4247,
+			"tech": 4655,
+			"vis": 5858,
+			"total": 14760,
+			"origin": "Event: A White Day Musical Basked in a Fleeting Fragrance (28 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/896Tomoe-Udagawa-Cool-Let-s-go-fleetingly-tElxEn.png",
+			"img": "https://i.bandori.party/u/c/art/896Tomoe-Udagawa-Cool-Let-s-go-fleetingly-qlKCVG.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/896Tomoe-Udagawa-Cool-Let-s-go-fleetingly-qlKCVG.png"
 		}
 	]
 }

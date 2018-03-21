@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/756Yukina-Minato-Pure-Qo0JdB.png",
 			"img": "http://i.bandori.party/u/c/art/756Yukina-Minato-Pure-qHsoV4.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/756Yukina-Minato-Pure-a4d8jx.png"
+		},
+		{
+			"id": 899,
+			"name": "(To Greater Heights!) Yukina Minato",
+			"nick": "yukina",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "The Best Show We Can Currently Provide",
+			"skill": "For the next 5 seconds, if life is above 900, score boosted by +110.0%, otherwise, score boosted by +90.0%.",
+			"stat": "Powerful",
+			"pf": 10343,
+			"tech": 9922,
+			"vis": 11275,
+			"total": 31540,
+			"origin": "Limited Gacha: Girls Band Life! (10 March 2018)",
+			"icon": "https://i.bandori.party/u/c/899Yukina-Minato-Power-Reaching-Greater-and-Greater-Heights-d9F8Hu.png",
+			"img": "https://i.bandori.party/u/c/art/899Yukina-Minato-Power-oRSt2p.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/899Yukina-Minato-Power-XwntyC.png"
 		}
 	]
 }

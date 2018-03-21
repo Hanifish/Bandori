@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/841Saaya-Yamabuki-Pure-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-dphlvi.png",
 			"img": "http://i.bandori.party/u/c/art/841Saaya-Yamabuki-Pure-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-WcLSGl.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/841Saaya-Yamabuki-Pure-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3-WcLSGl.png"
+		},
+		{
+			"id": 888,
+			"name": "(GOGO WEGO!) Saaya Yamabuki",
+			"nick": "saaya",
+			"alias": "r4",
+			"star": "2",
+			"skname": "Different from the usual clothes?",
+			"skill": "Restores life by 200, up to 300, and boosts score by +10% for 5 seconds.",
+			"stat": "Cool",
+			"pf": 4831,
+			"tech": 6263,
+			"vis": 5505,
+			"total": 16599,
+			"origin": "Campaign: WEGO Collab (23 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/888Saaya-Yamabuki-Cool-GOGO-WEGO-5IyMW0.png",
+			"img": "https://i.bandori.party/u/c/art/888Saaya-Yamabuki-Cool-GOGO-WEGO-XcDJPs.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/888Saaya-Yamabuki-Cool-GOGO-WEGO-XcDJPs.png"
 		}
 	]
 }

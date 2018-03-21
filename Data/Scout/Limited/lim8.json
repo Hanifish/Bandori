@@ -1,0 +1,65 @@
+{
+	"eventTwo": [
+		
+	],
+	"eventThree": [
+
+		{
+			"id": 902,
+			"name": "(A Live with Everyone!) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Lives are as fun as I thought!",
+			"skill": "Restores life by 200 and boosts score of all notes by 30.0% for the next 5 seconds",
+			"stat": "Powerful",
+			"pf": 9389,
+			"tech": 10171,
+			"vis": 8696,
+			"total": 28256,
+			"origin": "Limited Gacha: Girls Band Life! (10 March 2018)",
+			"icon": "https://i.bandori.party/u/c/902Kasumi-Toyama-Power-A-Show-with-Everyone-kRXRuh.png",
+			"img": "https://i.bandori.party/u/c/art/902Kasumi-Toyama-Power-Ji0r98.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/902Kasumi-Toyama-Power-b1kQlH.png"
+		}
+	],
+	"eventFour": [
+		
+		{
+			"id": 898,
+			"name": "(Unchanging Friendship) Ran Mitake",
+			"nick": "ran",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Just Like Always",
+			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 60.0% for the next 5 seconds.",
+			"stat": "Powerful",
+			"pf": 11576,
+			"tech": 10521,
+			"vis": 9742,
+			"total": 31839,
+			"origin": "Limited Gacha: Girls Band Life! (10 March 2018)",
+			"icon": "https://i.bandori.party/u/c/898Ran-Mitake-Power-An-Unchanging-Friendship-XXu2rD.png",
+			"img": "https://i.bandori.party/u/c/art/898Ran-Mitake-Power-C1QUY1.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/898Ran-Mitake-Power-CErgVc.png"
+		},
+		{
+			"id": 899,
+			"name": "(To Greater Heights!) Yukina Minato",
+			"nick": "yukina",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "The Best Show We Can Currently Provide",
+			"skill": "For the next 5 seconds, if life is above 900, score boosted by +110.0%, otherwise, score boosted by +90.0%.",
+			"stat": "Powerful",
+			"pf": 10343,
+			"tech": 9922,
+			"vis": 11275,
+			"total": 31540,
+			"origin": "Limited Gacha: Girls Band Life! (10 March 2018)",
+			"icon": "https://i.bandori.party/u/c/899Yukina-Minato-Power-Reaching-Greater-and-Greater-Heights-d9F8Hu.png",
+			"img": "https://i.bandori.party/u/c/art/899Yukina-Minato-Power-oRSt2p.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/899Yukina-Minato-Power-XwntyC.png"
+		}
+	]
+}

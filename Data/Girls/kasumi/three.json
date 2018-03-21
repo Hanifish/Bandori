@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/777Kasumi-Toyama-Power-7QG5Vo.png",
 			"img": "http://i.bandori.party/u/c/art/777Kasumi-Toyama-Power-cDjPni.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/777Kasumi-Toyama-Power-0KqIqV.png"
+		},
+		{
+			"id": 902,
+			"name": "(A Live with Everyone!) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Lives are as fun as I thought!",
+			"skill": "Restores life by 200 and boosts score of all notes by 30.0% for the next 5 seconds",
+			"stat": "Powerful",
+			"pf": 9389,
+			"tech": 10171,
+			"vis": 8696,
+			"total": 28256,
+			"origin": "Limited Gacha: Girls Band Life! (10 March 2018)",
+			"icon": "https://i.bandori.party/u/c/902Kasumi-Toyama-Power-A-Show-with-Everyone-kRXRuh.png",
+			"img": "https://i.bandori.party/u/c/art/902Kasumi-Toyama-Power-Ji0r98.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/902Kasumi-Toyama-Power-b1kQlH.png"
 		}
 	]
 }

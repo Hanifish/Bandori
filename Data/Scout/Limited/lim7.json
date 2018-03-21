@@ -1,0 +1,65 @@
+{
+	"eventTwo": [
+		
+	],
+	"eventThree": [
+
+		{
+			"id": 897,
+			"name": "(Dance Lesson) Himari Uehara",
+			"nick": "himari",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "Up Close with a Prince!",
+			"skill": "For the next 5 seconds, if life is above 900, score boosted by +65.0%, otherwise, score boosted by +55.0%",
+			"stat": "Happy",
+			"pf": 9902,
+			"tech": 9338,
+			"vis": 8748,
+			"total": 27988,
+			"origin": "Limited Gacha: Beauty of a White Noble (28 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/897Himari-Uehara-Happy-Dance-Lesson-oAlGYE.png",
+			"img": "https://i.bandori.party/u/c/art/897Himari-Uehara-Happy-Dance-Lesson-3LHXvH.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/897Himari-Uehara-Happy-Dance-Lesson-A6tMXt.png"
+		}
+	],
+	"eventFour": [
+		
+		{
+			"id": 894,
+			"name": "(Even the Sweatdrops are Fleeting…) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "I’m not one of your kittens!",
+			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 60.0% for the next 5 seconds.",
+			"stat": "Happy",
+			"pf": 11516,
+			"tech": 9922,
+			"vis": 10406,
+			"total": 31844,
+			"origin": "Limited Gacha: Beauty of a White Noble (28 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/894Michelle-Happy-Sweatdrops-Are-Fleeting-Too-J7VB3F.png",
+			"img": "https://i.bandori.party/u/c/art/894Michelle-Happy-Sweatdrops-Are-Fleeting-Too-MCon24.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/894Michelle-Happy-Sweatdrops-Are-Fleeting-Too-SbbPog.png"
+		},
+		{
+			"id": 893,
+			"name": "(The Star Arrives!) Kaoru Seta",
+			"nick": "kaoru",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Heartthrob Showtime",
+			"skill": "For the next 5 seconds, if life is above 900, score boosted by +110.0%, otherwise, score boosted by +90.0%.",
+			"stat": "Happy",
+			"pf": 10311,
+			"tech": 9531,
+			"vis": 11694,
+			"total": 31536,
+			"origin": "Limited Gacha: Beauty of a White Noble (28 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/893Kaoru-Seta-Happy-The-Star-of-the-Show-Appears-LyQiLZ.png",
+			"img": "https://i.bandori.party/u/c/art/893Kaoru-Seta-Happy-The-Star-of-the-Show-Appears-D7Tz9l.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/893Kaoru-Seta-Happy-The-Star-of-the-Show-Appears-cZzqpl.png"
+		}
+	]
+}

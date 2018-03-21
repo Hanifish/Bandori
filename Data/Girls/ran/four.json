@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/791Ran-Mitake-Happy-ajA5Fy.png",
 			"img": "http://i.bandori.party/u/c/art/791Ran-Mitake-Happy-0kUg9h.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/791Ran-Mitake-Happy-0xMRSn.png"
+		},
+		{
+			"id": 898,
+			"name": "(Unchanging Friendship) Ran Mitake",
+			"nick": "ran",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Just Like Always",
+			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 60.0% for the next 5 seconds.",
+			"stat": "Powerful",
+			"pf": 11576,
+			"tech": 10521,
+			"vis": 9742,
+			"total": 31839,
+			"origin": "Limited Gacha: Girls Band Life! (10 March 2018)",
+			"icon": "https://i.bandori.party/u/c/898Ran-Mitake-Power-An-Unchanging-Friendship-XXu2rD.png",
+			"img": "https://i.bandori.party/u/c/art/898Ran-Mitake-Power-C1QUY1.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/898Ran-Mitake-Power-CErgVc.png"
 		}
 	]
 }

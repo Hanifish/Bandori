@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/782Moca-Aoba-Pure-wGiYUn.png",
 			"img": "http://i.bandori.party/u/c/art/782Moca-Aoba-Pure-nIsL7a.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/782Moca-Aoba-Pure-x8W3bC.png"
+		},
+		{
+			"id": 907,
+			"name": "(A Little Detour) Moca Aoba",
+			"nick": "moca",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Moca’s just gonna bite off this part!",
+			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Powerful",
+			"pf": 8645,
+			"tech": 8098,
+			"vis": 10791,
+			"total": 27534,
+			"origin": "Event: Run! A Journey in the Evening Shadows (21 March 2018)",
+			"icon": "https://i.bandori.party/u/c/907Moca-Aoba-Power-%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E5%AF%84%E3%82%8A%E9%81%93-L1i2Tj.png",
+			"img": "https://i.bandori.party/u/c/art/907Moca-Aoba-Power-%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E5%AF%84%E3%82%8A%E9%81%93-x4S1y1.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/907Moca-Aoba-Power-%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E5%AF%84%E3%82%8A%E9%81%93-QZgGIm.png"
 		}
 	]
 }

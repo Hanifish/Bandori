@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/626Moca-Aoba-Cool-8SA4MI.png",
 			"img": "http://i.bandori.party/u/c/art/626Moca-Aoba-Cool-d5m2wV.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/626Moca-Aoba-Cool-vfn25U.png"
+		},
+		{
+			"id": 903,
+			"name": "(Exceeding Expectations) Moca Aoba",
+			"nick": "moca",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "It's \"the same as always\"",
+			"skill": "Boosts score of PERFECT notes by +115% for 5, up to 7 seconds.",
+			"stat": "Happy",
+			"pf": 10462,
+			"tech": 10583,
+			"vis": 10553,
+			"total": 31598,
+			"origin": "DreamFes Gacha: 1st Anniversary (10 March 2018)",
+			"icon": "https://i.bandori.party/u/c/903Moca-Aoba-Happy-Gotta-Beat-Expectations-vOrEyA.png",
+			"img": "https://i.bandori.party/u/c/art/903Moca-Aoba-Happy-itCllV.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/903Moca-Aoba-Happy-wqFudH.png"
 		}
 	]
 }

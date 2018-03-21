@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/796Kanon-Matsubara-Power-%E6%B1%BA%E6%84%8F%E3%81%AE%E4%B8%80%E6%AD%A9-DBTu9D.png",
 			"img": "http://i.bandori.party/u/c/art/796Kanon-Matsubara-Power-%E6%B1%BA%E6%84%8F%E3%81%AE%E4%B8%80%E6%AD%A9-DRDBlX.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/796Kanon-Matsubara-Power-%E6%B1%BA%E6%84%8F%E3%81%AE%E4%B8%80%E6%AD%A9-wltDA4.png"
+		},
+		{
+			"id": 904,
+			"name": "(Shopping with Whole Hearted Effort!) Kanon Matsubara",
+			"nick": "kanon",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Inspired by Getting Lost",
+			"skill": "For the next 5 seconds, score of PERFECT notes boosted by +115.0%.",
+			"stat": "Cool",
+			"pf": 10462,
+			"tech": 10493,
+			"vis": 10642,
+			"total": 31597,
+			"origin": "DreamFes Gacha: 1st Anniversary (10 March 2018)",
+			"icon": "https://i.bandori.party/u/c/904Kanon-Matsubara-Cool-Shop-til-you-Drop-PBJKeB.png",
+			"img": "https://i.bandori.party/u/c/art/904Kanon-Matsubara-Cool-1Ll16a.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/904Kanon-Matsubara-Cool-0gIOEo.png"
 		}
 	]
 }

@@ -17,6 +17,24 @@
 			"icon": "http://i.bandori.party/u/c/681Himari-Uehara-Power-weGMFO.png",
 			"img": "http://i.bandori.party/u/c/art/681Himari-Uehara-Power-MGjHPN.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/681Himari-Uehara-Power-zojGm1.png"
+		},
+		{
+			"id": 905,
+			"name": "(We've Arrived!) Himari Uehara",
+			"nick": "himari",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Let’s take an anniversary photo!",
+			"skill": "Restores life by 300 and boosts score of all notes by 60.0% for the next 5 seconds.",
+			"stat": "Happy",
+			"pf": 11545,
+			"tech": 9891,
+			"vis": 10406,
+			"total": 31842,
+			"origin": "Gacha: Rockin' Western Girl (21 March 2018)",
+			"icon": "https://i.bandori.party/u/c/905Himari-Uehara-Happy-%E7%A7%81%E9%81%94-%E5%8F%82%E4%B8%8A%E3%81%A3-s6haRA.png",
+			"img": "https://i.bandori.party/u/c/art/905Himari-Uehara-Happy-%E7%A7%81%E9%81%94-%E5%8F%82%E4%B8%8A%E3%81%A3-IQL9fi.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/905Himari-Uehara-Happy-%E7%A7%81%E9%81%94-%E5%8F%82%E4%B8%8A%E3%81%A3-DEYV1y.png"
 		}
 	]
 }

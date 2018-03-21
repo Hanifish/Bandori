@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/683Ran-Mitake-Cool-XR4GDP.png",
 			"img": "http://i.bandori.party/u/c/art/683Ran-Mitake-Cool-XrvMLL.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/683Ran-Mitake-Cool-iiqGva.png"
+		},
+		{
+			"id": 909,
+			"name": "(Octopus Towel) Ran Mitake",
+			"nick": "ran",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Why an octopus?",
+			"skill": "All GREAT notes turn into PERFECT notes and boosts score of all notes by 30.0% for the next 5 seconds.",
+			"stat": "Happy",
+			"pf": 10277,
+			"tech": 9338,
+			"vis": 8640,
+			"total": 28255,
+			"origin": "Gacha: Rockin' Western Girl (21 March 2018)",
+			"icon": "https://i.bandori.party/u/c/909Ran-Mitake-Happy-%E3%81%9F%E3%81%93%E3%81%AE%E3%82%BF%E3%82%AA%E3%83%AB-pcK9M8.png",
+			"img": "https://i.bandori.party/u/c/art/909Ran-Mitake-Happy-%E3%81%9F%E3%81%93%E3%81%AE%E3%82%BF%E3%82%AA%E3%83%AB-AjsYAh.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/909Ran-Mitake-Happy-%E3%81%9F%E3%81%93%E3%81%AE%E3%82%BF%E3%82%AA%E3%83%AB-BCYOia.png"
 		}
 	]
 }

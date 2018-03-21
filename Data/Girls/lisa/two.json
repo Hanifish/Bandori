@@ -107,6 +107,24 @@
 			"icon": "http://i.bandori.party/u/c/860Lisa-Imai-Happy-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-OVdAtL.png",
 			"img": "http://i.bandori.party/u/c/art/860Lisa-Imai-Happy-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-Uk7IPc.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/860Lisa-Imai-Happy-%E9%87%8D%E3%81%AA%E3%82%8A%E5%90%88%E3%81%86%E9%9D%92%E8%96%94%E8%96%87-Uk7IPc.png"
+		},
+		{
+			"id": 891,
+			"name": "(GOGO WEGO!) Lisa Imai",
+			"nick": "lisa",
+			"alias": "r7",
+			"star": "2",
+			"skname": "Shopping with Everyone ♪",
+			"skill": "Restores life by 200 and boosts score of all notes by 10.0% for the next 5 seconds.",
+			"stat": "Powerful",
+			"pf": 4766,
+			"tech": 5554,
+			"vis": 6278,
+			"total": 16598,
+			"origin": "Campaign: WEGO Collab (23 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/891Lisa-Imai-Power-GOGO-WEGO-B8H2iM.png",
+			"img": "https://i.bandori.party/u/c/art/891Lisa-Imai-Power-GOGO-WEGO-SmKZCg.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/891Lisa-Imai-Power-GOGO-WEGO-SmKZCg.png"
 		}
 	]
 }

@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/797Hagumi-Kitazawa-Power-%E5%8F%AF%E6%84%9B%E3%81%84%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%81%97-XIzYZH.png",
 			"img": "http://i.bandori.party/u/c/art/797Hagumi-Kitazawa-Power-%E5%8F%AF%E6%84%9B%E3%81%84%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%81%97-1UxAqn.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/797Hagumi-Kitazawa-Power-%E5%8F%AF%E6%84%9B%E3%81%84%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%81%97-0tYGRk.png"
+		},
+		{
+			"id": 895,
+			"name": "(Healed by the Prince!) Hagumi Kitazawa",
+			"nick": "hagumi",
+			"alias": "sr3",
+			"star": "3",
+			"skname": "Pain, Pain, Go Away!",
+			"skill": "Restores life by 300 and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Powerful",
+			"pf": 8748,
+			"tech": 9955,
+			"vis": 9284,
+			"total": 27987,
+			"origin": "Event: A White Day Musical Basked in a Fleeting Fragrance (28 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/895Hagumi-Kitazawa-Power-Healed-by-a-Prince-3y3DuB.png",
+			"img": "https://i.bandori.party/u/c/art/895Hagumi-Kitazawa-Power-Healed-by-a-Prince-vw3I6k.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/895Hagumi-Kitazawa-Power-Healed-by-a-Prince-EV04uq.png"
 		}
 	]
 }

@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/728Kokoro-Tsurumaki-Happy-YROijA.png",
 			"img": "http://i.bandori.party/u/c/art/728Kokoro-Tsurumaki-Happy-a0GhSG.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/728Kokoro-Tsurumaki-Happy-vckGfR.png"
+		},
+		{
+			"id": 900,
+			"name": "(Everyone, Let’s Go!) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "More smiles! More!",
+			"skill": "Restores life by 300 and boosts score of all notes by 20.0% for the next 5 seconds",
+			"stat": "Cool",
+			"pf": 10014,
+			"tech": 8748,
+			"vis": 9231,
+			"total": 27993,
+			"origin": "Event: Backstage Pass (10 March 2018)",
+			"icon": "https://i.bandori.party/u/c/900Kokoro-Tsurumaki-Cool-Let-s-Go-Guys-10NGz2.png",
+			"img": "https://i.bandori.party/u/c/art/900Kokoro-Tsurumaki-Cool-xJbblr.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/900Kokoro-Tsurumaki-Cool-bRSMC9.png"
 		}
 	]
 }

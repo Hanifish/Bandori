@@ -684,6 +684,42 @@
 			"icon": "https://i.bandori.party/u/c/879Hagumi-Kitazawa-Pure-%E6%95%99%E3%81%88%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B-SNn0Vv.png",
 			"img": "https://i.bandori.party/u/c/art/879Hagumi-Kitazawa-Pure-%E6%95%99%E3%81%88%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B-zTqBEt.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/879Hagumi-Kitazawa-Pure-%E6%95%99%E3%81%88%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B-8ooRJQ.png"
+		},
+		{
+			"id": 884,
+			"name": "(Sleepover) Chisato Shirasagi",
+			"nick": "chisato",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Staying Up Late Tonight",
+			"skill": "Turns GOOD+ notes into PERFECT notes, and boosts score by +60% for 5, up to 7.5 seconds.",
+			"stat": "Cool",
+			"pf": 11665,
+			"tech": 9891,
+			"vis": 10282,
+			"total": 31838,
+			"origin": "Gacha: Pastel*Bloom Girls (19 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/884Chisato-Shirasagi-Cool-%E3%81%8A%E6%B3%8A%E3%81%BE%E3%82%8A%E4%BC%9A-Jy8NMb.png",
+			"img": "https://i.bandori.party/u/c/art/884Chisato-Shirasagi-Cool-%E3%81%8A%E6%B3%8A%E3%81%BE%E3%82%8A%E4%BC%9A-pmUvkZ.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/884Chisato-Shirasagi-Cool-%E3%81%8A%E6%B3%8A%E3%81%BE%E3%82%8A%E4%BC%9A-r2vLPd.png"
+		},
+		{
+			"id": 883,
+			"name": "(There’s Only One of Me!) Hina Hikawa",
+			"nick": "hina",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "I'm Me",
+			"skill": "Boosts score by +110% when life is above 900, or +90% if not for 5, up to 7 seconds.",
+			"stat": "Cool",
+			"pf": 11364,
+			"tech": 10373,
+			"vis": 9804,
+			"total": 31541,
+			"origin": "Gacha: Pastel*Bloom Girls (19 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/883Hina-Hikawa-Cool-%E3%81%9F%E3%81%A3%E3%81%9F%E4%B8%80%E4%BA%BA%E3%81%AE%E3%81%82%E3%81%9F%E3%81%97-u1lv9p.png",
+			"img": "https://i.bandori.party/u/c/art/883Hina-Hikawa-Cool-%E3%81%9F%E3%81%A3%E3%81%9F%E4%B8%80%E4%BA%BA%E3%81%AE%E3%81%82%E3%81%9F%E3%81%97-Lnrs8i.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/883Hina-Hikawa-Cool-%E3%81%9F%E3%81%A3%E3%81%9F%E4%B8%80%E4%BA%BA%E3%81%AE%E3%81%82%E3%81%9F%E3%81%97-pPOoP1.png"
 		}
 
     ]

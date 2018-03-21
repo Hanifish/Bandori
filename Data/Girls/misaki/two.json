@@ -107,6 +107,24 @@
 			"icon": "http://i.bandori.party/u/c/852Michelle-Pure-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-fvs9ZV.png",
 			"img": "http://i.bandori.party/u/c/art/852Michelle-Pure-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-KIg692.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/852Michelle-Pure-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-KIg692.png"
+		},
+		{
+			"id": 892,
+			"name": "(GOGO WEGO!) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "r7",
+			"star": "2",
+			"skname": "A Shy & Modest Form",
+			"skill": "All GREAT notes turn into PERFECT notes and boosts score of all notes by 10.0% for the next 5 seconds.",
+			"stat": "Powerful",
+			"pf": 6627,
+			"tech": 5334,
+			"vis": 4273,
+			"total": 16234,
+			"origin": "Campaign: WEGO Collab (23 Feb 2018)",
+			"icon": "https://i.bandori.party/u/c/892Michelle-Power-GOGO-WEGO-jSdYyS.png",
+			"img": "https://i.bandori.party/u/c/art/892Michelle-Power-GOGO-WEGO-irKtVc.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/892Michelle-Power-GOGO-WEGO-irKtVc.png"
 		}
 	]
 }
