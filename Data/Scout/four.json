@@ -720,6 +720,42 @@
 			"icon": "https://i.bandori.party/u/c/883Hina-Hikawa-Cool-%E3%81%9F%E3%81%A3%E3%81%9F%E4%B8%80%E4%BA%BA%E3%81%AE%E3%81%82%E3%81%9F%E3%81%97-u1lv9p.png",
 			"img": "https://i.bandori.party/u/c/art/883Hina-Hikawa-Cool-%E3%81%9F%E3%81%A3%E3%81%9F%E4%B8%80%E4%BA%BA%E3%81%AE%E3%81%82%E3%81%9F%E3%81%97-Lnrs8i.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/883Hina-Hikawa-Cool-%E3%81%9F%E3%81%A3%E3%81%9F%E4%B8%80%E4%BA%BA%E3%81%AE%E3%81%82%E3%81%9F%E3%81%97-pPOoP1.png"
+		},
+		{
+			"id": 905,
+			"name": "(We've Arrived!) Himari Uehara",
+			"nick": "himari",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Let’s take an anniversary photo!",
+			"skill": "Restores life by 300 and boosts score of all notes by 60.0% for the next 5 seconds.",
+			"stat": "Happy",
+			"pf": 11545,
+			"tech": 9891,
+			"vis": 10406,
+			"total": 31842,
+			"origin": "Gacha: Rockin' Western Girl (21 March 2018)",
+			"icon": "https://i.bandori.party/u/c/905Himari-Uehara-Happy-%E7%A7%81%E9%81%94-%E5%8F%82%E4%B8%8A%E3%81%A3-s6haRA.png",
+			"img": "https://i.bandori.party/u/c/art/905Himari-Uehara-Happy-%E7%A7%81%E9%81%94-%E5%8F%82%E4%B8%8A%E3%81%A3-IQL9fi.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/905Himari-Uehara-Happy-%E7%A7%81%E9%81%94-%E5%8F%82%E4%B8%8A%E3%81%A3-DEYV1y.png"
+		},
+		{
+			"id": 906,
+			"name": "(Eternal Sunset) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "Proof of Youth",
+			"skill": "For the next 5 seconds, if life is above 900, score boosted by +110.0%, otherwise, score boosted by +90.0%.",
+			"stat": "Happy",
+			"pf": 9383,
+			"tech": 10343,
+			"vis": 11812,
+			"total": 31538,
+			"origin": "Gacha: Rockin' Western Girl (21 March 2018)",
+			"icon": "https://i.bandori.party/u/c/906Tomoe-Udagawa-Happy-%E6%B0%B8%E9%81%A0%E3%81%AE%E5%A4%95%E6%97%A5-3mIQnt.png",
+			"img": "https://i.bandori.party/u/c/art/906Tomoe-Udagawa-Happy-%E6%B0%B8%E9%81%A0%E3%81%AE%E5%A4%95%E6%97%A5-sfgSSc.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/906Tomoe-Udagawa-Happy-%E6%B0%B8%E9%81%A0%E3%81%AE%E5%A4%95%E6%97%A5-sRxTfg.png"
 		}
 
     ]

@@ -89,6 +89,24 @@
 			"icon": "http://i.bandori.party/u/c/851Kanon-Matsubara-Cool-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-mk2wiF.png",
 			"img": "http://i.bandori.party/u/c/art/851Kanon-Matsubara-Cool-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-K8ZOv7.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/851Kanon-Matsubara-Cool-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-K8ZOv7.png"
+		},
+		{
+			"id": 913,
+			"name": "(A Skilled Point) Kanon Matsubara",
+			"nick": "kanon",
+			"alias": "r6",
+			"star": "2",
+			"skname": "Please Relax",
+			"skill": "For the next 5 seconds, score of all notes boosted by +30.0%.",
+			"stat": "Powerful",
+			"pf": 4674,
+			"tech": 6118,
+			"vis": 3628,
+			"total": 14420,
+			"origin": "Event: Freshly Blooming Largo (31 March 2018)",
+			"icon": "https://i.bandori.party/u/c/913Kanon-Matsubara-Power-%E8%A6%8B%E4%BA%8B%E3%81%AA%E3%81%8A%E7%82%B9%E5%89%8D-XwY6E1.png",
+			"img": "https://i.bandori.party/u/c/art/913Kanon-Matsubara-Power-%E8%A6%8B%E4%BA%8B%E3%81%AA%E3%81%8A%E7%82%B9%E5%89%8D-NAtGwW.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/913Kanon-Matsubara-Power-%E8%A6%8B%E4%BA%8B%E3%81%AA%E3%81%8A%E7%82%B9%E5%89%8D-NAtGwW.png"
 		}
 	]
 }

@@ -71,6 +71,24 @@
 			"icon": "https://i.bandori.party/u/c/885Eve-Wakamiya-Happy-%E6%B5%81%E8%A1%8C%E3%82%8A%E3%81%AE%E3%83%98%E3%82%A2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8-ZTx1Cy.png",
 			"img": "https://i.bandori.party/u/c/art/885Eve-Wakamiya-Happy-%E6%B5%81%E8%A1%8C%E3%82%8A%E3%81%AE%E3%83%98%E3%82%A2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8-tCEcnG.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/885Eve-Wakamiya-Happy-%E6%B5%81%E8%A1%8C%E3%82%8A%E3%81%AE%E3%83%98%E3%82%A2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8-Fnrhz8.png"
+		},
+		{
+			"id": 914,
+			"name": "(Indomitable Swordsman) Eve Wakamiya",
+			"nick": "eve",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "A chink in your armor!",
+			"skill": "Restores life by 200 and boosts score of all notes by 30.0% for the next 5 seconds.",
+			"stat": "Pure",
+			"pf": 10356,
+			"tech": 8776,
+			"vis": 9124,
+			"total": 28256,
+			"origin": "Gacha: ~Resonate~ New Movement (31 March 2018)",
+			"icon": "https://i.bandori.party/u/c/914Eve-Wakamiya-Pure-%E4%B8%8D%E5%B1%88%E3%81%AE%E5%89%A3%E5%A3%AB-AaqDxP.png",
+			"img": "https://i.bandori.party/u/c/art/914Eve-Wakamiya-Pure-%E4%B8%8D%E5%B1%88%E3%81%AE%E5%89%A3%E5%A3%AB-tvv9BX.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/914Eve-Wakamiya-Pure-%E4%B8%8D%E5%B1%88%E3%81%AE%E5%89%A3%E5%A3%AB-1KMp8W.png"
 		}
 	]
 }

@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/807Sayo-Hikawa-Power-%E9%AD%85%E6%83%91%E3%81%AE%E6%89%8B-37CFh9.png",
 			"img": "http://i.bandori.party/u/c/art/807Sayo-Hikawa-Power-%E9%AD%85%E6%83%91%E3%81%AE%E6%89%8B-KJLfoR.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/807Sayo-Hikawa-Power-%E9%AD%85%E6%83%91%E3%81%AE%E6%89%8B-YAa1HY.png"
+		},
+		{
+			"id": 911,
+			"name": "(Correct Stance, 100% Accuracy) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Calm Heart",
+			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 60.0% for the next 5 seconds.",
+			"stat": "Pure",
+			"pf": 9498,
+			"tech": 10583,
+			"vis": 11755,
+			"total": 31836,
+			"origin": "Gacha: ~Resonate~ New Movement (31 March 2018)",
+			"icon": "https://i.bandori.party/u/c/911Sayo-Hikawa-Pure-%E6%AD%A3%E5%B0%84%E5%BF%85%E4%B8%AD-2cXxgg.png",
+			"img": "https://i.bandori.party/u/c/art/911Sayo-Hikawa-Pure-%E6%AD%A3%E5%B0%84%E5%BF%85%E4%B8%AD-ME8x8u.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/911Sayo-Hikawa-Pure-%E6%AD%A3%E5%B0%84%E5%BF%85%E4%B8%AD-rBOsuq.png"
 		}
 	]
 }

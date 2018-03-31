@@ -71,6 +71,24 @@
 			"icon": "https://i.bandori.party/u/c/882Michelle-Pure-%E5%86%AC%E4%BB%95%E6%A7%98-n3uvku.png",
 			"img": "https://i.bandori.party/u/c/art/882Michelle-Pure-%E5%86%AC%E4%BB%95%E6%A7%98-5LWmUY.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/882Michelle-Pure-%E5%86%AC%E4%BB%95%E6%A7%98-bSkGji.png"
+		},
+		{
+			"id": 912,
+			"name": "(Starter) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "I told you it's not annoying",
+			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Cool",
+			"pf": 7367,
+			"tech": 9051,
+			"vis": 11119,
+			"total": 27537,
+			"origin": "Event: Freshly Blooming Largo (31 March 2018)",
+			"icon": "https://i.bandori.party/u/c/912Michelle-Cool-%E5%A0%85%E5%AE%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC-G5IkWc.png",
+			"img": "https://i.bandori.party/u/c/art/912Michelle-Cool-%E5%A0%85%E5%AE%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC-vJPbbD.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/912Michelle-Cool-%E5%A0%85%E5%AE%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC-JteP1r.png"
 		}
 	]
 }
