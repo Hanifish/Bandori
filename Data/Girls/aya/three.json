@@ -89,6 +89,24 @@
 			"icon": "https://i.bandori.party/u/c/901Aya-Maruyama-Power-Aiming-to-be-a-Dream-Idol-uz7qKP.png",
 			"img": "https://i.bandori.party/u/c/art/901Aya-Maruyama-Power-t46uMR.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/901Aya-Maruyama-Power-WGCcaq.png"
+		},
+		{
+			"id": 917,
+			"name": "(SNS Glory?) Aya Maruyama",
+			"nick": "aya",
+			"alias": "sr6",
+			"star": "3",
+			"skname": "Sparkling Shutter Chance",
+			"skill": "Restores life by 300 and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Pure",
+			"pf": 8855,
+			"tech": 9150,
+			"vis": 9982,
+			"total": 27987,
+			"origin": "Event: My Spirit Won’t Give In, Burning Bushido (10 April 2018)",
+			"icon": "https://i.bandori.party/u/c/917Aya-Maruyama-Pure-jVKqyh.png",
+			"img": "https://i.bandori.party/u/c/art/917Aya-Maruyama-Pure-7liq90.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/917Aya-Maruyama-Pure-IqBw7q.png"
 		}
 	]
 }
