@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/762Tae-Hanazono-Cool-kN4Gsi.png",
 			"img": "http://i.bandori.party/u/c/art/762Tae-Hanazono-Cool-I5Dlr7.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/762Tae-Hanazono-Cool-yeDFbD.png"
+		},
+		{
+			"id": 927,
+			"name": "(Afternoon Hamburger) Tae Hanazono",
+			"nick": "tae",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "I won't forget this debt",
+			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Powerful",
+			"pf": 8673,
+			"tech": 8046,
+			"vis": 10820,
+			"total": 27539,
+			"origin": "Event: Double Rainbow (30 April 2018)",
+			"icon": "https://i.bandori.party/u/c/927Tae-Hanazono-Power-n25Hwa.png",
+			"img": "https://i.bandori.party/u/c/art/927Tae-Hanazono-Power-LDpspv.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/927Tae-Hanazono-Power-CdItnc.png"
 		}
 	]
 }

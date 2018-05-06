@@ -936,6 +936,24 @@
 			"icon": "https://i.bandori.party/u/c/914Eve-Wakamiya-Pure-%E4%B8%8D%E5%B1%88%E3%81%AE%E5%89%A3%E5%A3%AB-AaqDxP.png",
 			"img": "https://i.bandori.party/u/c/art/914Eve-Wakamiya-Pure-%E4%B8%8D%E5%B1%88%E3%81%AE%E5%89%A3%E5%A3%AB-tvv9BX.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/914Eve-Wakamiya-Pure-%E4%B8%8D%E5%B1%88%E3%81%AE%E5%89%A3%E5%A3%AB-1KMp8W.png"
+		},
+		{
+			"id": 919,
+			"name": "(New Merchandise) Hina Hikawa",
+			"nick": "hina",
+			"alias": "sr6",
+			"star": "3",
+			"skname": "PastelPaletteful Costumes",
+			"skill": "For the next 5 seconds, if life is above 900, score boosted by +65.0%, otherwise, score boosted by +55.0%.",
+			"stat": "Cool",
+			"pf": 9150,
+			"tech": 8348,
+			"vis": 10492,
+			"total": 27990,
+			"origin": "Gacha: Samurai Hearts for Troubled Times! (10 April 2018)",
+			"icon": "https://i.bandori.party/u/c/919Hina-Hikawa-Cool-ZdGpa4.png",
+			"img": "https://i.bandori.party/u/c/art/919Hina-Hikawa-Cool-WFVngZ.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/919Hina-Hikawa-Cool-A1T1OP.png"
 		}
 
     ]

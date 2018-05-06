@@ -89,6 +89,24 @@
 			"icon": "http://i.bandori.party/u/c/849Kaoru-Seta-Power-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-cAxX2K.png",
 			"img": "http://i.bandori.party/u/c/art/849Kaoru-Seta-Power-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-P0qPrI.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/849Kaoru-Seta-Power-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-P0qPrI.png"
+		},
+		{
+			"id": 924,
+			"name": "(Dance of Support) Kaoru Seta",
+			"nick": "kaoru",
+			"alias": "r6",
+			"star": "2",
+			"skname": "Fleeting Fan",
+			"skill": "All GREAT notes turn into PERFECT notes and boosts score of all notes by 10.0% for the next 5 seconds.",
+			"stat": "Powerful",
+			"pf": 4990,
+			"tech": 5528,
+			"vis": 4721,
+			"total": 15239,
+			"origin": "Gacha: Fluffy Rawr! Happy Monster (20 April 2018)",
+			"icon": "https://i.bandori.party/u/c/924Kaoru-Seta-Power-IjilLR.png",
+			"img": "https://i.bandori.party/u/c/art/924Kaoru-Seta-Power-xXciPT.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/924Kaoru-Seta-Power-xXciPT.png"
 		}
 	]
 }

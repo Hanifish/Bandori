@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/787Arisa-Ichigaya-Cool-fr8lIN.png",
 			"img": "http://i.bandori.party/u/c/art/787Arisa-Ichigaya-Cool-gyrBAU.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/787Arisa-Ichigaya-Cool-S9p8oS.png"
+		},
+		{
+			"id": 928,
+			"name": "(Heartfelt Note) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "I'll definitely win!",
+			"skill": "Restores life by 300 and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Pure",
+			"pf": 9098,
+			"tech": 10143,
+			"vis": 8748,
+			"total": 27989,
+			"origin": "Event: Double Rainbow (30 April 2018)",
+			"icon": "https://i.bandori.party/u/c/928Arisa-Ichigaya-Pure-56r4RR.png",
+			"img": "https://i.bandori.party/u/c/art/928Arisa-Ichigaya-Pure-Gf5ITS.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/928Arisa-Ichigaya-Pure-N1iHGY.png"
 		}
 	]
 }

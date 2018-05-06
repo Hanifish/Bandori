@@ -107,6 +107,24 @@
 			"icon": "http://i.bandori.party/u/c/848Kokoro-Tsurumaki-Happy-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-it2rTG.png",
 			"img": "http://i.bandori.party/u/c/art/848Kokoro-Tsurumaki-Happy-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-WoNTKg.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/848Kokoro-Tsurumaki-Happy-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-WoNTKg.png"
+		},
+		{
+			"id": 923,
+			"name": "(I Love Fluffy Characters!) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "r7",
+			"star": "2",
+			"skname": "Jump into Outer Space!",
+			"skill": "For the next 5 seconds, score of all notes boosted by +30.0%.",
+			"stat": "Cool",
+			"pf": 6251,
+			"tech": 3490,
+			"vis": 4674,
+			"total": 14415,
+			"origin": "Event: Fair and Square! Fluffy Character Championship (20 April 2018)",
+			"icon": "https://i.bandori.party/u/c/923None-Cool-lgqp2l.png",
+			"img": "https://i.bandori.party/u/c/art/923None-Cool-MF37So.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/923None-Cool-MF37So.png"
 		}
 	]
 }

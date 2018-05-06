@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/835Saaya-Yamabuki-Happy-%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA%E3%81%AE%E5%93%81-t7rV5l.png",
 			"img": "http://i.bandori.party/u/c/art/835Saaya-Yamabuki-Happy-%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA%E3%81%AE%E5%93%81-CsxywF.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/835Saaya-Yamabuki-Happy-%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA%E3%81%AE%E5%93%81-e3tpmo.png"
+		},
+		{
+			"id": 929,
+			"name": "(Saaya’s Confession) Saaya Yamabuki",
+			"nick": "saaya",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "Feelings to convey",
+			"skill": "For the next 5 seconds, if life is above 900, score boosted by +65.0%, otherwise, score boosted by +55.0%.",
+			"stat": "Happy",
+			"pf": 10520,
+			"tech": 9150,
+			"vis": 8322,
+			"total": 27992,
+			"origin": "Gacha: Glistening Bridge (30 April 2018)",
+			"icon": "https://i.bandori.party/u/c/929Saaya-Yamabuki-Happy-ARYKqC.png",
+			"img": "https://i.bandori.party/u/c/art/929Saaya-Yamabuki-Happy-keidau.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/929Saaya-Yamabuki-Happy-lT4dnT.png"
 		}
 	]
 }

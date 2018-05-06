@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/833Kasumi-Toyama-Cool-%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AB-DjuNTt.png",
 			"img": "http://i.bandori.party/u/c/art/833Kasumi-Toyama-Cool-%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AB-R9t3Xc.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/833Kasumi-Toyama-Cool-%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AB-0G5zmM.png"
+		},
+		{
+			"id": 925,
+			"name": "(Look Up At the Starry Sky) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "ur4",
+			"star": "4",
+			"skname": "Sparkling starry sky",
+			"skill": "For the next 5 seconds, if life is above 900, score boosted by +110.0%, otherwise, score boosted by +90.0%.",
+			"stat": "Happy",
+			"pf": 9952,
+			"tech": 11211,
+			"vis": 10373,
+			"total": 31536,
+			"origin": "Gacha: Glistening Bridge (30 April 2018)",
+			"icon": "https://i.bandori.party/u/c/925Kasumi-Toyama-Happy-2jdLvt.png",
+			"img": "https://i.bandori.party/u/c/art/925Kasumi-Toyama-Happy-622smB.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/925Kasumi-Toyama-Happy-HHj9Ds.png"
 		}
 	]
 }

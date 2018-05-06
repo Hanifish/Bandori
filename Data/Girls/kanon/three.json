@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/778Kanon-Matsubara-Power-TUbE68.png",
 			"img": "http://i.bandori.party/u/c/art/778Kanon-Matsubara-Power-syPM2X.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/778Kanon-Matsubara-Power-yfJlUT.png"
+		},
+		{
+			"id": 922,
+			"name": "(Mixed Up In a Ball) Kanon Matsubara",
+			"nick": "kanon",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "My eyes are spinning...!",
+			"skill": "Restores life by 300 and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Happy",
+			"pf": 8776,
+			"tech": 8963,
+			"vis": 10250,
+			"total": 27989,
+			"origin": "Event: Fair and Square! Fluffy Character Championship (20 April 2018)",
+			"icon": "https://i.bandori.party/u/c/922Kanon-Matsubara-Happy-a4yzTM.png",
+			"img": "https://i.bandori.party/u/c/art/922Kanon-Matsubara-Happy-V7RQ0W.pngg",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/922Kanon-Matsubara-Happy-3eAy3g.png"
 		}
 	]
 }
