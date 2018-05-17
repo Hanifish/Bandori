@@ -1,65 +1,66 @@
 {
 	"eventTwo": [
+
+		{
+			"id": 936,
+			"name": "(This Could Be Fun?) Ran Mitake",
+			"nick": "ran",
+			"alias": "r5",
+			"star": "2",
+			"skname": "Our Story",
+			"skill": "For the next 5 seconds, score of all notes boosted by +30.0%.",
+			"stat": "Pure",
+			"pf": 4931,
+			"tech": 4482,
+			"vis": 5677,
+			"total": 15090,
+			"origin": "Gacha: Go! Go! Stoooooria! (10 May 2018)",
+			"icon": "https://i.bandori.party/u/c/936Ran-Mitake-Pure-04Csnp.png",
+			"img": "https://i.bandori.party/u/c/art/936Ran-Mitake-Pure-lfrBJP.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/936Ran-Mitake-Pure-lfrBJP.png"
+		}
 		
 	],
 	"eventThree": [
 
-		{
-			"id": 929,
-			"name": "(Saaya’s Confession) Saaya Yamabuki",
-			"nick": "saaya",
-			"alias": "sr5",
-			"star": "3",
-			"skname": "Feelings to convey",
-			"skill": "For the next 5 seconds, if life is above 900, score boosted by +65.0%, otherwise, score boosted by +55.0%.",
-			"stat": "Happy",
-			"pf": 10520,
-			"tech": 9150,
-			"vis": 8322,
-			"total": 27992,
-			"origin": "Gacha: Glistening Bridge (30 April 2018)",
-			"icon": "https://i.bandori.party/u/c/929Saaya-Yamabuki-Happy-ARYKqC.png",
-			"img": "https://i.bandori.party/u/c/art/929Saaya-Yamabuki-Happy-keidau.png",
-			"imgbloomed": "https://i.bandori.party/u/c/art/a/929Saaya-Yamabuki-Happy-lT4dnT.png"
-		}
 	],
 	"eventFour": [
 		
 		{
-			"id": 925,
-			"name": "(Look Up At the Starry Sky) Kasumi Toyama",
-			"nick": "kasumi",
-			"alias": "ur4",
-			"star": "4",
-			"skname": "Sparkling starry sky",
-			"skill": "For the next 5 seconds, if life is above 900, score boosted by +110.0%, otherwise, score boosted by +90.0%.",
-			"stat": "Happy",
-			"pf": 9952,
-			"tech": 11211,
-			"vis": 10373,
-			"total": 31536,
-			"origin": "Gacha: Glistening Bridge (30 April 2018)",
-			"icon": "https://i.bandori.party/u/c/925Kasumi-Toyama-Happy-2jdLvt.png",
-			"img": "https://i.bandori.party/u/c/art/925Kasumi-Toyama-Happy-622smB.png",
-			"imgbloomed": "https://i.bandori.party/u/c/art/a/925Kasumi-Toyama-Happy-HHj9Ds.png"
-		},
-		{
-			"id": 926,
-			"name": "(Problems Getting Motivated?) Rimi Ushigome",
-			"nick": "rimi",
+			"id": 932,
+			"name": "(The Mysterious Beauty) Moca Aoba",
+			"nick": "moca",
 			"alias": "ur3",
 			"star": "4",
-			"skname": "Rimi's precious things",
-			"skill": "For the next 5 seconds, score of all notes boosted by +100.0%",
-			"stat": "Happy",
-			"pf": 11302,
-			"tech": 9804,
-			"vis": 10435,
-			"total": 31541,
-			"origin": "Gacha: Glistening Bridge (30 April 2018)",
-			"icon": "https://i.bandori.party/u/c/926Rimi-Ushigome-Happy-j0k4en.png",
-			"img": "https://i.bandori.party/u/c/art/926Rimi-Ushigome-Happy-RmziV2.png",
-			"imgbloomed": "https://i.bandori.party/u/c/art/a/926Rimi-Ushigome-Happy-KUbXDw.png"
+			"skname": "Heart going CRAY-ZEE ‘cuz I’m PUMPED",
+			"skill": "For the next 5 seconds, score of all notes boosted by +100.0%.",
+			"stat": "Pure",
+			"pf": 10373,
+			"tech": 9922,
+			"vis": 11255,
+			"total": 31550,
+			"origin": "Gacha: Go! Go! Stoooooria! (10 May 2018)",
+			"icon": "https://i.bandori.party/u/c/932Moca-Aoba-Pure-8865il.png",
+			"img": "https://i.bandori.party/u/c/art/932Moca-Aoba-Pure-PhXanp.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/932Moca-Aoba-Pure-vISUMc.png"
+		},
+		{
+			"id": 933,
+			"name": "(Growing Heart-Throbs?) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "I recommend this one!",
+			"skill": "Restores life by 300 and boosts score of all notes by 60.0% for the next 5 seconds.",
+			"stat": "Pure",
+			"pf": 10493,
+			"tech": 11576,
+			"vis": 9771,
+			"total": 31840,
+			"origin": "Gacha: Go! Go! Stoooooria! (10 May 2018)",
+			"icon": "https://i.bandori.party/u/c/933Tsugumi-Hazawa-Pure-oGMc8g.png",
+			"img": "https://i.bandori.party/u/c/art/933Tsugumi-Hazawa-Pure-qwDk8g.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/933Tsugumi-Hazawa-Pure-lqoxr3.png"
 		}
 	]
 }

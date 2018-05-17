@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/793Tomoe-Udagawa-Power-38w23U.png",
 			"img": "http://i.bandori.party/u/c/art/793Tomoe-Udagawa-Power-rb4uKk.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/793Tomoe-Udagawa-Power-0UoLsd.png"
+		},
+		{
+			"id": 934,
+			"name": "(I'll Protect You!) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Just leave it to me!",
+			"skill": "Restores life by 300 and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Happy",
+			"pf": 10089,
+			"tech": 9204,
+			"vis": 8696,
+			"total": 27989,
+			"origin": "Event: Girls Anthology (10 May 2018)",
+			"icon": "https://i.bandori.party/u/c/934Tomoe-Udagawa-Happy-07AmTo.png",
+			"img": "https://i.bandori.party/u/c/art/934Tomoe-Udagawa-Happy-9FZVFJ.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/934Tomoe-Udagawa-Happy-nXztjA.png"
 		}
 	]
 }

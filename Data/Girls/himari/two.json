@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/845Himari-Uehara-Pure-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-lr0STz.png",
 			"img": "http://i.bandori.party/u/c/art/845Himari-Uehara-Pure-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-N5MiHb.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/845Himari-Uehara-Pure-%E3%82%B0%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF-N5MiHb.png"
+		},
+		{
+			"id": 935,
+			"name": "(Non-Stop Fantasy) Himari Uehara",
+			"nick": "himari",
+			"alias": "r5",
+			"star": "2",
+			"skname": "Squeeeeee!",
+			"skill": "All GREAT notes turn into PERFECT notes and boosts score of all notes by 10.0% for the next 5 seconds.",
+			"stat": "Cool",
+			"pf": 3976,
+			"tech": 5814,
+			"vis": 4970,
+			"total": 14760,
+			"origin": "Event: Girls Anthology (10 May 2018)",
+			"icon": "https://i.bandori.party/u/c/935Himari-Uehara-Cool-Wo6aOI.png",
+			"img": "https://i.bandori.party/u/c/art/935Himari-Uehara-Cool-p78SlY.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/935Himari-Uehara-Cool-p78SlY.png"
 		}
 	]
 }

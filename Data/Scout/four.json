@@ -864,6 +864,42 @@
 			"icon": "https://i.bandori.party/u/c/921Michelle-Power-SQjc65.png",
 			"img": "https://i.bandori.party/u/c/art/921Michelle-Power-g0e0eI.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/921Michelle-Power-eo1xKI.png"
+		},
+		{
+			"id": 925,
+			"name": "(Look Up At the Starry Sky) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "ur4",
+			"star": "4",
+			"skname": "Sparkling starry sky",
+			"skill": "For the next 5 seconds, if life is above 900, score boosted by +110.0%, otherwise, score boosted by +90.0%.",
+			"stat": "Happy",
+			"pf": 9952,
+			"tech": 11211,
+			"vis": 10373,
+			"total": 31536,
+			"origin": "Gacha: Glistening Bridge (30 April 2018)",
+			"icon": "https://i.bandori.party/u/c/925Kasumi-Toyama-Happy-2jdLvt.png",
+			"img": "https://i.bandori.party/u/c/art/925Kasumi-Toyama-Happy-622smB.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/925Kasumi-Toyama-Happy-HHj9Ds.png"
+		},
+		{
+			"id": 926,
+			"name": "(Problems Getting Motivated?) Rimi Ushigome",
+			"nick": "rimi",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Rimi's precious things",
+			"skill": "For the next 5 seconds, score of all notes boosted by +100.0%",
+			"stat": "Happy",
+			"pf": 11302,
+			"tech": 9804,
+			"vis": 10435,
+			"total": 31541,
+			"origin": "Gacha: Glistening Bridge (30 April 2018)",
+			"icon": "https://i.bandori.party/u/c/926Rimi-Ushigome-Happy-j0k4en.png",
+			"img": "https://i.bandori.party/u/c/art/926Rimi-Ushigome-Happy-RmziV2.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/926Rimi-Ushigome-Happy-KUbXDw.png"
 		}
 
     ]

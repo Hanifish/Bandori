@@ -954,6 +954,24 @@
 			"icon": "https://i.bandori.party/u/c/919Hina-Hikawa-Cool-ZdGpa4.png",
 			"img": "https://i.bandori.party/u/c/art/919Hina-Hikawa-Cool-WFVngZ.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/919Hina-Hikawa-Cool-A1T1OP.png"
+		},
+		{
+			"id": 929,
+			"name": "(Saaya’s Confession) Saaya Yamabuki",
+			"nick": "saaya",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "Feelings to convey",
+			"skill": "For the next 5 seconds, if life is above 900, score boosted by +65.0%, otherwise, score boosted by +55.0%.",
+			"stat": "Happy",
+			"pf": 10520,
+			"tech": 9150,
+			"vis": 8322,
+			"total": 27992,
+			"origin": "Gacha: Glistening Bridge (30 April 2018)",
+			"icon": "https://i.bandori.party/u/c/929Saaya-Yamabuki-Happy-ARYKqC.png",
+			"img": "https://i.bandori.party/u/c/art/929Saaya-Yamabuki-Happy-keidau.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/929Saaya-Yamabuki-Happy-lT4dnT.png"
 		}
 
     ]
