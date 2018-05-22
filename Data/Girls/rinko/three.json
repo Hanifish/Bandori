@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/805Rinko-Shirokane-Pure-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E6%99%B4%E3%82%8C%E7%9D%80-ixB9nj.png",
 			"img": "http://i.bandori.party/u/c/art/805Rinko-Shirokane-Pure-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E6%99%B4%E3%82%8C%E7%9D%80-4pnWiA.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/805Rinko-Shirokane-Pure-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E6%99%B4%E3%82%8C%E7%9D%80-8wp0QA.png"
+		},
+		{
+			"id": 940,
+			"name": "(Cry of Determination) Rinko Shirokane",
+			"nick": "rinko",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "Because I like it",
+			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Powerful",
+			"pf": 10764,
+			"tech": 7775,
+			"vis": 8998,
+			"total": 27537,
+			"origin": "Event: Neo-Aspect (21 May 2018)",
+			"icon": "https://i.bandori.party/u/c/940Rinko-Shirokane-Power-1EeSXs.png",
+			"img": "https://i.bandori.party/u/c/art/940Rinko-Shirokane-Power-tuFHcx.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/940Rinko-Shirokane-Power-AELl2z.png"
 		}
 	]
 }

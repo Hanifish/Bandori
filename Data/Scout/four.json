@@ -900,6 +900,42 @@
 			"icon": "https://i.bandori.party/u/c/926Rimi-Ushigome-Happy-j0k4en.png",
 			"img": "https://i.bandori.party/u/c/art/926Rimi-Ushigome-Happy-RmziV2.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/926Rimi-Ushigome-Happy-KUbXDw.png"
+		},
+		{
+			"id": 932,
+			"name": "(The Mysterious Beauty) Moca Aoba",
+			"nick": "moca",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Heart going CRAY-ZEE ‘cuz I’m PUMPED",
+			"skill": "For the next 5 seconds, score of all notes boosted by +100.0%.",
+			"stat": "Pure",
+			"pf": 10373,
+			"tech": 9922,
+			"vis": 11255,
+			"total": 31550,
+			"origin": "Gacha: Go! Go! Stoooooria! (10 May 2018)",
+			"icon": "https://i.bandori.party/u/c/932Moca-Aoba-Pure-8865il.png",
+			"img": "https://i.bandori.party/u/c/art/932Moca-Aoba-Pure-PhXanp.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/932Moca-Aoba-Pure-vISUMc.png"
+		},
+		{
+			"id": 933,
+			"name": "(Growing Heart-Throbs?) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "ur2",
+			"star": "4",
+			"skname": "I recommend this one!",
+			"skill": "Restores life by 300 and boosts score of all notes by 60.0% for the next 5 seconds.",
+			"stat": "Pure",
+			"pf": 10493,
+			"tech": 11576,
+			"vis": 9771,
+			"total": 31840,
+			"origin": "Gacha: Go! Go! Stoooooria! (10 May 2018)",
+			"icon": "https://i.bandori.party/u/c/933Tsugumi-Hazawa-Pure-oGMc8g.png",
+			"img": "https://i.bandori.party/u/c/art/933Tsugumi-Hazawa-Pure-qwDk8g.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/933Tsugumi-Hazawa-Pure-lqoxr3.png"
 		}
 
     ]

@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/874Lisa-Imai-Power-%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A%E3%81%AF%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B-4czpSX.png",
 			"img": "http://i.bandori.party/u/c/art/874Lisa-Imai-Power-%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A%E3%81%AF%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B-ega0bn.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/874Lisa-Imai-Power-%E3%81%8A%E8%8F%93%E5%AD%90%E4%BD%9C%E3%82%8A%E3%81%AF%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B-jysdvc.png"
+		},
+		{
+			"id": 938,
+			"name": "(One More Cookie) Lisa Imai",
+			"nick": "lisa",
+			"alias": "ur4",
+			"star": "4",
+			"skname": "Let's go eat together ☆",
+			"skill": "For the next 5 seconds, if life is above 900, score boosted by +110.0%, otherwise, score boosted by +90.0%",
+			"stat": "Happy",
+			"pf": 11607,
+			"tech": 10163,
+			"vis": 9771,
+			"total": 31541,
+			"origin": "Gacha: Melodic Gears (21 May 2018)",
+			"icon": "https://i.bandori.party/u/c/938Lisa-Imai-Happy-os5KYi.png",
+			"img": "https://i.bandori.party/u/c/art/938Lisa-Imai-Happy-LTIAqW.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/938Lisa-Imai-Happy-saDArN.png"
 		}
 	]
 }

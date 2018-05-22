@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/867Sayo-Hikawa-Happy-%E6%96%B0%E7%B1%B3%E3%82%BF%E3%83%B3%E3%82%AF-Uq9hMj.png",
 			"img": "http://i.bandori.party/u/c/art/867Sayo-Hikawa-Happy-%E6%96%B0%E7%B1%B3%E3%82%BF%E3%83%B3%E3%82%AF-UhHy6D.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/867Sayo-Hikawa-Happy-%E6%96%B0%E7%B1%B3%E3%82%BF%E3%83%B3%E3%82%AF-0W77Cq.png"
+		},
+		{
+			"id": 939,
+			"name": "(This Time It's Me) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "Silent tenderness",
+			"skill": "Restores life by 300 and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Pure",
+			"pf": 9259,
+			"tech": 8613,
+			"vis": 10115,
+			"total": 27987,
+			"origin": "Event: Neo-Aspect (21 May 2018)",
+			"icon": "https://i.bandori.party/u/c/939Sayo-Hikawa-Pure-U1dJin.png",
+			"img": "https://i.bandori.party/u/c/art/939Sayo-Hikawa-Pure-V3RRis.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/939Sayo-Hikawa-Pure-J8xxka.png"
 		}
 	]
 }

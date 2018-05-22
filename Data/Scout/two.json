@@ -1331,6 +1331,24 @@
 			"icon": "https://i.bandori.party/u/c/924Kaoru-Seta-Power-IjilLR.png",
 			"img": "https://i.bandori.party/u/c/art/924Kaoru-Seta-Power-xXciPT.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/924Kaoru-Seta-Power-xXciPT.png"
+		},
+		{
+			"id": 936,
+			"name": "(This Could Be Fun?) Ran Mitake",
+			"nick": "ran",
+			"alias": "r5",
+			"star": "2",
+			"skname": "Our Story",
+			"skill": "For the next 5 seconds, score of all notes boosted by +30.0%.",
+			"stat": "Pure",
+			"pf": 4931,
+			"tech": 4482,
+			"vis": 5677,
+			"total": 15090,
+			"origin": "Gacha: Go! Go! Stoooooria! (10 May 2018)",
+			"icon": "https://i.bandori.party/u/c/936Ran-Mitake-Pure-04Csnp.png",
+			"img": "https://i.bandori.party/u/c/art/936Ran-Mitake-Pure-lfrBJP.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/936Ran-Mitake-Pure-lfrBJP.png"
 		}
     ]
 }
