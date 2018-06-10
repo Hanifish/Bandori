@@ -972,6 +972,42 @@
 			"icon": "https://i.bandori.party/u/c/929Saaya-Yamabuki-Happy-ARYKqC.png",
 			"img": "https://i.bandori.party/u/c/art/929Saaya-Yamabuki-Happy-keidau.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/929Saaya-Yamabuki-Happy-lT4dnT.png"
+		},
+		{
+			"id": 941,
+			"name": "(Tea Time With Everyone) Ako Udagawa",
+			"nick": "ako",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "Super cool!",
+			"skill": "All GREAT notes turn into PERFECT notes and boosts score of all notes by 30.0% for the next 5 seconds.",
+			"stat": "Happy",
+			"pf": 8668,
+			"tech": 10226,
+			"vis": 9363,
+			"total": 28257,
+			"origin": "Gacha: Melodic Gears (21 May 2018)",
+			"icon": "https://i.bandori.party/u/c/941Ako-Udagawa-Happy-LIeYk7.png",
+			"img": "https://i.bandori.party/u/c/art/941Ako-Udagawa-Happy-8z3zLK.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/941Ako-Udagawa-Happy-TPZIyZ.png"
+		},
+		{
+			"id": 946,
+			"name": "(Along With the Rain) Sayo Hikawa",
+			"nick": "sayo",
+			"alias": "sr6",
+			"star": "3",
+			"skname": "Treasured Rain",
+			"skill": "All GREAT notes turn into PERFECT notes and boosts score of all notes by 30.0% for the next 5 seconds.",
+			"stat": "Cool",
+			"pf": 9450,
+			"tech": 8348,
+			"vis": 10463,
+			"total": 28261,
+			"origin": "Gacha: Roaring Rimshot (31 May 2018)",
+			"icon": "https://i.bandori.party/u/c/946Sayo-Hikawa-Cool-B02qEE.png",
+			"img": "https://i.bandori.party/u/c/art/946Sayo-Hikawa-Cool-kKH2wl.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/946Sayo-Hikawa-Cool-yJLmKB.png"
 		}
 
     ]

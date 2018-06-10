@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/865Lisa-Imai-Cool-%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A9%E3%83%BC-lxmd1p.png",
 			"img": "http://i.bandori.party/u/c/art/865Lisa-Imai-Cool-%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A9%E3%83%BC-vVNGB7.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/865Lisa-Imai-Cool-%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A9%E3%83%BC-d33JVS.png"
+		},
+		{
+			"id": 949,
+			"name": "(No Ghosts!) Lisa Imai",
+			"nick": "lisa",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "No Scary Stories!",
+			"skill": "For the next 5 seconds, score of all notes boosted by +60.0%.",
+			"stat": "Powerful",
+			"pf": 8700,
+			"tech": 6469,
+			"vis": 11894,
+			"total": 27063,
+			"origin": "Event: The Cursed Well and the School’s Ghost (10 June 2018)",
+			"icon": "https://i.bandori.party/u/c/949Lisa-Imai-Power-oODP5O.png",
+			"img": "https://i.bandori.party/u/c/art/949Lisa-Imai-Power-87gjlU.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/949Lisa-Imai-Power-X2HjFu.png"
 		}
 	]
 }

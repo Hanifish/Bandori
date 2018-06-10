@@ -35,6 +35,24 @@
 			"icon": "https://i.bandori.party/u/c/906Tomoe-Udagawa-Happy-%E6%B0%B8%E9%81%A0%E3%81%AE%E5%A4%95%E6%97%A5-3mIQnt.png",
 			"img": "https://i.bandori.party/u/c/art/906Tomoe-Udagawa-Happy-%E6%B0%B8%E9%81%A0%E3%81%AE%E5%A4%95%E6%97%A5-sfgSSc.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/906Tomoe-Udagawa-Happy-%E6%B0%B8%E9%81%A0%E3%81%AE%E5%A4%95%E6%97%A5-sRxTfg.png"
+		},
+		{
+			"id": 943,
+			"name": "(The Appeal of the Japanese Taiko) Tomoe Udgawa",
+			"nick": "tomoe",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "To Get Through",
+			"skill": "Restores life by 300 and boosts score of all notes by 60.0% for the next 5 seconds",
+			"stat": "Cool",
+			"pf": 10583,
+			"tech": 11453,
+			"vis": 9804,
+			"total": 31840,
+			"origin": "Gacha: Roaring Rimshot (31 May 2018)",
+			"icon": "https://i.bandori.party/u/c/943Tomoe-Udagawa-Cool-v95a0h.png",
+			"img": "https://i.bandori.party/u/c/art/943Tomoe-Udagawa-Cool-CCLLTQ.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/943Tomoe-Udagawa-Cool-e77wzy.png"
 		}
 	]
 }

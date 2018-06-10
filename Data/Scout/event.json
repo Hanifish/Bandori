@@ -1,66 +1,68 @@
 {
 	"eventTwo": [
+
+		{
+			"id": 951,
+			"name": "(Ran's Eye Contact) Ran Mitake",
+			"nick": "ran",
+			"alias": "r6",
+			"star": "2",
+			"skname": "Glowing Neon Sign",
+			"skill": "For the next 5 seconds, score of all notes boosted by +30.0%.",
+			"stat": "Powerful",
+			"pf": 5454,
+			"tech": 4961,
+			"vis": 4676,
+			"total": 15091,
+			"origin": "Gacha: Hard-Boiled Detective (10 June 2018)",
+			"icon": "https://i.bandori.party/u/c/951Ran-Mitake-Power-FECZhf.png",
+			"img": "https://i.bandori.party/u/c/art/951Ran-Mitake-Power-cg7NaO.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/951Ran-Mitake-Power-cg7NaO.png"
+		}
 		
 	],
 	"eventThree": [
 
-		{
-			"id": 941,
-			"name": "(Tea Time With Everyone) Ako Udagawa",
-			"nick": "ako",
-			"alias": "sr4",
-			"star": "3",
-			"skname": "Super cool!",
-			"skill": "All GREAT notes turn into PERFECT notes and boosts score of all notes by 30.0% for the next 5 seconds.",
-			"stat": "Happy",
-			"pf": 8668,
-			"tech": 10226,
-			"vis": 9363,
-			"total": 28257,
-			"origin": "Gacha: Melodic Gears (21 May 2018)",
-			"icon": "https://i.bandori.party/u/c/941Ako-Udagawa-Happy-LIeYk7.png",
-			"img": "https://i.bandori.party/u/c/art/941Ako-Udagawa-Happy-8z3zLK.png",
-			"imgbloomed": "https://i.bandori.party/u/c/art/a/941Ako-Udagawa-Happy-TPZIyZ.png"
-		}
+		
 
 	],
 	"eventFour": [
 		
 		{
-			"id": 937,
-			"name": "(Tears On My Face) Yukina Minato",
-			"nick": "yukina",
-			"alias": "ur4",
+			"id": 947,
+			"name": "(A Meeting Under the Starry Sky) Hina Hikawa",
+			"nick": "hina",
+			"alias": "ur3",
 			"star": "4",
-			"skname": "Searching for an answer",
+			"skname": "Hina's Astrological Observation",
 			"skill": "For the next 5 seconds, score of all notes boosted by +100.0%.",
-			"stat": "Happy",
-			"pf": 9982,
-			"tech": 10311,
-			"vis": 11255,
-			"total": 31548,
-			"origin": "Gacha: Melodic Gears (21 May 2018)",
-			"icon": "https://i.bandori.party/u/c/937Yukina-Minato-Happy-JbsJhu.png",
-			"img": "https://i.bandori.party/u/c/art/937Yukina-Minato-Happy-dsyoGk.png",
-			"imgbloomed": "https://i.bandori.party/u/c/art/a/937Yukina-Minato-Happy-0DADDh.png"
+			"stat": "Powerful",
+			"pf": 9891,
+			"tech": 10101,
+			"vis": 11545,
+			"total": 31537,
+			"origin": "Gacha: Hard-Boiled Detective (10 June 2018)",
+			"icon": "https://i.bandori.party/u/c/947Hina-Hikawa-Power-LnODf8.png",
+			"img": "https://i.bandori.party/u/c/art/947Hina-Hikawa-Power-wF2PY4.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/947Hina-Hikawa-Power-DowLKc.png"
 		},
 		{
-			"id": 938,
-			"name": "(One More Cookie) Lisa Imai",
-			"nick": "lisa",
-			"alias": "ur4",
+			"id": 948,
+			"name": "(Fleeting Performance) Kaoru Seta",
+			"nick": "kaoru",
+			"alias": "ur3",
 			"star": "4",
-			"skname": "Let's go eat together ☆",
-			"skill": "For the next 5 seconds, if life is above 900, score boosted by +110.0%, otherwise, score boosted by +90.0%",
-			"stat": "Happy",
-			"pf": 11607,
-			"tech": 10163,
-			"vis": 9771,
-			"total": 31541,
-			"origin": "Gacha: Melodic Gears (21 May 2018)",
-			"icon": "https://i.bandori.party/u/c/938Lisa-Imai-Happy-os5KYi.png",
-			"img": "https://i.bandori.party/u/c/art/938Lisa-Imai-Happy-LTIAqW.png",
-			"imgbloomed": "https://i.bandori.party/u/c/art/a/938Lisa-Imai-Happy-saDArN.png"
+			"skname": "Red Flower Brooch",
+			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 60.0% for the next 5 seconds",
+			"stat": "Powerful",
+			"pf": 9982,
+			"tech": 11393,
+			"vis": 10462,
+			"total": 31837,
+			"origin": "Gacha: Hard-Boiled Detective (10 June 2018)",
+			"icon": "https://i.bandori.party/u/c/948Kaoru-Seta-Power-IFnmsY.png",
+			"img": "https://i.bandori.party/u/c/art/948Kaoru-Seta-Power-pPZz1h.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/948Kaoru-Seta-Power-ZmqTc8.png"
 		}
 	]
 }

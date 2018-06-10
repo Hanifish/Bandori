@@ -89,6 +89,24 @@
 			"icon": "https://i.bandori.party/u/c/886Maya-Yamato-Power-%E8%AC%99%E8%99%9A%E7%B3%BB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-Jh5iMu.png",
 			"img": "https://i.bandori.party/u/c/art/886Maya-Yamato-Power-%E8%AC%99%E8%99%9A%E7%B3%BB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-iqXqyY.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/886Maya-Yamato-Power-%E8%AC%99%E8%99%9A%E7%B3%BB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-iqXqyY.png"
+		},
+		{
+			"id": 950,
+			"name": "(Racing Heartbeat) Maya Yamato",
+			"nick": "maya",
+			"alias": "r6",
+			"star": "2",
+			"skname": "Mysterious Wink",
+			"skill": "Restores life by 200 and boosts score of all notes by 10.0% for the next 5 seconds.",
+			"stat": "Cool",
+			"pf": 5408,
+			"tech": 4706,
+			"vis": 4975,
+			"total": 15089,
+			"origin": "Event: The Cursed Well and the School’s Ghost (10 June 2018)",
+			"icon": "https://i.bandori.party/u/c/950Maya-Yamato-Cool-fU9DJ9.png",
+			"img": "https://i.bandori.party/u/c/art/950Maya-Yamato-Cool-3a14Qs.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/950Maya-Yamato-Cool-3a14Qs.png"
 		}
 	]
 }

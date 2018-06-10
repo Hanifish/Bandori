@@ -71,6 +71,24 @@
 			"icon": "https://i.bandori.party/u/c/902Kasumi-Toyama-Power-A-Show-with-Everyone-kRXRuh.png",
 			"img": "https://i.bandori.party/u/c/art/902Kasumi-Toyama-Power-Ji0r98.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/902Kasumi-Toyama-Power-b1kQlH.png"
+		},
+		{
+			"id": 944,
+			"name": "(All Fired Up!) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "Shining Line",
+			"skill": "Restores life by 300 and boosts score of all notes by 20.0% for the next 5 seconds",
+			"stat": "Pure",
+			"pf": 10305,
+			"tech": 8963,
+			"vis": 8722,
+			"total": 27990,
+			"origin": "Event: Beatin' in the Rain (31 May 2018)",
+			"icon": "https://i.bandori.party/u/c/944Kasumi-Toyama-Pure-cTEG0p.png",
+			"img": "https://i.bandori.party/u/c/art/944Kasumi-Toyama-Pure-Vj0Iks.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/944Kasumi-Toyama-Pure-gdtKM7.png"
 		}
 	]
 }

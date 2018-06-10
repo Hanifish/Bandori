@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/802Kokoro-Tsurumaki-Pure-%E6%AD%A3%E6%9C%88%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E4%BA%8B%E3%81%A0%E3%82%89%E3%81%91-AuJTdA.png",
 			"img": "http://i.bandori.party/u/c/art/802Kokoro-Tsurumaki-Pure-%E6%AD%A3%E6%9C%88%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E4%BA%8B%E3%81%A0%E3%82%89%E3%81%91-WbGqxm.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/802Kokoro-Tsurumaki-Pure-%E6%AD%A3%E6%9C%88%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E4%BA%8B%E3%81%A0%E3%82%89%E3%81%91-IUD5SH.png"
+		},
+		{
+			"id": 942,
+			"name": "(Shining Through the Rain) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "ur4",
+			"star": "4",
+			"skname": "Rainy But Wonderful",
+			"skill": "For the next 5 seconds, if life is above 900, score boosted by +110.0%, otherwise, score boosted by +90.0%",
+			"stat": "Cool",
+			"pf": 11275,
+			"tech": 9771,
+			"vis": 10493,
+			"total": 31539,
+			"origin": "Gacha: Roaring Rimshot (31 May 2018)",
+			"icon": "https://i.bandori.party/u/c/942Kokoro-Tsurumaki-Cool-imZBzd.png",
+			"img": "https://i.bandori.party/u/c/art/942Kokoro-Tsurumaki-Cool-zV77W3.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/942Kokoro-Tsurumaki-Cool-b2B5gf.png"
 		}
 	]
 }
