@@ -1,68 +1,66 @@
 {
 	"eventTwo": [
-
-		{
-			"id": 951,
-			"name": "(Ran's Eye Contact) Ran Mitake",
-			"nick": "ran",
-			"alias": "r6",
-			"star": "2",
-			"skname": "Glowing Neon Sign",
-			"skill": "For the next 5 seconds, score of all notes boosted by +30.0%.",
-			"stat": "Powerful",
-			"pf": 5454,
-			"tech": 4961,
-			"vis": 4676,
-			"total": 15091,
-			"origin": "Gacha: Hard-Boiled Detective (10 June 2018)",
-			"icon": "https://i.bandori.party/u/c/951Ran-Mitake-Power-FECZhf.png",
-			"img": "https://i.bandori.party/u/c/art/951Ran-Mitake-Power-cg7NaO.png",
-			"imgbloomed": "https://i.bandori.party/u/c/art/951Ran-Mitake-Power-cg7NaO.png"
-		}
 		
 	],
 	"eventThree": [
 
-		
+		{
+			"id": 956,
+			"name": "(An Idol Is...) Maya Yamato",
+			"nick": "maya",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "TI Want To Know Idols!",
+			"skill": "All GREAT notes turn into PERFECT notes and boosts score of all notes by 30.0% for the next 5 seconds.",
+			"stat": "Happy",
+			"pf": 10226,
+			"tech": 8803,
+			"vis": 9231,
+			"total": 28260,
+			"origin": "Gacha: The Colorful Radiant Road (20 June 2018)",
+			"icon": "https://i.bandori.party/u/c/956Maya-Yamato-Happy-ZSAUyN.png",
+			"img": "https://i.bandori.party/u/c/art/956Maya-Yamato-Happy-9hET33.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/956Maya-Yamato-Happy-z15ub1.png"
+		}
 
 	],
 	"eventFour": [
 		
 		{
-			"id": 947,
-			"name": "(A Meeting Under the Starry Sky) Hina Hikawa",
-			"nick": "hina",
+			"id": 953,
+			"name": "(The Path to Our Dreams) Chisato Shirasagi",
+			"nick": "chisato",
 			"alias": "ur3",
 			"star": "4",
-			"skname": "Hina's Astrological Observation",
+			"skname": "Accepting Friends",
 			"skill": "For the next 5 seconds, score of all notes boosted by +100.0%.",
-			"stat": "Powerful",
-			"pf": 9891,
-			"tech": 10101,
+			"stat": "Happy",
+			"pf": 9863,
+			"tech": 10133,
 			"vis": 11545,
-			"total": 31537,
-			"origin": "Gacha: Hard-Boiled Detective (10 June 2018)",
-			"icon": "https://i.bandori.party/u/c/947Hina-Hikawa-Power-LnODf8.png",
-			"img": "https://i.bandori.party/u/c/art/947Hina-Hikawa-Power-wF2PY4.png",
-			"imgbloomed": "https://i.bandori.party/u/c/art/a/947Hina-Hikawa-Power-DowLKc.png"
+			"total": 31541,
+			"origin": "Gacha: The Colorful Radiant Road (20 June 2018)",
+			"icon": "https://i.bandori.party/u/c/953Chisato-Shirasagi-Happy-ARcsrB.png",
+			"img": "https://i.bandori.party/u/c/art/953Chisato-Shirasagi-Happy-Rc9uG2.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/953Chisato-Shirasagi-Happy-V2vAW3.png"
 		},
 		{
-			"id": 948,
-			"name": "(Fleeting Performance) Kaoru Seta",
-			"nick": "kaoru",
+			"id": 952,
+			"name": "(Dream Inspiring Idol) Aya Maruyama",
+			"nick": "aya",
 			"alias": "ur3",
 			"star": "4",
-			"skname": "Red Flower Brooch",
-			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 60.0% for the next 5 seconds",
-			"stat": "Powerful",
-			"pf": 9982,
-			"tech": 11393,
-			"vis": 10462,
-			"total": 31837,
-			"origin": "Gacha: Hard-Boiled Detective (10 June 2018)",
-			"icon": "https://i.bandori.party/u/c/948Kaoru-Seta-Power-IFnmsY.png",
-			"img": "https://i.bandori.party/u/c/art/948Kaoru-Seta-Power-pPZz1h.png",
-			"imgbloomed": "https://i.bandori.party/u/c/art/a/948Kaoru-Seta-Power-ZmqTc8.png"
+			"skname": "Hard Work",
+			"skill": "For the next 5 seconds, if life is 900 or above, score boosted by +110.0%, otherwise, score boosted by +90.0%.",
+			"stat": "Happy",
+			"pf": 10252,
+			"tech": 11423,
+			"vis": 9863,
+			"total": 31538,
+			"origin": "Gacha: The Colorful Radiant Road (20 June 2018)",
+			"icon": "https://i.bandori.party/u/c/952Aya-Maruyama-Happy-kOoa70.png",
+			"img": "https://i.bandori.party/u/c/art/952Aya-Maruyama-Happy-6U17z2.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/952Aya-Maruyama-Happy-MBGD0S.png"
 		}
 	]
 }

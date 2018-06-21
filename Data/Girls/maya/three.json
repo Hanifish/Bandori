@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/803Maya-Yamato-Happy-%E3%83%AC%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B-f1ioxO.png",
 			"img": "http://i.bandori.party/u/c/art/803Maya-Yamato-Happy-%E3%83%AC%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B-ULvSld.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/803Maya-Yamato-Happy-%E3%83%AC%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B-qw78ZL.png"
+		},
+		{
+			"id": 956,
+			"name": "(An Idol Is...) Maya Yamato",
+			"nick": "maya",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "TI Want To Know Idols!",
+			"skill": "All GREAT notes turn into PERFECT notes and boosts score of all notes by 30.0% for the next 5 seconds.",
+			"stat": "Happy",
+			"pf": 10226,
+			"tech": 8803,
+			"vis": 9231,
+			"total": 28260,
+			"origin": "Gacha: The Colorful Radiant Road (20 June 2018)",
+			"icon": "https://i.bandori.party/u/c/956Maya-Yamato-Happy-ZSAUyN.png",
+			"img": "https://i.bandori.party/u/c/art/956Maya-Yamato-Happy-9hET33.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/956Maya-Yamato-Happy-z15ub1.png"
 		}
 	]
 }

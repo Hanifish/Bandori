@@ -1349,6 +1349,24 @@
 			"icon": "https://i.bandori.party/u/c/936Ran-Mitake-Pure-04Csnp.png",
 			"img": "https://i.bandori.party/u/c/art/936Ran-Mitake-Pure-lfrBJP.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/936Ran-Mitake-Pure-lfrBJP.png"
+		},
+		{
+			"id": 951,
+			"name": "(Ran's Eye Contact) Ran Mitake",
+			"nick": "ran",
+			"alias": "r6",
+			"star": "2",
+			"skname": "Glowing Neon Sign",
+			"skill": "For the next 5 seconds, score of all notes boosted by +30.0%.",
+			"stat": "Powerful",
+			"pf": 5454,
+			"tech": 4961,
+			"vis": 4676,
+			"total": 15091,
+			"origin": "Gacha: Hard-Boiled Detective (10 June 2018)",
+			"icon": "https://i.bandori.party/u/c/951Ran-Mitake-Power-FECZhf.png",
+			"img": "https://i.bandori.party/u/c/art/951Ran-Mitake-Power-cg7NaO.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/951Ran-Mitake-Power-cg7NaO.png"
 		}
     ]
 }

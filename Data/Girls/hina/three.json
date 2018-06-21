@@ -107,6 +107,24 @@
 			"icon": "https://i.bandori.party/u/c/919Hina-Hikawa-Cool-ZdGpa4.png",
 			"img": "https://i.bandori.party/u/c/art/919Hina-Hikawa-Cool-WFVngZ.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/919Hina-Hikawa-Cool-A1T1OP.png"
+		},
+		{
+			"id": 954,
+			"name": "(Hina's Request) Hina Hikawa",
+			"nick": "hina",
+			"alias": "sr7",
+			"star": "3",
+			"skname": "Make the Impossible Possible",
+			"skill": "Restores life by 300 and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Happy",
+			"pf": 8829,
+			"tech": 9955,
+			"vis": 9204,
+			"total": 27988,
+			"origin": "Event: Once More Luminous! (20 June 2018)",
+			"icon": "https://i.bandori.party/u/c/954Hina-Hikawa-Happy-dfasdM.png",
+			"img": "https://i.bandori.party/u/c/art/954Hina-Hikawa-Happy-lv9w3g.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/954Hina-Hikawa-Happy-RkFMpt.png"
 		}
 	]
 }

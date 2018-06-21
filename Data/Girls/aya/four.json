@@ -35,6 +35,24 @@
 			"icon": "http://i.bandori.party/u/c/806Aya-Maruyama-Pure-%E7%A7%81%E9%81%94%E3%81%AE%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-TgzEHH.png",
 			"img": "http://i.bandori.party/u/c/art/806Aya-Maruyama-Pure-%E7%A7%81%E9%81%94%E3%81%AE%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-BAup9a.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/806Aya-Maruyama-Pure-%E7%A7%81%E9%81%94%E3%81%AE%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-MUeIXb.png"
+		},
+		{
+			"id": 952,
+			"name": "(Dream Inspiring Idol) Aya Maruyama",
+			"nick": "aya",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "Hard Work",
+			"skill": "For the next 5 seconds, if life is 900 or above, score boosted by +110.0%, otherwise, score boosted by +90.0%.",
+			"stat": "Happy",
+			"pf": 10252,
+			"tech": 11423,
+			"vis": 9863,
+			"total": 31538,
+			"origin": "Gacha: The Colorful Radiant Road (20 June 2018)",
+			"icon": "https://i.bandori.party/u/c/952Aya-Maruyama-Happy-kOoa70.png",
+			"img": "https://i.bandori.party/u/c/art/952Aya-Maruyama-Happy-6U17z2.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/952Aya-Maruyama-Happy-MBGD0S.png"
 		}
 	]
 }
