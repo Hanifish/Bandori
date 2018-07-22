@@ -71,6 +71,24 @@
 			"icon": "http://i.bandori.party/u/c/875Tsugumi-Hazawa-Happy-%E6%A5%BD%E3%81%97%E3%81%84%E8%A9%A6%E9%A3%9F%E4%BC%9A-ksF5PA.png",
 			"img": "http://i.bandori.party/u/c/art/875Tsugumi-Hazawa-Happy-%E6%A5%BD%E3%81%97%E3%81%84%E8%A9%A6%E9%A3%9F%E4%BC%9A-qjXbeL.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/875Tsugumi-Hazawa-Happy-%E6%A5%BD%E3%81%97%E3%81%84%E8%A9%A6%E9%A3%9F%E4%BC%9A-09M1u3.png"
+		},
+		{
+			"id": 969,
+			"name": "(Barissta) Tsugumi Hazawa",
+			"nick": "tsugumi",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "Can I Make Tea...?",
+			"skill": "Restores life by 300 and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Happy",
+			"pf": 8748,
+			"tech": 8990,
+			"vis": 10250,
+			"total": 27988,
+			"origin": "Event: Calling Card! Evening Phantom Thieves (20 July 2018)",
+			"icon": "https://i.bandori.party/u/c/969Tsugumi-Hazawa-Happy-URbj9k.png",
+			"img": "https://i.bandori.party/u/c/art/969Tsugumi-Hazawa-Happy-SuSiCt.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/969Tsugumi-Hazawa-Happy-hjN7U1.png"
 		}
 	]
 }

@@ -53,6 +53,24 @@
 			"icon": "https://i.bandori.party/u/c/921Michelle-Power-SQjc65.png",
 			"img": "https://i.bandori.party/u/c/art/921Michelle-Power-g0e0eI.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/921Michelle-Power-eo1xKI.png"
+		},
+		{
+			"id": 962,
+			"name": "(Why Did It Turn Out Like This) Misaki Okusawa",
+			"nick": "misaki",
+			"alias": "ur4",
+			"star": "4",
+			"skname": "Treasure Hunt",
+			"skill": "Restores life by 300 and boosts score of all notes by 60.0% for the next 5 seconds.",
+			"stat": "Pure",
+			"pf": 9834,
+			"tech": 10462,
+			"vis": 11545,
+			"total": 31841,
+			"origin": "Gacha: Exciting Tropical Adventure (10 July 2018)",
+			"icon": "https://i.bandori.party/u/c/962Misaki-Okusawa-Pure-dXGarK.png",
+			"img": "https://i.bandori.party/u/c/art/962Misaki-Okusawa-Pure-a137mf.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/962Misaki-Okusawa-Pure-FX890r.png"
 		}
 	]
 }

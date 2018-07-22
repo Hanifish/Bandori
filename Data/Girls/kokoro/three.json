@@ -71,6 +71,24 @@
 			"icon": "https://i.bandori.party/u/c/900Kokoro-Tsurumaki-Cool-Let-s-Go-Guys-10NGz2.png",
 			"img": "https://i.bandori.party/u/c/art/900Kokoro-Tsurumaki-Cool-xJbblr.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/900Kokoro-Tsurumaki-Cool-bRSMC9.png"
+		},
+		{
+			"id": 966,
+			"name": "(An Exciting Discovery) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "Happy Adventure~",
+			"skill": "For the next 5 seconds, if life is 900 or above, score boosted by +65.0%, otherwise, score boosted by +55.0%.",
+			"stat": "Pure",
+			"pf": 10305,
+			"tech": 9018,
+			"vis": 8668,
+			"total": 27991,
+			"origin": "Gacha: Exciting Tropical Adventure (10 July 2018)",
+			"icon": "https://i.bandori.party/u/c/966Kokoro-Tsurumaki-Pure-pd2sVj.png",
+			"img": "https://i.bandori.party/u/c/art/966Kokoro-Tsurumaki-Pure-w05tIL.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/966Kokoro-Tsurumaki-Pure-NJcWOD.png"
 		}
 	]
 }

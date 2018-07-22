@@ -53,6 +53,24 @@
 			"icon": "https://i.bandori.party/u/c/904Kanon-Matsubara-Cool-Shop-til-you-Drop-PBJKeB.png",
 			"img": "https://i.bandori.party/u/c/art/904Kanon-Matsubara-Cool-1Ll16a.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/904Kanon-Matsubara-Cool-0gIOEo.png"
+		},
+		{
+			"id": 963,
+			"name": "(All of My Bravery) Kanon Matsubara",
+			"nick": "kanon",
+			"alias": "ur4",
+			"star": "4",
+			"skname": "Trusting Senpai",
+			"skill": "For the next 5 seconds, score of all notes boosted by +100.0%.",
+			"stat": "Pure",
+			"pf": 10493,
+			"tech": 9922,
+			"vis": 11124,
+			"total": 31539,
+			"origin": "Gacha: Exciting Tropical Adventure (10 July 2018)",
+			"icon": "https://i.bandori.party/u/c/963Kanon-Matsubara-Pure-gTcMqh.png",
+			"img": "https://i.bandori.party/u/c/art/963Kanon-Matsubara-Pure-TMoTrL.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/963Kanon-Matsubara-Pure-Nm0pnS.png"
 		}
 	]
 }

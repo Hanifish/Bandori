@@ -125,6 +125,24 @@
 			"icon": "https://i.bandori.party/u/c/923None-Cool-lgqp2l.png",
 			"img": "https://i.bandori.party/u/c/art/923None-Cool-MF37So.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/923None-Cool-MF37So.png"
+		},
+		{
+			"id": 960,
+			"name": "(Smiling Tryst) Kokoro Tsurumaki",
+			"nick": "kokoro",
+			"alias": "r8",
+			"star": "2",
+			"skname": "Glittering Milky Way",
+			"skill": "Restores life by 200 and boosts score of all notes by 10.0% for the next 5 seconds.",
+			"stat": "Pure",
+			"pf": 4990,
+			"tech": 4631,
+			"vis": 5467,
+			"total": 15088,
+			"origin": "Event: On Sunday, We Got Separated at the Park (30 June 2018)",
+			"icon": "https://i.bandori.party/u/c/960Kokoro-Tsurumaki-Pure-mAHJgx.png",
+			"img": "https://i.bandori.party/u/c/art/960Kokoro-Tsurumaki-Pure-kMZk8K.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/960Kokoro-Tsurumaki-Pure-kMZk8K.png"
 		}
 	]
 }

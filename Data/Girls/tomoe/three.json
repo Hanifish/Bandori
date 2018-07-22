@@ -71,6 +71,24 @@
 			"icon": "https://i.bandori.party/u/c/934Tomoe-Udagawa-Happy-07AmTo.png",
 			"img": "https://i.bandori.party/u/c/art/934Tomoe-Udagawa-Happy-9FZVFJ.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/934Tomoe-Udagawa-Happy-nXztjA.png"
+		},
+		{
+			"id": 970,
+			"name": "(Festa) Tomoe Udagawa",
+			"nick": "tomoe",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "Leave it to Me!",
+			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Powerful",
+			"pf": 7966,
+			"tech": 8698,
+			"vis": 10872,
+			"total": 27536,
+			"origin": "Event: Calling Card! Evening Phantom Thieves (20 July 2018)",
+			"icon": "https://i.bandori.party/u/c/970Tomoe-Udagawa-Power-Fwfvuz.png",
+			"img": "https://i.bandori.party/u/c/art/970Tomoe-Udagawa-Power-d1lmL8.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/970Tomoe-Udagawa-Power-wgyIkT.png"
 		}
 	]
 }

@@ -89,6 +89,24 @@
 			"icon": "https://i.bandori.party/u/c/929Saaya-Yamabuki-Happy-ARYKqC.png",
 			"img": "https://i.bandori.party/u/c/art/929Saaya-Yamabuki-Happy-keidau.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/929Saaya-Yamabuki-Happy-lT4dnT.png"
+		},
+		{
+			"id": 959,
+			"name": "(Puppet Show) Saaya Yamabuki",
+			"nick": "saaya",
+			"alias": "sr6",
+			"star": "3",
+			"skname": "This Is A Wonderful Smile's Story",
+			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Pure",
+			"pf": 8998,
+			"tech": 11148,
+			"vis": 7393,
+			"total": 27539,
+			"origin": "Event: On Sunday, We Got Separated at the Park (30 June 2018)",
+			"icon": "https://i.bandori.party/u/c/959Saaya-Yamabuki-Pure-cFrXba.png",
+			"img": "https://i.bandori.party/u/c/art/959Saaya-Yamabuki-Pure-VZdYIr.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/959Saaya-Yamabuki-Pure-SMyhtu.png"
 		}
 	]
 }

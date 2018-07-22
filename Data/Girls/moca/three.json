@@ -71,6 +71,24 @@
 			"icon": "https://i.bandori.party/u/c/907Moca-Aoba-Power-%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E5%AF%84%E3%82%8A%E9%81%93-L1i2Tj.png",
 			"img": "https://i.bandori.party/u/c/art/907Moca-Aoba-Power-%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E5%AF%84%E3%82%8A%E9%81%93-x4S1y1.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/907Moca-Aoba-Power-%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E5%AF%84%E3%82%8A%E9%81%93-QZgGIm.png"
+		},
+		{
+			"id": 971,
+			"name": "(Hungry) Moca Aoba",
+			"nick": "moca",
+			"alias": "sr5",
+			"star": "3",
+			"skname": "We Can't Afford to Relax",
+			"skill": "For the next 5 seconds, score of all notes boosted by +60.0%.",
+			"stat": "Cool",
+			"pf": 10037,
+			"tech": 8748,
+			"vis": 9204,
+			"total": 27989,
+			"origin": "Gacha: Gorgeous Scarlet Stage (20 July 2018)",
+			"icon": "https://i.bandori.party/u/c/971Moca-Aoba-Cool-wM4dyJ.png",
+			"img": "https://i.bandori.party/u/c/art/971Moca-Aoba-Cool-pgc6Wt.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/971Moca-Aoba-Cool-Vz6Hyk.png"
 		}
 	]
 }

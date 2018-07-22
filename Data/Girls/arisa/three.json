@@ -89,6 +89,24 @@
 			"icon": "https://i.bandori.party/u/c/928Arisa-Ichigaya-Pure-56r4RR.png",
 			"img": "https://i.bandori.party/u/c/art/928Arisa-Ichigaya-Pure-Gf5ITS.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/928Arisa-Ichigaya-Pure-N1iHGY.png"
+		},
+		{
+			"id": 961,
+			"name": "(Nostalgic Tanzaku) Arisa Ichigaya",
+			"nick": "arisa",
+			"alias": "sr6",
+			"star": "3",
+			"skname": "Wish Fragment",
+			"skill": "For the next 5 seconds, if life is 900 or above, score boosted by +65.0%, otherwise, score boosted by +55.0%.",
+			"stat": "Cool",
+			"pf": 8907,
+			"tech": 9875,
+			"vis": 9201,
+			"total": 27983,
+			"origin": "Gacha: Tanabata Nostalgia (30 June 2018)",
+			"icon": "https://i.bandori.party/u/c/961Arisa-Ichigaya-Cool-tJblj6.png",
+			"img": "https://i.bandori.party/u/c/art/961Arisa-Ichigaya-Cool-8eS7nC.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/961Arisa-Ichigaya-Cool-0UFsDD.png"
 		}
 	]
 }

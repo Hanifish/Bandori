@@ -53,6 +53,24 @@
 			"icon": "https://i.bandori.party/u/c/898Ran-Mitake-Power-An-Unchanging-Friendship-XXu2rD.png",
 			"img": "https://i.bandori.party/u/c/art/898Ran-Mitake-Power-C1QUY1.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/898Ran-Mitake-Power-CErgVc.png"
+		},
+		{
+			"id": 967,
+			"name": "(Scarlet) Ran Mitake",
+			"nick": "ran",
+			"alias": "ur4",
+			"star": "4",
+			"skname": "I'll Reveal Your True Form!",
+			"skill": "For the next 5 seconds, score of all notes boosted by +100.0%.",
+			"stat": "Cool",
+			"pf": 11364,
+			"tech": 9834,
+			"vis": 10343,
+			"total": 31541,
+			"origin": "Gacha: Gorgeous Scarlet Stage (20 July 2018)",
+			"icon": "https://i.bandori.party/u/c/967Ran-Mitake-Cool-vJURUh.png",
+			"img": "https://i.bandori.party/u/c/art/967Ran-Mitake-Cool-A3nIyS.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/967Ran-Mitake-Cool-25EljH.png"
 		}
 	]
 }

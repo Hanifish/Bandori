@@ -89,6 +89,24 @@
 			"icon": "http://i.bandori.party/u/c/850Hagumi-Kitazawa-Pure-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-3toZTq.png",
 			"img": "http://i.bandori.party/u/c/art/850Hagumi-Kitazawa-Pure-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-rURGOR.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/850Hagumi-Kitazawa-Pure-%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-rURGOR.png"
+		},
+		{
+			"id": 965,
+			"name": "(A Great Adventure) Hagumi Kitazawa",
+			"nick": "hagumi",
+			"alias": "r6",
+			"star": "2",
+			"skname": "It Isn't Scary If We're Together",
+			"skill": "All GREAT notes turn into PERFECT notes and boosts score of all notes by 10.0% for the next 5 seconds.",
+			"stat": "Happy",
+			"pf": 5798,
+			"tech": 4140,
+			"vis": 4820,
+			"total": 14758,
+			"origin": "Event: Hello Happy Adventure! ~Smiling Sleeping Treasure Island~ (10 July 2018)",
+			"icon": "https://i.bandori.party/u/c/965Hagumi-Kitazawa-Happy-YYlqI8.png",
+			"img": "https://i.bandori.party/u/c/art/965Hagumi-Kitazawa-Happy-xMYeF3.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/965Hagumi-Kitazawa-Happy-xMYeF3.png"
 		}
 	]
 }

@@ -35,6 +35,24 @@
 			"icon": "https://i.bandori.party/u/c/905Himari-Uehara-Happy-%E7%A7%81%E9%81%94-%E5%8F%82%E4%B8%8A%E3%81%A3-s6haRA.png",
 			"img": "https://i.bandori.party/u/c/art/905Himari-Uehara-Happy-%E7%A7%81%E9%81%94-%E5%8F%82%E4%B8%8A%E3%81%A3-IQL9fi.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/905Himari-Uehara-Happy-%E7%A7%81%E9%81%94-%E5%8F%82%E4%B8%8A%E3%81%A3-DEYV1y.png"
+		},
+		{
+			"id": 968,
+			"name": "(Gorgeous) Himari Uehara",
+			"nick": "himari",
+			"alias": "ur3",
+			"star": "4",
+			"skname": "I Want to Change the World!",
+			"skill": "For the next 5 seconds, if life is 900 or above, score boosted by +110.0%, otherwise, score boosted by +90.0%.",
+			"stat": "Cool",
+			"pf": 9922,
+			"tech": 10013,
+			"vis": 11607,
+			"total": 31542,
+			"origin": "Gacha: Gorgeous Scarlet Stage (20 July 2018)",
+			"icon": "https://i.bandori.party/u/c/968Himari-Uehara-Cool-grF945.png",
+			"img": "https://i.bandori.party/u/c/art/968Himari-Uehara-Cool-VY3kjM.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/968Himari-Uehara-Cool-guXEHI.png"
 		}
 	]
 }

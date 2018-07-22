@@ -71,6 +71,24 @@
 			"icon": "https://i.bandori.party/u/c/925Kasumi-Toyama-Happy-2jdLvt.png",
 			"img": "https://i.bandori.party/u/c/art/925Kasumi-Toyama-Happy-622smB.png",
 			"imgbloomed": "https://i.bandori.party/u/c/art/a/925Kasumi-Toyama-Happy-HHj9Ds.png"
+		},
+		{
+			"id": 957,
+			"name": "(Familiar Route) Kasumi Toyama",
+			"nick": "kasumi",
+			"alias": "ur5",
+			"star": "4",
+			"skname": "Kasumi-chan & Haa-chan",
+			"skill": "All GOOD notes turn into PERFECT notes and boosts score of all notes by 60.0% for the next 5 seconds.",
+			"stat": "Cool",
+			"pf": 10642,
+			"tech": 9413,
+			"vis": 11782,
+			"total": 31837,
+			"origin": "Gacha: Tanabata Nostalgia (30 June 2018)",
+			"icon": "https://i.bandori.party/u/c/957Kasumi-Toyama-Cool-jYTdMo.png",
+			"img": "https://i.bandori.party/u/c/art/957Kasumi-Toyama-Cool-dwykQP.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/957Kasumi-Toyama-Cool-g0ULkK.png"
 		}
 	]
 }

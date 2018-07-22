@@ -53,6 +53,24 @@
 			"icon": "http://i.bandori.party/u/c/798Kaoru-Seta-Pure-%E3%81%A8%E3%81%A6%E3%82%82%E5%84%9A%E3%81%84%E7%94%9F%E3%81%8D%E7%89%A9-kQBH5J.png",
 			"img": "http://i.bandori.party/u/c/art/798Kaoru-Seta-Pure-%E3%81%A8%E3%81%A6%E3%82%82%E5%84%9A%E3%81%84%E7%94%9F%E3%81%8D%E7%89%A9-Glo9ST.png",
 			"imgbloomed": "http://i.bandori.party/u/c/art/a/798Kaoru-Seta-Pure-%E3%81%A8%E3%81%A6%E3%82%82%E5%84%9A%E3%81%84%E7%94%9F%E3%81%8D%E7%89%A9-xELTUK.png"
+		},
+		{
+			"id": 964,
+			"name": "(I'm With You) Kaoru Seta",
+			"nick": "kaoru",
+			"alias": "sr4",
+			"star": "3",
+			"skname": "The Grand Adventurer",
+			"skill": "Restores life by 300 and boosts score of all notes by 20.0% for the next 5 seconds.",
+			"stat": "Powerful",
+			"pf": 9069,
+			"tech": 10115,
+			"vis": 8803,
+			"total": 27987,
+			"origin": "Event: Hello Happy Adventure! ~Smiling Sleeping Treasure Island~ (10 July 2018)",
+			"icon": "https://i.bandori.party/u/c/964Kaoru-Seta-Power-sE3sZw.png",
+			"img": "https://i.bandori.party/u/c/art/964Kaoru-Seta-Power-fQtnfh.png",
+			"imgbloomed": "https://i.bandori.party/u/c/art/a/964Kaoru-Seta-Power-704mLZ.png"
 		}
 	]
 }
